@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<!--
+Configuration file for WebGrab+Plus, the incremental Electronic-Program-Guide web grabber
+by Jan van Straaten, Nov 2010 
+Version V1.0.2 Beta
+added mode w, proxy, channel attribute site_channel
+
+-->
+<settings>
+
+  <filename>C:\Documents and Settings\All Users\Application Data\TVxb\xml\test.xml</filename>
+<!--  
+  <mode>m, n, f</mode>
+ --> 
+  <mode>m, n, #</mode> 
+  <proxy>automatic</proxy>
+  <user-agent>random</user-agent> 
+  <logging>on</logging>
+  <retry time-out="5">3</retry>
+  <skip>13, 1</skip>
+
+  <timespan>0</timespan>
+  
+   <!-- update mode
+  i or incremental only updates of changes , gabs, repairs and new shows
+  l or light   forces update of today and new shows, rest as incremental
+  s or smart   forces udate of today and tomorrow and new shows, rest as light
+  f or full or force   forces full update 
+  If one of these values is entered here it will apply to all channels selected for update 
+  (see channel).  This value overrules the value of 'update' for in the individual channels 
+  If no value is entered here the individual 'update' values from the channellist are taken -->
+  <update></update>
+<channel update="i" site="mydigiguide.com.simple" site_id="51283" xmltv_id="AlJazeeraArabe.nws">Al Jazeera Arabe</channel>
+
+ </settings>

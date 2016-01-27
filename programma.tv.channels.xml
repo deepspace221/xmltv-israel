@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/48 -- Jan van Straaten" site="programma.tv">
+  <channels>
+    <channel update="i" site="programma.tv" site_id="1tv" xmltv_id="Первый">Первый</channel>
+    <channel update="i" site="programma.tv" site_id="russia" xmltv_id="Россия-1">Россия-1</channel>
+    <channel update="i" site="programma.tv" site_id="ntv" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="programma.tv" site_id="tnt-tv" xmltv_id="ТНТ">ТНТ</channel>
+    <channel update="i" site="programma.tv" site_id="rtr-sport" xmltv_id="Россия-2">Россия-2</channel>
+    <channel update="i" site="programma.tv" site_id="ctc-tv" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="programma.tv" site_id="ren-tv" xmltv_id="REN TV">REN TV</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-tv1000" xmltv_id="Viasat TV1000">Viasat TV1000</channel>
+    <channel update="i" site="programma.tv" site_id="eurosport" xmltv_id="Евроспорт">Евроспорт</channel>
+    <channel update="i" site="programma.tv" site_id="tv3russia" xmltv_id="ТВ3">ТВ3</channel>
+    <channel update="i" site="programma.tv" site_id="spbtv" xmltv_id="Пятый канал">Пятый канал</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-sport" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-tv1000-ru" xmltv_id="Viasat TV1000RU">Viasat TV1000RU</channel>
+    <channel update="i" site="programma.tv" site_id="tvkultura" xmltv_id="Россия-К">Россия-К</channel>
+    <channel update="i" site="programma.tv" site_id="dtv" xmltv_id="Перец">Перец</channel>
+    <channel update="i" site="programma.tv" site_id="discoveryru" xmltv_id="Дискавери">Дискавери</channel>
+    <channel update="i" site="programma.tv" site_id="eurosport2" xmltv_id="Евроспорт 2">Евроспорт 2</channel>
+    <channel update="i" site="programma.tv" site_id="domashniy" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="programma.tv" site_id="tvci" xmltv_id="ТВ Центр">ТВ Центр</channel>
+    <channel update="i" site="programma.tv" site_id="zvezda" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-explorer" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="programma.tv" site_id="tv100" xmltv_id="СТО">СТО</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="programma.tv" site_id="tv-xxi-ru" xmltv_id="TV-XXI">TV-XXI</channel>
+    <channel update="i" site="programma.tv" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="programma.tv" site_id="tdktv" xmltv_id="TDK">TDK</channel>
+    <channel update="i" site="programma.tv" site_id="o2tv" xmltv_id="O2TV">O2TV</channel>
+    <channel update="i" site="programma.tv" site_id="ocean-tv" xmltv_id="Ocean-TV">Ocean-TV</channel>
+    <channel update="i" site="programma.tv" site_id="nostalgya" xmltv_id="Ностальгия">Ностальгия</channel>
+    <channel update="i" site="programma.tv" site_id="muz-tv" xmltv_id="Муз">Муз</channel>
+    <channel update="i" site="programma.tv" site_id="u-tv" xmltv_id="Ю">Ю</channel>
+    <channel update="i" site="programma.tv" site_id="kidsworld" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="programma.tv" site_id="kinoklub" xmltv_id="НТВ-ПЛЮС Киноклуб">НТВ-ПЛЮС Киноклуб</channel>
+    <channel update="i" site="programma.tv" site_id="kinohit" xmltv_id="НТВ-ПЛЮС Кинохит">НТВ-ПЛЮС Кинохит</channel>
+    <channel update="i" site="programma.tv" site_id="multimania" xmltv_id="Мультимания">Мультимания</channel>
+    <channel update="i" site="programma.tv" site_id="kinomania" xmltv_id="Киномания">Киномания</channel>
+    <channel update="i" site="programma.tv" site_id="romantica" xmltv_id="Романтика">Романтика</channel>
+    <channel update="i" site="programma.tv" site_id="retro-tv" xmltv_id="Ретро-ТВ">Ретро-ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="rbc-tv" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="programma.tv" site_id="rusillusion" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
+    <channel update="i" site="programma.tv" site_id="vh1-ru" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="programma.tv" site_id="drive" xmltv_id="Drive">Drive</channel>
+    <channel update="i" site="programma.tv" site_id="zdorovoe-tv" xmltv_id="Здоровое ТВ">Здоровое ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="ohotairybalka" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="programma.tv" site_id="komedia" xmltv_id="Комедия ТВ">Комедия ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="russkayanoch" xmltv_id="Русская Ночь">Русская Ночь</channel>
+    <channel update="i" site="programma.tv" site_id="boets" xmltv_id="Боец">Боец</channel>
+    <channel update="i" site="programma.tv" site_id="ngeographics-ru" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="programma.tv" site_id="shkolnik" xmltv_id="Школьник ТВ">Школьник ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="mirtv" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="programma.tv" site_id="nickelodeon-ru" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="programma.tv" site_id="animal-ru" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="programma.tv" site_id="animal-europe-ru" xmltv_id="Animal Planet Europe">Animal Planet Europe</channel>
+    <channel update="i" site="programma.tv" site_id="discovery-science-ru" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="programma.tv" site_id="discovery-world" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="programma.tv" site_id="extreme-ru" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="programma.tv" site_id="bbcprime-ru" xmltv_id="ВВС Entertainment">ВВС Entertainment</channel>
+    <channel update="i" site="programma.tv" site_id="nsst-tv" xmltv_id="НСТ">НСТ</channel>
+    <channel update="i" site="programma.tv" site_id="ugra-tv" xmltv_id="ЮГРА">ЮГРА</channel>
+    <channel update="i" site="programma.tv" site_id="motors-tv" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="programma.tv" site_id="indiatv" xmltv_id="Индия ТВ">Индия ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="365tv" xmltv_id="365 дней ТВ">365 дней ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="mnogo-tv" xmltv_id="Много ТВ">Много ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="auto-plus" xmltv_id="Авто+">Авто+</channel>
+    <channel update="i" site="programma.tv" site_id="laminor" xmltv_id="Ля-Минор">Ля-Минор</channel>
+    <channel update="i" site="programma.tv" site_id="teletravelhd" xmltv_id="Телепутешествия HD">Телепутешествия HD</channel>
+    <channel update="i" site="programma.tv" site_id="kinopokazhd2" xmltv_id="Кинопоказ HD-2">Кинопоказ HD-2</channel>
+    <channel update="i" site="programma.tv" site_id="kinopokazhd1" xmltv_id="Кинопоказ HD-1">Кинопоказ HD-1</channel>
+    <channel update="i" site="programma.tv" site_id="zootv" xmltv_id="Zoo TV">Zoo TV</channel>
+    <channel update="i" site="programma.tv" site_id="kinopokaz" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="programma.tv" site_id="ru-extreme" xmltv_id="Русский Экстрим">Русский Экстрим</channel>
+    <channel update="i" site="programma.tv" site_id="2-dom-kino" xmltv_id="2 Дом кино">2 Дом кино</channel>
+    <channel update="i" site="programma.tv" site_id="3-music" xmltv_id="3 Музыка">3 Музыка</channel>
+    <channel update="i" site="programma.tv" site_id="4-vremya" xmltv_id="4 Время">4 Время</channel>
+    <channel update="i" site="programma.tv" site_id="natgeowild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="programma.tv" site_id="24techno" xmltv_id="24 Техно">24 Техно</channel>
+    <channel update="i" site="programma.tv" site_id="kidscotv" xmltv_id="KidsCo">KidsCo</channel>
+    <channel update="i" site="programma.tv" site_id="tnv" xmltv_id="ТНВ">ТНВ</channel>
+    <channel update="i" site="programma.tv" site_id="teletravel" xmltv_id="Телепутешествия">Телепутешествия</channel>
+    <channel update="i" site="programma.tv" site_id="teen-tv" xmltv_id="Teen TV">Teen TV</channel>
+    <channel update="i" site="programma.tv" site_id="arirang-world" xmltv_id="Arirang World">Arirang World</channel>
+    <channel update="i" site="programma.tv" site_id="tv5monde" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="programma.tv" site_id="realmadrid" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="programma.tv" site_id="espnclassic" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="programma.tv" site_id="bbcworld" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="programma.tv" site_id="euronews-ru" xmltv_id="Евроньюс">Евроньюс</channel>
+    <channel update="i" site="programma.tv" site_id="tvcint" xmltv_id="ТВЦ Международный">ТВЦ Международный</channel>
+    <channel update="i" site="programma.tv" site_id="telecafe-ru" xmltv_id="Telecafe">Telecafe</channel>
+    <channel update="i" site="programma.tv" site_id="2x2" xmltv_id="2x2">2x2</channel>
+    <channel update="i" site="programma.tv" site_id="fox-ru" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="programma.tv" site_id="fox-life-ru" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-action" xmltv_id="Viasat TV1000 Action">Viasat TV1000 Action</channel>
+    <channel update="i" site="programma.tv" site_id="kuhnyatv" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="interesnoetv" xmltv_id="Интересное ТВ">Интересное ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="bulvartv" xmltv_id="STV">STV</channel>
+    <channel update="i" site="programma.tv" site_id="tonustv" xmltv_id="Тонус ТВ">Тонус ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="prodengi" xmltv_id="PRODеньги">PRODеньги</channel>
+    <channel update="i" site="programma.tv" site_id="vkt-semya" xmltv_id="СемьЯ">СемьЯ</channel>
+    <channel update="i" site="programma.tv" site_id="zakontv" xmltv_id="законТВ">законТВ</channel>
+    <channel update="i" site="programma.tv" site_id="sarafantv" xmltv_id="Сарафан-ТВ">Сарафан-ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="rtr-planeta" xmltv_id="РТР Планета">РТР Планета</channel>
+    <channel update="i" site="programma.tv" site_id="football-tv" xmltv_id="Футбол">Футбол</channel>
+    <channel update="i" site="programma.tv" site_id="mama-tv" xmltv_id="Мать и дитя">Мать и дитя</channel>
+    <channel update="i" site="programma.tv" site_id="kto-is-kto" xmltv_id="Кто есть кто">Кто есть кто</channel>
+    <channel update="i" site="programma.tv" site_id="pgame" xmltv_id="RAP">RAP</channel>
+    <channel update="i" site="programma.tv" site_id="axn-sci-fi" xmltv_id="AXN Sci-Fi">AXN Sci-Fi</channel>
+    <channel update="i" site="programma.tv" site_id="a-one-ru" xmltv_id="A-One">A-One</channel>
+    <channel update="i" site="programma.tv" site_id="set-russia" xmltv_id="SONY ТВ (SET)">SONY ТВ (SET)</channel>
+    <channel update="i" site="programma.tv" site_id="expert-tv" xmltv_id="Эксперт ТВ">Эксперт ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="park-entertainment" xmltv_id="Парк Развлечений">Парк Развлечений</channel>
+    <channel update="i" site="programma.tv" site_id="top-secret" xmltv_id="Совершенно Секретно">Совершенно Секретно</channel>
+    <channel update="i" site="programma.tv" site_id="khl" xmltv_id="КХЛ ТВ">КХЛ ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="belarus-tv" xmltv_id="Беларусь ТВ">Беларусь ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="eight-channel-by" xmltv_id="Восьмой канал">Восьмой канал</channel>
+    <channel update="i" site="programma.tv" site_id="ont" xmltv_id="ОНТ">ОНТ</channel>
+    <channel update="i" site="programma.tv" site_id="lad" xmltv_id="Беларусь 2">Беларусь 2</channel>
+    <channel update="i" site="programma.tv" site_id="tvr" xmltv_id="Первый канал">Первый канал</channel>
+    <channel update="i" site="programma.tv" site_id="pov-sport-1" xmltv_id="Спорт 1">Спорт 1</channel>
+    <channel update="i" site="programma.tv" site_id="one-plus-one" xmltv_id="1 + 1">1 + 1</channel>
+    <channel update="i" site="programma.tv" site_id="ua5" xmltv_id="Пятый">Пятый</channel>
+    <channel update="i" site="programma.tv" site_id="enter-film" xmltv_id="Enter Film">Enter Film</channel>
+    <channel update="i" site="programma.tv" site_id="ictv" xmltv_id="ICTV">ICTV</channel>
+    <channel update="i" site="programma.tv" site_id="gamma" xmltv_id="Гамма">Гамма</channel>
+    <channel update="i" site="programma.tv" site_id="inter" xmltv_id="Интер">Интер</channel>
+    <channel update="i" site="programma.tv" site_id="k1" xmltv_id="К1">К1</channel>
+    <channel update="i" site="programma.tv" site_id="megasport" xmltv_id="Мега">Мега</channel>
+    <channel update="i" site="programma.tv" site_id="interplus" xmltv_id="Интер+">Интер+</channel>
+    <channel update="i" site="programma.tv" site_id="k2" xmltv_id="К2">К2</channel>
+    <channel update="i" site="programma.tv" site_id="ntn" xmltv_id="НТН">НТН</channel>
+    <channel update="i" site="programma.tv" site_id="novy" xmltv_id="Новый">Новый</channel>
+    <channel update="i" site="programma.tv" site_id="tvsme" xmltv_id="Первый деловой">Первый деловой</channel>
+    <channel update="i" site="programma.tv" site_id="rada" xmltv_id="Рада">Рада</channel>
+    <channel update="i" site="programma.tv" site_id="pov-sport-2" xmltv_id="Спорт 2">Спорт 2</channel>
+    <channel update="i" site="programma.tv" site_id="34ua" xmltv_id="34">34</channel>
+    <channel update="i" site="programma.tv" site_id="utr" xmltv_id="УТР">УТР</channel>
+    <channel update="i" site="programma.tv" site_id="ctb" xmltv_id="СТБ">СТБ</channel>
+    <channel update="i" site="programma.tv" site_id="tet" xmltv_id="ТЕТ">ТЕТ</channel>
+    <channel update="i" site="programma.tv" site_id="4multimania" xmltv_id="4 Мультимания">4 Мультимания</channel>
+    <channel update="i" site="programma.tv" site_id="lnt" xmltv_id="LNT">LNT</channel>
+    <channel update="i" site="programma.tv" site_id="ltv1" xmltv_id="LTV1">LTV1</channel>
+    <channel update="i" site="programma.tv" site_id="ltv7" xmltv_id="LTV7">LTV7</channel>
+    <channel update="i" site="programma.tv" site_id="tv3lv" xmltv_id="TV3 Latvia">TV3 Latvia</channel>
+    <channel update="i" site="programma.tv" site_id="tv6lv" xmltv_id="TV6 Latvia">TV6 Latvia</channel>
+    <channel update="i" site="programma.tv" site_id="psikhologiya21" xmltv_id="Психология21">Психология21</channel>
+    <channel update="i" site="programma.tv" site_id="qa" xmltv_id="Вопросы и Ответы">Вопросы и Ответы</channel>
+    <channel update="i" site="programma.tv" site_id="home-animals" xmltv_id="Домашние животные">Домашние животные</channel>
+    <channel update="i" site="programma.tv" site_id="stream-rus-life" xmltv_id="Stream Russian Life">Stream Russian Life</channel>
+    <channel update="i" site="programma.tv" site_id="jv" xmltv_id="Живи!">Живи!</channel>
+    <channel update="i" site="programma.tv" site_id="tro" xmltv_id="ТРО">ТРО</channel>
+    <channel update="i" site="programma.tv" site_id="israel-plus" xmltv_id="Израиль плюс">Израиль плюс</channel>
+    <channel update="i" site="programma.tv" site_id="womanhd" xmltv_id="Женский мир HD">Женский мир HD</channel>
+    <channel update="i" site="programma.tv" site_id="zagorodny" xmltv_id="Загородный">Загородный</channel>
+    <channel update="i" site="programma.tv" site_id="discovery-id" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="programma.tv" site_id="syfy-universal" xmltv_id="SyFy Universal">SyFy Universal</channel>
+    <channel update="i" site="programma.tv" site_id="universal-channel" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="programma.tv" site_id="radost-moya" xmltv_id="Радость моя">Радость моя</channel>
+    <channel update="i" site="programma.tv" site_id="strana" xmltv_id="Страна">Страна</channel>
+    <channel update="i" site="programma.tv" site_id="9tv-orbita" xmltv_id="Девятый Орбита">Девятый Орбита</channel>
+    <channel update="i" site="programma.tv" site_id="9tv" xmltv_id="Девятый канал">Девятый канал</channel>
+    <channel update="i" site="programma.tv" site_id="disney-ru" xmltv_id="Disney Channel Russia">Disney Channel Russia</channel>
+    <channel update="i" site="programma.tv" site_id="znanie" xmltv_id="Знание">Знание</channel>
+    <channel update="i" site="programma.tv" site_id="tvpmr" xmltv_id="Первый республиканский">Первый республиканский</channel>
+    <channel update="i" site="programma.tv" site_id="stolitsa" xmltv_id="Москва 24">Москва 24</channel>
+    <channel update="i" site="programma.tv" site_id="tv-soyuz" xmltv_id="Союз">Союз</channel>
+    <channel update="i" site="programma.tv" site_id="otstv" xmltv_id="ОТС">ОТС</channel>
+    <channel update="i" site="programma.tv" site_id="diva-universal" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="programma.tv" site_id="shanson-tv" xmltv_id="Шансон ТВ">Шансон ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-premiere" xmltv_id="Премьера">Премьера</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-kinoplus" xmltv_id="Кино плюс">Кино плюс</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-football" xmltv_id="НТВ-ПЛЮС Футбол">НТВ-ПЛЮС Футбол</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-hdsport" xmltv_id="HD спорт">HD спорт</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-hdlife" xmltv_id="HD Life">HD Life</channel>
+    <channel update="i" site="programma.tv" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-nashenovoekino" xmltv_id="Наше новое кино">Наше новое кино</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-basketball" xmltv_id="НТВ-ПЛЮС Баскетбол">НТВ-ПЛЮС Баскетбол</channel>
+    <channel update="i" site="programma.tv" site_id="gulli" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="programma.tv" site_id="mtvrocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="programma.tv" site_id="tvrain" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="programma.tv" site_id="playboytv" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="programma.tv" site_id="musicboxru" xmltv_id="RUSSIAN MUSICBOX">RUSSIAN MUSICBOX</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-tennis" xmltv_id="НТВ-ПЛЮС Теннис">НТВ-ПЛЮС Теннис</channel>
+    <channel update="i" site="programma.tv" site_id="mtvdance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="programma.tv" site_id="teleclub" xmltv_id="Телеклуб">Телеклуб</channel>
+    <channel update="i" site="programma.tv" site_id="tcm" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="programma.tv" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="programma.tv" site_id="zone-reality" xmltv_id="Zone Reality">Zone Reality</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-sport-plus" xmltv_id="СПОРТ ПЛЮС">СПОРТ ПЛЮС</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-sport-online" xmltv_id="НТВ-ПЛЮС Спорт Онлайн">НТВ-ПЛЮС Спорт Онлайн</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-nashe-kino" xmltv_id="Наше Кино">Наше Кино</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-sport" xmltv_id="НТВ-ПЛЮС Спорт">НТВ-ПЛЮС Спорт</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-football2" xmltv_id="НТВ-ПЛЮС Футбол 2">НТВ-ПЛЮС Футбол 2</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-hdkino" xmltv_id="HD Кино">HD Кино</channel>
+    <channel update="i" site="programma.tv" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="programma.tv" site_id="cnn" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="programma.tv" site_id="mgm" xmltv_id="MGM">MGM</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-kinosoyz" xmltv_id="Киносоюз">Киносоюз</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-nash-football" xmltv_id="НТВ-ПЛЮС Наш Футбол">НТВ-ПЛЮС Наш Футбол</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-3d" xmltv_id="НТВ-ПЛЮС 3D by Panasonic">НТВ-ПЛЮС 3D by Panasonic</channel>
+    <channel update="i" site="programma.tv" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="programma.tv" site_id="tiji" xmltv_id="Tiji TV">Tiji TV</channel>
+    <channel update="i" site="programma.tv" site_id="france24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="programma.tv" site_id="mezzo-live-hd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="programma.tv" site_id="vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="programma.tv" site_id="discovery-hd-showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="programma.tv" site_id="eurosport-hd" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="programma.tv" site_id="mantv" xmltv_id="MAN TV">MAN TV</channel>
+    <channel update="i" site="programma.tv" site_id="amazinglife" xmltv_id="Amazing Life">Amazing Life</channel>
+    <channel update="i" site="programma.tv" site_id="spas-tv" xmltv_id="Спас">Спас</channel>
+    <channel update="i" site="programma.tv" site_id="rutv" xmltv_id="RU.TV">RU.TV</channel>
+    <channel update="i" site="programma.tv" site_id="karusel" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="programma.tv" site_id="abmoteurs" xmltv_id="AB Moteurs">AB Moteurs</channel>
+    <channel update="i" site="programma.tv" site_id="utv" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="programma.tv" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="programma.tv" site_id="vgtrk-sport-1" xmltv_id="Спорт 1">Спорт 1</channel>
+    <channel update="i" site="programma.tv" site_id="illusion-plus" xmltv_id="Иллюзион+">Иллюзион+</channel>
+    <channel update="i" site="programma.tv" site_id="detsky" xmltv_id="Детский">Детский</channel>
+    <channel update="i" site="programma.tv" site_id="zoopark" xmltv_id="Zooпарк">Zooпарк</channel>
+    <channel update="i" site="programma.tv" site_id="eurokino" xmltv_id="Еврокино">Еврокино</channel>
+    <channel update="i" site="programma.tv" site_id="tlc-ru" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="programma.tv" site_id="doverie" xmltv_id="Доверие">Доверие</channel>
+    <channel update="i" site="programma.tv" site_id="tvarm" xmltv_id="ТВ АРМ">ТВ АРМ</channel>
+    <channel update="i" site="programma.tv" site_id="animaux" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="programma.tv" site_id="encyclo" xmltv_id="Encyclopedie">Encyclopedie</channel>
+    <channel update="i" site="programma.tv" site_id="escales" xmltv_id="Escales">Escales</channel>
+    <channel update="i" site="programma.tv" site_id="xxl" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="programma.tv" site_id="domatv" xmltv_id="Домашний Магазин">Домашний Магазин</channel>
+    <channel update="i" site="programma.tv" site_id="rt" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="programma.tv" site_id="teatr" xmltv_id="Театр">Театр</channel>
+    <channel update="i" site="programma.tv" site_id="pro100tv" xmltv_id="Pro100TV">Pro100TV</channel>
+    <channel update="i" site="programma.tv" site_id="ftvru" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="programma.tv" site_id="looktv" xmltv_id="Look TV">Look TV</channel>
+    <channel update="i" site="programma.tv" site_id="spb24" xmltv_id="Санкт-Петербург">Санкт-Петербург</channel>
+    <channel update="i" site="programma.tv" site_id="moya-planeta" xmltv_id="Моя планета">Моя планета</channel>
+    <channel update="i" site="programma.tv" site_id="tvoytvspb" xmltv_id="ТВОЙ ТВ Петербург">ТВОЙ ТВ Петербург</channel>
+    <channel update="i" site="programma.tv" site_id="smiletv" xmltv_id="Улыбка ребенка">Улыбка ребенка</channel>
+    <channel update="i" site="programma.tv" site_id="tbn" xmltv_id="ТБН">ТБН</channel>
+    <channel update="i" site="programma.tv" site_id="rodnoyil" xmltv_id="Родной (Израиль)">Родной (Израиль)</channel>
+    <channel update="i" site="programma.tv" site_id="zeerussia" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="programma.tv" site_id="qtv" xmltv_id="Куй ТВ">Куй ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="zik" xmltv_id="ZIK">ZIK</channel>
+    <channel update="i" site="programma.tv" site_id="realestate" xmltv_id="Real Estate TV">Real Estate TV</channel>
+    <channel update="i" site="programma.tv" site_id="glasua" xmltv_id="Глас">Глас</channel>
+    <channel update="i" site="programma.tv" site_id="kiko" xmltv_id="Кико">Кико</channel>
+    <channel update="i" site="programma.tv" site_id="8tvru" xmltv_id="8 канал">8 канал</channel>
+    <channel update="i" site="programma.tv" site_id="two-plus-two" xmltv_id="2 + 2">2 + 2</channel>
+    <channel update="i" site="programma.tv" site_id="city-kiev" xmltv_id="Сiтi">Сiтi</channel>
+    <channel update="i" site="programma.tv" site_id="kulturaua" xmltv_id="Культура (Украина)">Культура (Украина)</channel>
+    <channel update="i" site="programma.tv" site_id="tviua" xmltv_id="ТВi">ТВi</channel>
+    <channel update="i" site="programma.tv" site_id="tonisua" xmltv_id="Тонiс">Тонiс</channel>
+    <channel update="i" site="programma.tv" site_id="malyatko" xmltv_id="Малятко">Малятко</channel>
+    <channel update="i" site="programma.tv" site_id="ubcua" xmltv_id="UBC">UBC</channel>
+    <channel update="i" site="programma.tv" site_id="24tvua" xmltv_id="Телеканал новин «24»">Телеканал новин «24»</channel>
+    <channel update="i" site="programma.tv" site_id="bukovina" xmltv_id="ТРК Буковина">ТРК Буковина</channel>
+    <channel update="i" site="programma.tv" site_id="ukraina" xmltv_id="ТРК Украiна">ТРК Украiна</channel>
+    <channel update="i" site="programma.tv" site_id="zagorod-tv" xmltv_id="Загородная жизнь">Загородная жизнь</channel>
+    <channel update="i" site="programma.tv" site_id="muzhskoy" xmltv_id="Мужской">Мужской</channel>
+    <channel update="i" site="programma.tv" site_id="uspeh" xmltv_id="Успех">Успех</channel>
+    <channel update="i" site="programma.tv" site_id="maxxi" xmltv_id="Максi.тв">Максi.тв</channel>
+    <channel update="i" site="programma.tv" site_id="ttc" xmltv_id="ТТС">ТТС</channel>
+    <channel update="i" site="programma.tv" site_id="fox-life-ru-hd" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel update="i" site="programma.tv" site_id="ngeographics-ru-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="programma.tv" site_id="natgeowild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="programma.tv" site_id="english-club" xmltv_id="English Club">English Club</channel>
+    <channel update="i" site="programma.tv" site_id="nauka20" xmltv_id="Наука 2.0">Наука 2.0</channel>
+    <channel update="i" site="programma.tv" site_id="vgtrk-sport-2" xmltv_id="Спорт 2">Спорт 2</channel>
+    <channel update="i" site="programma.tv" site_id="russia24" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="programma.tv" site_id="24dok" xmltv_id="24 Док">24 Док</channel>
+    <channel update="i" site="programma.tv" site_id="vgtrk-fight-club" xmltv_id="Бойцовский клуб">Бойцовский клуб</channel>
+    <channel update="i" site="programma.tv" site_id="ntvplus-kinolux" xmltv_id="Кинолюкс">Кинолюкс</channel>
+    <channel update="i" site="programma.tv" site_id="prosveshenie" xmltv_id="Просвещение">Просвещение</channel>
+    <channel update="i" site="programma.tv" site_id="vst" xmltv_id="Всегда с тобой">Всегда с тобой</channel>
+    <channel update="i" site="programma.tv" site_id="vkt" xmltv_id="ВКТ">ВКТ</channel>
+    <channel update="i" site="programma.tv" site_id="piktv" xmltv_id="ПИК">ПИК</channel>
+    <channel update="i" site="programma.tv" site_id="nanotv" xmltv_id="NANO TV">NANO TV</channel>
+    <channel update="i" site="programma.tv" site_id="russever" xmltv_id="Русский север">Русский север</channel>
+    <channel update="i" site="programma.tv" site_id="21ch" xmltv_id="21+">21+</channel>
+    <channel update="i" site="programma.tv" site_id="rtvi" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="programma.tv" site_id="lovekino" xmltv_id="Любимое кино">Любимое кино</channel>
+    <channel update="i" site="programma.tv" site_id="ntvmir" xmltv_id="НТВ Мир">НТВ Мир</channel>
+    <channel update="i" site="programma.tv" site_id="fenixpluskino" xmltv_id="Феникс+Кино">Феникс+Кино</channel>
+    <channel update="i" site="programma.tv" site_id="oruzhie" xmltv_id="Оружие">Оружие</channel>
+    <channel update="i" site="programma.tv" site_id="raztv" xmltv_id="Раз ТВ">Раз ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="galaxy-tv" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="programma.tv" site_id="dw-tv" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="programma.tv" site_id="adult-channel" xmltv_id="Adult Channel">Adult Channel</channel>
+    <channel update="i" site="programma.tv" site_id="privatespice" xmltv_id="Private Spice">Private Spice</channel>
+    <channel update="i" site="programma.tv" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="programma.tv" site_id="travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="programma.tv" site_id="rusroman" xmltv_id="Русский роман">Русский роман</channel>
+    <channel update="i" site="programma.tv" site_id="comedytv" xmltv_id="Comedy TV">Comedy TV</channel>
+    <channel update="i" site="programma.tv" site_id="davincilearning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="programma.tv" site_id="tlc-pan-reg" xmltv_id="TLC Pan Regional">TLC Pan Regional</channel>
+    <channel update="i" site="programma.tv" site_id="zaoknom" xmltv_id="За окном">За окном</channel>
+    <channel update="i" site="programma.tv" site_id="discovery-europe-ru" xmltv_id="Discovery Europe">Discovery Europe</channel>
+    <channel update="i" site="programma.tv" site_id="itv16" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="programma.tv" site_id="footballua" xmltv_id="ФУТБОЛ">ФУТБОЛ</channel>
+    <channel update="i" site="programma.tv" site_id="footballplusua" xmltv_id="ФУТБОЛ+">ФУТБОЛ+</channel>
+    <channel update="i" site="programma.tv" site_id="ohotnikirybolov" xmltv_id="Охотник и рыболов">Охотник и рыболов</channel>
+    <channel update="i" site="programma.tv" site_id="ohotnikirybolovhd" xmltv_id="Охотник и рыболов HD">Охотник и рыболов HD</channel>
+    <channel update="i" site="programma.tv" site_id="invatv" xmltv_id="Инва Медиа ТВ">Инва Медиа ТВ</channel>
+    <channel update="i" site="programma.tv" site_id="senatasporteu" xmltv_id="Сената Спорт">Сената Спорт</channel>
+    <channel update="i" site="programma.tv" site_id="fox-hd-ru" xmltv_id="Fox HD">Fox HD</channel>
+    <channel update="i" site="programma.tv" site_id="1tv-abroad" xmltv_id="Первый за рубежом">Первый за рубежом</channel>
+    <channel update="i" site="programma.tv" site_id="paramount-comedy-ru" xmltv_id="Paramount Comedy Russia">Paramount Comedy Russia</channel>
+    <channel update="i" site="programma.tv" site_id="travel-plus-adventure" xmltv_id="Travel+Adventure">Travel+Adventure</channel>
+    <channel update="i" site="programma.tv" site_id="rusbestseller" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
+    <channel update="i" site="programma.tv" site_id="russiahd" xmltv_id="Россия HD">Россия HD</channel>
+  </channels>
+</site>

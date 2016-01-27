@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<!--
+Configuration file for WebGrab+Plus, the incremental Electronic-Program-Guide web grabber
+by Jan van Straaten, Nov 2010 
+Version V1.0.2 Beta
+added mode w, proxy, channel attribute site_channel
+
+-->
+<settings>
+
+  <filename>C:\Documents and Settings\All Users\Application Data\TVxb\xml\israel2webgrab.xml</filename>
+<!--  
+  <mode>m, n, f</mode>
+ --> 
+  <mode>m, n, #</mode> 
+  <proxy>automatic</proxy>
+  <user-agent>random</user-agent> 
+  <logging>on</logging>
+  <skip>13, 1</skip>
+  <timespan>2</timespan>
+  
+   <!-- update mode
+  i or incremental only updates of changes , gabs, repairs and new shows
+  l or light   forces update of today and new shows, rest as incremental
+  s or smart   forces udate of today and tomorrow and new shows, rest as light
+  f or full or force   forces full update 
+  If one of these values is entered here it will apply to all channels selected for update 
+  (see channel).  This value overrules the value of 'update' for in the individual channels 
+  If no value is entered here the individual 'update' values from the channellist are taken -->
+  <update></update>
+
+  <!--Israel-->
+ 
+<channels>
+<!-- 41 channels -->
+<!-- Music HOT -->
+<channel update="i" site="hot.net.il" site_id="523" xmltv_id="MTVRocks.il">MTV Rocks</channel>  
+<channel update="i" site="hot.net.il" site_id="698" xmltv_id="MezzoLiveHD.il">Mezzo LIVE HD</channel> <!-- Don't remove. Different than mezzo SD -->
+<channel update="i" site="hot.net.il" site_id="740" xmltv_id="ClubbingTV.il">CLUBBING TV</channel>  
+<channel update="i" site="hot.net.il" site_id="767" xmltv_id="VintageTV.il">Vintage TV</channel>  
+<channel update="i" site="hot.net.il" site_id="775" xmltv_id="MTVSeries.il">MTV סדרות</channel>
+
+<!-- News HOT -->
+<channel update="i" site="hot.net.il" site_id="771" xmltv_id="DWNews.il">DW NEWS EUROPE</channel>
+<channel update="i" site="hot.net.il" site_id="441" xmltv_id="BBCWorldNews.il">BBC World News</channel>
+<channel update="i" site="hot.net.il" site_id="697" xmltv_id="MSNBC.il">MSNBC</channel>    
+<channel update="i" site="hot.net.il" site_id="447" xmltv_id="CCTVNews.il">CCTV News</channel>
+
+<!-- Sport HOT -->
+<channel update="i" site="hot.net.il" site_id="745" xmltv_id="SportTrace.il">Trace</channel>
+<channel update="i" site="hot.net.il" site_id="761" xmltv_id="MotorTV.il">Motor TV</channel>
+
+<!-- Kids Hot -->
+<channel update="i" site="hot.net.il" site_id="513" xmltv_id="Junior.il">ג'וניור</channel>
+<channel update="i" site="hot.net.il" site_id="395" xmltv_id="Baby(HOT).il">בייבי</channel> <!-- Different than yes baby.il -->
+
+<!-- Entertainment HOT -->
+<channel update="i" site="hot.net.il" site_id="772" xmltv_id="HOTPlus.il">HOT Plus</channel>
+<channel update="i" site="hot.net.il" site_id="682" xmltv_id="HOTComedyCentral.il">הוט קומדי סנטרל</channel> 
+<channel update="i" site="hot.net.il" site_id="469" xmltv_id="FTV(HOT).il">FTV</channel> <!-- Different than yes channel -->
+<channel update="i" site="hot.net.il" site_id="470" xmltv_id="FTVHD(HOT).il">FTV HD</channel> <!-- Different than SD channel. Different than yes. -->
+<channel update="i" site="hot.net.il" site_id="801" xmltv_id="DogTV.il">Dog TV</channel>
+
+<!-- Widen your horizon HOT -->
+<channel update="i" site="hot.net.il" site_id="791" xmltv_id="FoxBusiness.il">Fox Business</channel>
+<channel update="i" site="hot.net.il" site_id="742" xmltv_id="DiscoveryScience.il">Discovery Science</channel>
+<channel update="i" site="hot.net.il" site_id="452" xmltv_id="Daystar.il">Daystar</channel> <!-- Gospal channel -->
+
+<!-- Foreign Languages HOT -->
+<channel update="i" site="hot.net.il" site_id="545" xmltv_id="TelefeInt.il">Telefe</channel> <!-- Italian -->
+<channel update="i" site="hot.net.il" site_id="769" xmltv_id="CANAL24HORAS.il">CANAL 24 HORAS</channel> <!-- Italian -->
+<channel update="i" site="hot.net.il" site_id="550" xmltv_id="TVRi.il">TVRi</channel> <!-- Italian -->
+<channel update="i" site="hot.net.il" site_id="546" xmltv_id="TRT1.il">TRT1</channel> <!-- Turkish -->
+<channel update="i" site="hot.net.il" site_id="798" xmltv_id="KRALTV.il">KRAL</channel> <!-- Turkish -->
+<channel update="i" site="hot.net.il" site_id="802" xmltv_id="DWDeutsch.il">DW Deutsch</channel> <!-- German -->
+<channel update="i" site="hot.net.il" site_id="548" xmltv_id="TV5MONDE.il">TV5MONDE</channel> <!-- France -->
+<channel update="i" site="hot.net.il" site_id="549" xmltv_id="TVE.il">TVE</channel> <!-- Spanish -->
+
+<!-- Arabic HOT  -->
+<channel update="i" site="hot.net.il" site_id="515" xmltv_id="mbc.il">MBC</channel> 
+<channel update="i" site="hot.net.il" site_id="459" xmltv_id="Egypt.il">מצרים</channel> 
+
+<!-- Russian HOT -->
+<channel update="i" site="hot.net.il" site_id="719" xmltv_id="RUTV.il">RU TV</channel>
+<channel update="i" site="hot.net.il" site_id="718" xmltv_id="OutdoorHD.il">OUTDOOR HD</channel>   
+<channel update="i" site="hot.net.il" site_id="715" xmltv_id="TNT.il">Comedy TV</channel>
+<channel update="i" site="hot.net.il" site_id="720" xmltv_id="RussianTravelGuide.il">Russian Travel Guide</channel>
+<channel update="i" site="hot.net.il" site_id="714" xmltv_id="1+1.il">1+1</channel> <!-- different then 1+1 international -->
+<channel update="i" site="hot.net.il" site_id="512" xmltv_id="inter.il">inter+</channel>
+<channel update="i" site="hot.net.il" site_id="765" xmltv_id="RTVC.il">RTVC</channel>
+
+</channels>
+</settings>

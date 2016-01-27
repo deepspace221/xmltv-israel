@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="yo.tv">
+  <channels>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26179" xmltv_id="RTP1">RTP1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26180" xmltv_id="RTP2">RTP2</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26302" xmltv_id="SIC">SIC</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26529" xmltv_id="TVI">TVI</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35891" xmltv_id="SIC Notícias (Portugal)">SIC Notícias (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35524" xmltv_id="RTP Informação">RTP Informação</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35554" xmltv_id="TVI 24 (Portugal)">TVI 24 (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:42311" xmltv_id="CMTV (Portugal)">CMTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35528" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35526" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37621" xmltv_id="TVI Ficção (Portugal) 11">TVI Ficção (Portugal) 11</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37593" xmltv_id="A Bola TV (Portugal) 12">A Bola TV (Portugal) 12</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35515" xmltv_id="Porto canal">Porto canal</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37598" xmltv_id="Canal Q (Portugal)">Canal Q (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35637" xmltv_id="Económico TV (Portugal) 16">Económico TV (Portugal) 16</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35638" xmltv_id="Económico TV HDTV (Portugal) 16">Económico TV HDTV (Portugal) 16</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35522" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35305" xmltv_id="RTP Açores">RTP Açores</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35306" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35533" xmltv_id="Sport TV1">Sport TV1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35538" xmltv_id="Sport TV2">Sport TV2</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35539" xmltv_id="Sport TV3">Sport TV3</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:53120" xmltv_id="Sport TV 4 23">Sport TV 4 23</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:53123" xmltv_id="Sport TV 5 24">Sport TV 5 24</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35534" xmltv_id="Sport TV1 HDTV">Sport TV1 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35535" xmltv_id="Sport TV2 HDTV">Sport TV2 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35536" xmltv_id="Sport TV3 HDTV">Sport TV3 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:53121" xmltv_id="Sport TV 4 HDTV 28">Sport TV 4 HDTV 28</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:53124" xmltv_id="Sport TV 5 HDTV 29">Sport TV 5 HDTV 29</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29809" xmltv_id="Benfica TV">Benfica TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:44215" xmltv_id="Benfica TV HDTV 32">Benfica TV HDTV 32</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35640" xmltv_id="Eurosport HDTV (Portugal)">Eurosport HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29808" xmltv_id="Eurosport (Portugal)">Eurosport (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35641" xmltv_id="Eurosport 2 (Portugal)">Eurosport 2 (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35633" xmltv_id="Disney Channel (Portugal)">Disney Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37620" xmltv_id="SIC K (Portugal) 41">SIC K (Portugal) 41</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35512" xmltv_id="Panda Biggs (Portugal)">Panda Biggs (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35511" xmltv_id="Panda (Portugal)">Panda (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:38435" xmltv_id="Disney Junior (Portugal)">Disney Junior (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25587" xmltv_id="JimJam Pan-Europe">JimJam Pan-Europe</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37577" xmltv_id="Baby TV (Portugal)">Baby TV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:47344" xmltv_id="Cartoon Network (Portugal)">Cartoon Network (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35549" xmltv_id="TV Cine 1">TV Cine 1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35734" xmltv_id="TV Cine 2">TV Cine 2</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35552" xmltv_id="TV Cine 3">TV Cine 3</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35553" xmltv_id="TV Cine 4">TV Cine 4</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35550" xmltv_id="TV Cine 1 HDTV">TV Cine 1 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35551" xmltv_id="TV Cine 2 HDTV">TV Cine 2 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37714" xmltv_id="TV Cine 3 HDTV 56">TV Cine 3 HDTV 56</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37715" xmltv_id="TV Cine 4 HDTV 57">TV Cine 4 HDTV 57</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:55306" xmltv_id="Cinemundo HDTV 61">Cinemundo HDTV 61</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:55305" xmltv_id="Cinemundo 62">Cinemundo 62</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35652" xmltv_id="Canal Hollywood HDTV (Portugal)">Canal Hollywood HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35649" xmltv_id="Canal Hollywood (Portugal)">Canal Hollywood (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37606" xmltv_id="Fox Movies HDTV (Portugal)">Fox Movies HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35642" xmltv_id="Fox (Portugal)">Fox (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35647" xmltv_id="Fox Movies (Portugal)">Fox Movies (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37908" xmltv_id="AMC (Portugal)">AMC (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37604" xmltv_id="EuroChannel (Portugal)">EuroChannel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37626" xmltv_id="TV Séries (Portugal) 70">TV Séries (Portugal) 70</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35555" xmltv_id="TV Séries HDTV">TV Séries HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35626" xmltv_id="AXN HDTV (Portugal)">AXN HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35625" xmltv_id="AXN (Portugal)">AXN (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35582" xmltv_id="AXN Black HDTV (Portugal)">AXN Black HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35581" xmltv_id="AXN Black (Portugal)">AXN Black (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37596" xmltv_id="AXN White HDTV (Portugal) 84">AXN White HDTV (Portugal) 84</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37590" xmltv_id="AXN White (Portugal) 85">AXN White (Portugal) 85</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35646" xmltv_id="Fox HDTV (Portugal)">Fox HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35643" xmltv_id="Fox Life HDTV (Portugal)">Fox Life HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35645" xmltv_id="Fox Life (Portugal)">Fox Life (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37605" xmltv_id="Fox Crime HDTV (Portugal)">Fox Crime HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35644" xmltv_id="Fox Crime (Portugal)">Fox Crime (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35656" xmltv_id="MTV (Portugal)">MTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37601" xmltv_id="E! Entertainment HDTV (Portugal)">E! Entertainment HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35636" xmltv_id="E! Entertainment (Portugal)">E! Entertainment (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26141" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:34849" xmltv_id="TLC (Pan european)">TLC (Pan european)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:53858" xmltv_id="A&amp;E (Portugal) 105">A&amp;E (Portugal) 105</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25119" xmltv_id="Fine Living Network">Fine Living Network</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37599" xmltv_id="Casa Club (Portugal)">Casa Club (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25413" xmltv_id="Fashion TV HDTV">Fashion TV HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25446" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:32801" xmltv_id="Luxe.TV HD">Luxe.TV HD</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35546" xmltv_id="Travel Channel HDTV (Portugal)">Travel Channel HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35545" xmltv_id="Travel Channel (Portugal)">Travel Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:43448" xmltv_id="Food Network EMEA HDTV">Food Network EMEA HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29005" xmltv_id="Food Network UK">Food Network UK</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35022" xmltv_id="24 Kitchen HDTV (Netherlands)">24 Kitchen HDTV (Netherlands)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:42294" xmltv_id="24 Kitchen HDTV (Portugal) 115">24 Kitchen HDTV (Portugal) 115</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:42126" xmltv_id="24 Kitchen (Portugal) 116">24 Kitchen (Portugal) 116</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35629" xmltv_id="Discovery Channel (Portugal)">Discovery Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35630" xmltv_id="Discovery Science (Portugal)">Discovery Science (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35681" xmltv_id="Historia (Portugal)">Historia (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35659" xmltv_id="National Geographic Channel HDTV (Portugal)">National Geographic Channel HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35658" xmltv_id="National Geographic Channel (Portugal)">National Geographic Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35684" xmltv_id="National Geographic Wild HDTV (Portugal)">National Geographic Wild HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35660" xmltv_id="National Geographic Wild (Portugal)">National Geographic Wild (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:33348" xmltv_id="Purescreens Nature HDTV 137">Purescreens Nature HDTV 137</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:32622" xmltv_id="Purescreens Museum HDTV 139">Purescreens Museum HDTV 139</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26699" xmltv_id="VH1 (Europe)">VH1 (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35057" xmltv_id="Trace Urban HDTV (France)">Trace Urban HDTV (France)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35892" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25742" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25736" xmltv_id="MCM POP">MCM POP</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29796" xmltv_id="I-Concerts HDTV">I-Concerts HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:33540" xmltv_id="Clubbing TV HDTV">Clubbing TV HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:32615" xmltv_id="Clubbing TV">Clubbing TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:36462" xmltv_id="Brava HDTV FR 150">Brava HDTV FR 150</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25850" xmltv_id="Mezzo Live HDTV">Mezzo Live HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25756" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29794" xmltv_id="C Music (UK)">C Music (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35683" xmltv_id="Fuel HDTV (Portugal)">Fuel HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35648" xmltv_id="Fuel TV (Portugal)">Fuel TV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25839" xmltv_id="Motors TV (Europe)">Motors TV (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26246" xmltv_id="Nautical Channel (EU)">Nautical Channel (EU)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:32821" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37597" xmltv_id="CaçaVision (Portugal) 167">CaçaVision (Portugal) 167</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29993" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:32385" xmltv_id="Barça TV (Spain)">Barça TV (Spain)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25830" xmltv_id="Manchester United TV">Manchester United TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25097" xmltv_id="Chelsea TV">Chelsea TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:33455" xmltv_id="TV Globo Premium (Europe)">TV Globo Premium (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:51724" xmltv_id="Record TV HDTV (Portugal) 181">Record TV HDTV (Portugal) 181</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:29810" xmltv_id="Record TV (Portugal)">Record TV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:33456" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:37625" xmltv_id="TV Brasil Internacional (Portugal) 184">TV Brasil Internacional (Portugal) 184</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35523" xmltv_id="RTP1 HDTV">RTP1 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:42295" xmltv_id="CMTV HDTV (Portugal)">CMTV HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:30274" xmltv_id="EuroNews (Portugal)">EuroNews (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25155" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26314" xmltv_id="Sky News HQ">Sky News HQ</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25439" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24911" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24787" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24708" xmltv_id="France 24 (UK)">France 24 (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24706" xmltv_id="France 24 (France)">France 24 (France)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24998" xmltv_id="24 Horas">24 Horas</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25859" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24957" xmltv_id="Bloomberg Television (UK/Europe)">Bloomberg Television (UK/Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25894" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:28286" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35760" xmltv_id="AR TV (Portugal)">AR TV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26503" xmltv_id="TVG - Galicia TV">TVG - Galicia TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26626" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:28293" xmltv_id="Cubavisión Internacional">Cubavisión Internacional</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:44271" xmltv_id="Globovisión (EU) 223">Globovisión (EU) 223</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26436" xmltv_id="TV5MONDE (Europe)">TV5MONDE (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25725" xmltv_id="M6">M6</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:24910" xmltv_id="BBC Entertainment (Europe)">BBC Entertainment (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25311" xmltv_id="Deutsche Welle TV">Deutsche Welle TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26181" xmltv_id="RTP África">RTP África</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:35543" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:43248" xmltv_id="TCV - Televisão de Cabo Verde 231">TCV - Televisão de Cabo Verde 231</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:31906" xmltv_id="Channel 1 Russia">Channel 1 Russia</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26121" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:25149" xmltv_id="Phoenix Chinese News &amp; Entertainment">Phoenix Chinese News &amp; Entertainment</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26800" xmltv_id="Zee TV (UK)">Zee TV (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26791" xmltv_id="Zee Cinema (UK)">Zee Cinema (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:30507" xmltv_id="Set Asia">Set Asia</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327466-327467,CHANNEL_ID:26298" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26179" xmltv_id="RTP1">RTP1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26180" xmltv_id="RTP2">RTP2</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26302" xmltv_id="SIC">SIC</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26529" xmltv_id="TVI">TVI</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35524" xmltv_id="RTP Informação">RTP Informação</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35891" xmltv_id="SIC Notícias (Portugal)">SIC Notícias (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35554" xmltv_id="TVI 24 (Portugal)">TVI 24 (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35526" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35528" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26181" xmltv_id="RTP África">RTP África</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35522" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35657" xmltv_id="MVM (Portugal)">MVM (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35519" xmltv_id="Regiões TV 19">Regiões TV 19</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35629" xmltv_id="Discovery Channel (Portugal)">Discovery Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35630" xmltv_id="Discovery Science (Portugal)">Discovery Science (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35681" xmltv_id="Historia (Portugal)">Historia (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35658" xmltv_id="National Geographic Channel (Portugal)">National Geographic Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35660" xmltv_id="National Geographic Wild (Portugal)">National Geographic Wild (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35545" xmltv_id="Travel Channel (Portugal)">Travel Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:53858" xmltv_id="A&amp;E (Portugal) 28">A&amp;E (Portugal) 28</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35625" xmltv_id="AXN (Portugal)">AXN (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35642" xmltv_id="Fox (Portugal)">Fox (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35644" xmltv_id="Fox Crime (Portugal)">Fox Crime (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35647" xmltv_id="Fox Movies (Portugal)">Fox Movies (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35645" xmltv_id="Fox Life (Portugal)">Fox Life (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:37590" xmltv_id="AXN White (Portugal) 36">AXN White (Portugal) 36</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35649" xmltv_id="Canal Hollywood (Portugal)">Canal Hollywood (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25758" xmltv_id="MGM Movie Channel (Europe)">MGM Movie Channel (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35654" xmltv_id="MOV (Portugal)">MOV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35581" xmltv_id="AXN Black (Portugal)">AXN Black (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35550" xmltv_id="TV Cine 1 HDTV">TV Cine 1 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35551" xmltv_id="TV Cine 2 HDTV">TV Cine 2 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35552" xmltv_id="TV Cine 3">TV Cine 3</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35553" xmltv_id="TV Cine 4">TV Cine 4</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35555" xmltv_id="TV Séries HDTV">TV Séries HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:47344" xmltv_id="Cartoon Network (Portugal)">Cartoon Network (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:38435" xmltv_id="Disney Junior (Portugal)">Disney Junior (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24905" xmltv_id="Baby TV (UK)">Baby TV (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25587" xmltv_id="JimJam Pan-Europe">JimJam Pan-Europe</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35633" xmltv_id="Disney Channel (Portugal)">Disney Channel (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35511" xmltv_id="Panda (Portugal)">Panda (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35512" xmltv_id="Panda Biggs (Portugal)">Panda Biggs (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35533" xmltv_id="Sport TV1">Sport TV1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35538" xmltv_id="Sport TV2">Sport TV2</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35539" xmltv_id="Sport TV3">Sport TV3</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:53120" xmltv_id="Sport TV 4 63">Sport TV 4 63</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:53123" xmltv_id="Sport TV 5 65">Sport TV 5 65</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:39261" xmltv_id="MCS Tennis HDTV 66">MCS Tennis HDTV 66</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:29808" xmltv_id="Eurosport (Portugal)">Eurosport (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35641" xmltv_id="Eurosport 2 (Portugal)">Eurosport 2 (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:29809" xmltv_id="Benfica TV">Benfica TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:44215" xmltv_id="Benfica TV HDTV 71">Benfica TV HDTV 71</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25839" xmltv_id="Motors TV (Europe)">Motors TV (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:28301" xmltv_id="MCS Extrême">MCS Extrême</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35858" xmltv_id="MCS Bien Être">MCS Bien Être</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:37803" xmltv_id="Kombat Sport HDTV 79">Kombat Sport HDTV 79</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35656" xmltv_id="MTV (Portugal)">MTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26699" xmltv_id="VH1 (Europe)">VH1 (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25742" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25736" xmltv_id="MCM POP">MCM POP</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35892" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25756" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:29794" xmltv_id="C Music (UK)">C Music (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26700" xmltv_id="VH1 Classic (Europe)">VH1 Classic (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25825" xmltv_id="MTV (Europe)">MTV (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:42126" xmltv_id="24 Kitchen (Portugal) 94">24 Kitchen (Portugal) 94</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:34849" xmltv_id="TLC (Pan european)">TLC (Pan european)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35636" xmltv_id="E! Entertainment (Portugal)">E! Entertainment (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25119" xmltv_id="Fine Living Network">Fine Living Network</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24830" xmltv_id="Arte (France)">Arte (France)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26141" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:37599" xmltv_id="Casa Club (Portugal)">Casa Club (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25075" xmltv_id="Chasse et pêche (AB)">Chasse et pêche (AB)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25446" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26383" xmltv_id="Sat.1">Sat.1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24998" xmltv_id="24 Horas">24 Horas</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25859" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26118" xmltv_id="RAI News 24">RAI News 24</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:30274" xmltv_id="EuroNews (Portugal)">EuroNews (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25155" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26314" xmltv_id="Sky News HQ">Sky News HQ</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24911" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24706" xmltv_id="France 24 (France)">France 24 (France)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24787" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24957" xmltv_id="Bloomberg Television (UK/Europe)">Bloomberg Television (UK/Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:33456" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26121" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24708" xmltv_id="France 24 (UK)">France 24 (UK)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:33455" xmltv_id="TV Globo Premium (Europe)">TV Globo Premium (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:29810" xmltv_id="Record TV (Portugal)">Record TV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26626" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26503" xmltv_id="TVG - Galicia TV">TVG - Galicia TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:24777" xmltv_id="Andalucía TV">Andalucía TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26109" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:26436" xmltv_id="TV5MONDE (Europe)">TV5MONDE (Europe)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25725" xmltv_id="M6">M6</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25311" xmltv_id="Deutsche Welle TV">Deutsche Welle TV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:43248" xmltv_id="TCV - Televisão de Cabo Verde 135">TCV - Televisão de Cabo Verde 135</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35543" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25149" xmltv_id="Phoenix Chinese News &amp; Entertainment">Phoenix Chinese News &amp; Entertainment</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35760" xmltv_id="AR TV (Portugal)">AR TV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35548" xmltv_id="TV Mundial">TV Mundial</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:37618" xmltv_id="RIT TV (Europe) 146">RIT TV (Europe) 146</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35523" xmltv_id="RTP1 HDTV">RTP1 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35534" xmltv_id="Sport TV1 HDTV">Sport TV1 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35535" xmltv_id="Sport TV2 HDTV">Sport TV2 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35536" xmltv_id="Sport TV3 HDTV">Sport TV3 HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:53121" xmltv_id="Sport TV 4 HDTV 213">Sport TV 4 HDTV 213</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:53124" xmltv_id="Sport TV 5 HDTV 215">Sport TV 5 HDTV 215</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35640" xmltv_id="Eurosport HDTV (Portugal)">Eurosport HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35659" xmltv_id="National Geographic Channel HDTV (Portugal)">National Geographic Channel HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35687" xmltv_id="Discovery Showcase HDTV (Portugal)">Discovery Showcase HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:32801" xmltv_id="Luxe.TV HD">Luxe.TV HD</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:28304" xmltv_id="Myzen TV HDTV">Myzen TV HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35646" xmltv_id="Fox HDTV (Portugal)">Fox HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:35626" xmltv_id="AXN HDTV (Portugal)">AXN HDTV (Portugal)</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:29796" xmltv_id="I-Concerts HDTV">I-Concerts HDTV</channel>
+    <channel update="i" site="yo.tv" site_id="COUNTRY:pr,PROVIDER_ID:327465,CHANNEL_ID:25850" xmltv_id="Mezzo Live HDTV">Mezzo Live HDTV</channel>
+  </channels>
+</site>
