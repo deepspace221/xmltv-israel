@@ -46,7 +46,6 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="yes.co.il" site_id="PT50" xmltv_id="MTVHD.il">MTV HD</channel>
 
 <!-- News HOT -->
-<channel update="i" site="yes.co.il" site_id="TV12" xmltv_id="CNN.il">CNN</channel>
 <channel update="i" site="yes.co.il" site_id="TV42" xmltv_id="SkyNews.il">Sky News</channel>
 <channel update="i" site="yes.co.il" site_id="TV59" xmltv_id="Bloomberg.il">Bloomberg</channel>
 <channel update="i" site="yes.co.il" site_id="PT44" xmltv_id="NHKWorld.il">NHKWorld</channel>
@@ -80,7 +79,7 @@ added mode w, proxy, channel attribute site_channel
 <!-- Kids HOT -->
 <channel update="i" site="yes.co.il" site_id="TV24" xmltv_id="Hop.il">הופ!</channel>
 <channel update="i" site="yes.co.il" site_id="PT46" xmltv_id="HopIsrael.il">הופ! ילדות ישראלית</channel>
-<channel update="i" site="yes.co.il" site_id="TVR6" xmltv_id="KidsChannel.il">ערוץ הילדים</channel>
+<channel update="i" site="yes.co.il" site_id="TVR6" xmltv_id="Children'sChannel.il">ערוץ הילדים</channel>
 <channel update="i" site="yes.co.il" site_id="PT24" xmltv_id="Logi.il">לוגי</channel>
 <channel update="i" site="yes.co.il" site_id="PT69" xmltv_id="NickJr.il">ניק ג'וניור</channel>
 <channel update="i" site="yes.co.il" site_id="NK01" xmltv_id="Nickelodeon.il">ניקלודיאון</channel>
@@ -224,6 +223,8 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="yes.co.il" site_id="TV09" xmltv_id="Lifestyle.il">Style</channel>
 <channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCI.il">TVCI</channel>
 <channel update="i" site="yes.co.il" site_id="TV49" xmltv_id="TVE.il">TVE</channel>
+<channel update="i" site="yes.co.il" site_id="TV12" xmltv_id="CNN.il">CNN</channel>
+
 
 <!-- Alternates for backup
 <channel update="i" site="tv.walla.co.il" site_id="2//340" xmltv_id="yesBOLLYWOOD.il">HOT BOLLYWOOD</channel>

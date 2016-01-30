@@ -5300,8 +5300,6 @@
 		<transponder frequency="1306000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 		<transponder frequency="1346000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 		<transponder frequency="1354000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-		<!-- SID NIT -->
-		<transponder frequency="1410000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 		<!-- HD transponder (channel 1 HD) 434mhz -->
 		<transponder frequency="1434000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 		<transponder frequency="1442000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
@@ -5324,19 +5322,22 @@
 		<!-- Channel 2 586mhz -->
 		<transponder frequency="1586000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 		<transponder frequency="1594000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-		<!-- Missing from NIT scan 618mhz -->
+		<!-- Missing from NIT scan 618mhz (channel 8, sport channels)-->
 		<transponder frequency="1618000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Missing from NIT scan 642mhz (i24 News, sport trance, discovery science) -->      
+		<transponder frequency="1642000000" symbol_rate="6890000" fec_inner="5" modulation="5" />     	 
+	</sat>
+	<sat name="DVB-C Cable ** SiD ** (Jerusalem)" flags="1" position="65535">
 		<!-- SID NIT -->
-		<transponder frequency="1626000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-		<!-- Missing from NIT scan 642mhz -->      
-		<transponder frequency="1642000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1410000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- SID NIT -->
+		<transponder frequency="1626000000" symbol_rate="6890000" fec_inner="5" modulation="5" />	
 		<!-- SID NIT -->      
-		<transponder frequency="1650000000" symbol_rate="6890000" fec_inner="5" modulation="5" />      
-		<!-- SID Transponders -->
+		<transponder frequency="1650000000" symbol_rate="6890000" fec_inner="5" modulation="5" /> 
 		<transponder frequency="1362000000" symbol_rate="6510000" fec_inner="5" modulation="5" />
 		<transponder frequency="1602000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 		<transponder frequency="1610000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-		<transponder frequency="1634000000" symbol_rate="6890000" fec_inner="5" modulation="5" />	 
+		<transponder frequency="1634000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
 	</sat>
 </satellites>
 

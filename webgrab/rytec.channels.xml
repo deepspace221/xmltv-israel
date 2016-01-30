@@ -89,7 +89,7 @@
 <channel id="Junior.il">1:0:1:57F:E:AB:DE80000:0:0:0:</channel> <!-- TA05-->
 <channel id="Kabala.il">1:0:1:26A:6:AB:DE80000:0:0:0:</channel> <!-- PT33 -->
 <channel id="Kabala.il">1:0:1:58E:E:AB:DE80000:0:0:0:</channel> <!-- PT33 -->
-<channel id="KidsChannel.il">1:0:1:329:8:AB:DE80000:0:0:0:</channel> <!-- TVR6 -->
+<channel id="Children'sChannel">1:0:1:329:8:AB:DE80000:0:0:0:</channel> <!-- TVR6 -->
 <channel id="Lifestyle.il">1:0:1:45E:B:AB:DE80000:0:0:0:</channel> <!-- TV09 -->
 <channel id="Logi.il">1:0:1:265:6:AB:DE80000:0:0:0:</channel> <!-- PT24 -->
 <channel id="MEDIASET.il">1:0:1:4B4:C:AB:DE80000:0:0:0:</channel> <!-- TV43 -->
@@ -330,7 +330,7 @@
 <channel id="Junior.il">1:0:1:145:12:DE:FFFF0000:0:0:0:</channel> <!--  Channel Junior (HOT) ++CABLE++ -->
 <channel id="Kabala.il">1:0:1:99:8:DE:FFFF0000:0:0:0:</channel> <!--  kabbalah channel (HOT) ++CABLE++ -->
 <channel id="Kazakh.il">1:0:1:120:10:DE:FFFF0000:0:0:0:</channel> <!--  Kazakh (HOT) ++CABLE++ -->
-<channel id="KidsChannel.il">1:0:1:B8:B:DE:FFFF0000:0:0:0:</channel> <!--  CHILDREN'S CHANNEL (HOT) ++CABLE++ -->
+<channel id="Children'sChannel">1:0:1:B8:B:DE:FFFF0000:0:0:0:</channel> <!--  CHILDREN'S CHANNEL (HOT) ++CABLE++ -->
 <channel id="KralTV.tu">1:0:1:39E:22:DE:FFFF0000:0:0:0:</channel> <!--  KRALTV (HOT) ++CABLE++ -->
 <channel id="lbc.il">1:0:1:92:8:DE:FFFF0000:0:0:0:</channel> <!--  LBC (HOT) ++CABLE++ -->
 <channel id="Lifetime.il">1:0:1:43:4:DE:FFFF0000:0:0:0:</channel> <!--  Lifetime (HOT) ++CABLE++ -->
@@ -444,6 +444,7 @@
 <channel id="ZeeTV.il">1:0:1:F5:A:DE:FFFF0000:0:0:0:</channel> <!--  ZEE TV (HOT) ++CABLE++ -->
 <channel id="Zoom(HOT).il">1:0:1:2C1:1F:1:FFFF0000:0:0:0:</channel> <!--  Zoom (HOT) ++CABLE++ -->
  <!-- Israel HOT Cable Provider ++CABLE RADIO++ -->
+<channel id="RadioDarom.il">1:0:2:1EE:10:DE:FFFF0000:0:0:0:</channel> <!-- 101.5FM רדיו דרום  (HOT) ++CABLE RADIO++ --> 
 <channel id="RadioDarom.il">1:0:2:1E2:10:DE:FFFF0000:0:0:0:</channel> <!-- 101.5FM רדיו דרום  (HOT) ++CABLE RADIO++ --> 
 <channel id="RadioDarom.il">1:0:2:1576:10:DE:FFFF0000:0:0:0:</channel> <!-- 101.5FM רדיו דרום  (HOT) ++CABLE RADIO++ --> 
 <channel id="KolHamusica.il">1:0:2:1D6:10:DE:FFFF0000:0:0:0:</channel> <!-- 103.7FM קול המוזיקה  (HOT) ++CABLE RADIO++ -->
@@ -466,7 +467,7 @@
 <channel id="EmzaHadereh.il">1:0:2:1E8:10:DE:FFFF0000:0:0:0:</channel> <!-- Emza Hadereh(HOT) ++CABLE RADIO++ -->
 <channel id="RedSeaRadio.il">1:0:2:1E9:10:DE:FFFF0000:0:0:0:</channel> <!-- רדיו ים המלח(HOT) ++CABLE RADIO++ -->
 <channel id="KolHaCampus.il">1:0:2:1EA:10:DE:FFFF0000:0:0:0:</channel> <!--  106FM רדיו קול הקמפוס(HOT) ++CABLE RADIO++ -->
-<channel id="KolRegaRadio.il">1:0:2:1EC:10:DE:FFFF0000:0:0:0:</channel> <!--  96FM רדיו קול רגע(HOT) ++CABLE RADIO++ -->
+<channel id="KolRegaRadio.il"> 1:0:2:1EC:10:DE:FFFF0000:0:0:0:</channel> <!--  96FM רדיו קול רגע(HOT) ++CABLE RADIO++ -->
 <channel id="KolIsraelInArabic.il">1:0:2:1ED:10:DE:FFFF0000:0:0:0:</channel> <!--  90.3FM קול ישראל בערבית(HOT) ++CABLE RADIO++ -->
 <channel id="RadioHamesh.il">1:0:2:1EC:10:DE:FFFF0000:0:0:0:</channel> <!--  99.5FM רדיו חמש(HOT) ++CABLE RADIO++ -->
 <channel id="KolBarama.il">1:0:2:1F0:10:DE:FFFF0000:0:0:0:</channel> <!--   92.1FM קול ברמה (HOT) ++CABLE RADIO++ -->
@@ -476,6 +477,6 @@
 <channel id="VoiceOfHope.il">1:0:2:1F4:10:DE:FFFF0000:0:0:0:</channel> <!--   רדיו קול של תקווה (HOT) ++CABLE RADIO++ -->
 <channel id="GalezIsrael.il">1:0:2:1F7:10:DE:FFFF0000:0:0:0:</channel> <!--  106.5FM רדיו גלי ישראל(HOT) ++CABLE RADIO++ -->
 <channel id="RFI.il">1:0:2:1F9:10:DE:FFFF0000:0:0:0:</channel> <!--  RADIO RFI(HOT) ++CABLE RADIO++ -->
-<channel id="RadioA-Shams.il">1:0:2:1FA:10:DE:FFFF0000:0:0:0:</channel> <!--  98.1FM רדיו אלשמס (HOT) ++CABLE RADIO++ -->
+<channel id="RadioAShams.il">1:0:2:1FA:10:DE:FFFF0000:0:0:0:</channel> <!--  98.1FM רדיו אלשמס (HOT) ++CABLE RADIO++ -->
 <channel id="Gradio.il">1:0:2:128:10:DE:FFFF0000:0:0:0:</channel> <!--  רדיו G (HOT) ++CABLE RADIO++ -->
 </channels>
