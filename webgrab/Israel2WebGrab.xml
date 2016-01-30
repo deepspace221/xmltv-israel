@@ -17,7 +17,7 @@ added mode w, proxy, channel attribute site_channel
   <user-agent>random</user-agent> 
   <logging>on</logging>
   <skip>13, 1</skip>
-  <timespan>2</timespan>
+  <timespan>6</timespan>
   
    <!-- update mode
   i or incremental only updates of changes , gabs, repairs and new shows
@@ -68,25 +68,14 @@ added mode w, proxy, channel attribute site_channel
 
 <!-- Foreign Languages HOT -->
 <channel update="i" site="hot.net.il" site_id="545" xmltv_id="TelefeInt.il">Telefe</channel> <!-- Italian -->
-<channel update="i" site="hot.net.il" site_id="769" xmltv_id="CANAL24HORAS.il">CANAL 24 HORAS</channel> <!-- Italian -->
 <channel update="i" site="hot.net.il" site_id="550" xmltv_id="TVRi.il">TVRi</channel> <!-- Italian -->
-<channel update="i" site="hot.net.il" site_id="546" xmltv_id="TRT1.il">TRT1</channel> <!-- Turkish -->
-<channel update="i" site="hot.net.il" site_id="798" xmltv_id="KRALTV.il">KRAL</channel> <!-- Turkish -->
 <channel update="i" site="hot.net.il" site_id="802" xmltv_id="DWDeutsch.il">DW Deutsch</channel> <!-- German -->
-<channel update="i" site="hot.net.il" site_id="548" xmltv_id="TV5MONDE.il">TV5MONDE</channel> <!-- France -->
-<channel update="i" site="hot.net.il" site_id="549" xmltv_id="TVE.il">TVE</channel> <!-- Spanish -->
 
 <!-- Arabic HOT  -->
 <channel update="i" site="hot.net.il" site_id="515" xmltv_id="mbc.il">MBC</channel> 
 <channel update="i" site="hot.net.il" site_id="459" xmltv_id="Egypt.il">מצרים</channel> 
 
 <!-- Russian HOT -->
-<channel update="i" site="hot.net.il" site_id="719" xmltv_id="RUTV.il">RU TV</channel>
-<channel update="i" site="hot.net.il" site_id="718" xmltv_id="OutdoorHD.il">OUTDOOR HD</channel>   
-<channel update="i" site="hot.net.il" site_id="715" xmltv_id="TNT.il">Comedy TV</channel>
-<channel update="i" site="hot.net.il" site_id="720" xmltv_id="RussianTravelGuide.il">Russian Travel Guide</channel>
-<channel update="i" site="hot.net.il" site_id="714" xmltv_id="1+1.il">1+1</channel> <!-- different then 1+1 international -->
-<channel update="i" site="hot.net.il" site_id="512" xmltv_id="inter.il">inter+</channel>
 <channel update="i" site="hot.net.il" site_id="765" xmltv_id="RTVC.il">RTVC</channel>
 
 </channels>

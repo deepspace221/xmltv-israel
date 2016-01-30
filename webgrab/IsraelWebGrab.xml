@@ -8,7 +8,7 @@ added mode w, proxy, channel attribute site_channel
 -->
 <settings>
 
-  <filename>C:\Documents and Settings\All Users\Application Data\TVxb\xml\test.xml</filename>
+  <filename>C:\Documents and Settings\All Users\Application Data\TVxb\xml\israelwebgrab.xml</filename>
 <!--  
   <mode>m, n, f</mode>
  --> 
@@ -19,7 +19,7 @@ added mode w, proxy, channel attribute site_channel
   <retry time-out="5">3</retry>
   <skip>13, 1</skip>
 
-  <timespan>0</timespan>
+  <timespan>6</timespan>
   
    <!-- update mode
   i or incremental only updates of changes , gabs, repairs and new shows
@@ -30,6 +30,279 @@ added mode w, proxy, channel attribute site_channel
   (see channel).  This value overrules the value of 'update' for in the individual channels 
   If no value is entered here the individual 'update' values from the channellist are taken -->
   <update></update>
+
+<!--Israel-->
+<!-- 131 Channels -->
+
+<!-- Music HOT -->
+<channel update="i" site="yes.co.il" site_id="PT31" xmltv_id="MTVDance.il">MTV Dance</channel>
+<channel offset="-1" same_as="MTVDance.il" xmltv_id="MTVDance(HOT).il">MTV Dance</channel>
+<channel update="i" site="yes.co.il" site_id="TV35" xmltv_id="MTV.il">MTV</channel>
+<channel update="i" site="yes.co.il" site_id="TV37" xmltv_id="VH1.il">VH-1</channel>
+<channel update="i" site="yes.co.il" site_id="TV40" xmltv_id="Mezzo.il">MEZZO</channel>
+<channel update="i" site="yes.co.il" site_id="TV51" xmltv_id="VH-1Classic.il">VH-1 CLASSIC</channel>  
+<channel update="i" site="yes.co.il" site_id="TV67" xmltv_id="Music24.il">MUSIC 24</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//360" xmltv_id="MTVHits.il">MTV Hits</channel>
+<channel update="i" site="yes.co.il" site_id="PT50" xmltv_id="MTVHD.il">MTV HD</channel>
+
+<!-- News HOT -->
+<channel update="i" site="yes.co.il" site_id="TV12" xmltv_id="CNN.il">CNN</channel>
+<channel update="i" site="yes.co.il" site_id="TV42" xmltv_id="SkyNews.il">Sky News</channel>
+<channel update="i" site="yes.co.il" site_id="TV59" xmltv_id="Bloomberg.il">Bloomberg</channel>
+<channel update="i" site="yes.co.il" site_id="PT44" xmltv_id="NHKWorld.il">NHKWorld</channel>
+<channel update="i" site="yes.co.il" site_id="TV13" xmltv_id="FoxNews.il">Fox news</channel>
+<channel update="i" site="yes.co.il" site_id="TV11" xmltv_id="Channel1.il">Channel 1</channel>
+<channel update="i" site="yes.co.il" site_id="TV33" xmltv_id="Channel33.il">ערוץ 33</channel>
+<channel update="i" site="yes.co.il" site_id="PT92" xmltv_id="Channel20.il">ערוץ מורשת</channel>
+<channel update="i" site="yes.co.il" site_id="TV43" xmltv_id="ChannelMikan.il">הערוץ הקהילתי הארצי</channel>  
+<channel update="i" site="yes.co.il" site_id="TV89" xmltv_id="TheKnessetChannel.il">ערוץ הכנסת</channel>
+<channel update="i" site="yes.co.il" site_id="PT18" xmltv_id="France24.il">France 24</channel> <!-- English channel-->
+<channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="Euronews.uk">Euronews</channel>
+<!--
+<channel update="i" site="i24news.tv" site_id="i24News.en.nws" xmltv_id="i24News.en.nws.il">i24News</channel>
+<channel update="i" site="i24news.tv" site_id="i24News.ar.nws" xmltv_id="i24News.ar.nws.il">i24News Arabic</channel>
+-->
+
+<!-- Sport HOT -->
+<channel update="i" site="yes.co.il" site_id="PT22" xmltv_id="Sport1HD.il">Sport 1 HD</channel>
+<channel update="i" site="yes.co.il" site_id="PT23" xmltv_id="Sport2.il">Sport 2</channel>
+<channel update="i" site="yes.co.il" site_id="PT26" xmltv_id="Sport5HD.il">Sport 5 HD</channel>
+<channel update="i" site="yes.co.il" site_id="TVR5" xmltv_id="Sport5.il">Sport 5</channel> <!-- Don't remove. Different than HD channel -->
+<channel update="i" site="yes.co.il" site_id="TV16" xmltv_id="Sport5Plus.il">Sport 5+</channel>
+<channel update="i" site="yes.co.il" site_id="MU03" xmltv_id="5GoldPlus.il">5+ GOLD</channel>
+<channel update="i" site="yes.co.il" site_id="PT54" xmltv_id="OneHD.il">ONE HD</channel>   
+<channel update="i" site="yes.co.il" site_id="PT49" xmltv_id="FoxSportHD.il">FOX SPORT HD</channel>   
+<channel update="i" site="yes.co.il" site_id="TV32" xmltv_id="ExtremeSports.il">Extreme</channel>
+<channel update="i" site="yes.co.il" site_id="PT29" xmltv_id="EgoTotal.il">אגו טוטאל</channel>
+<channel update="i" site="yes.co.il" site_id="PT39" xmltv_id="EuroSportHD.il">EUROSPORT HD</channel>
+<channel update="i" site="yes.co.il" site_id="PT62" xmltv_id="5LivePlus.il">5+ LIVE HD</channel>
+
+<!-- Kids HOT -->
+<channel update="i" site="yes.co.il" site_id="TV24" xmltv_id="Hop.il">הופ!</channel>
+<channel update="i" site="yes.co.il" site_id="PT46" xmltv_id="HopIsrael.il">הופ! ילדות ישראלית</channel>
+<channel update="i" site="yes.co.il" site_id="TVR6" xmltv_id="KidsChannel.il">ערוץ הילדים</channel>
+<channel update="i" site="yes.co.il" site_id="PT24" xmltv_id="Logi.il">לוגי</channel>
+<channel update="i" site="yes.co.il" site_id="PT69" xmltv_id="NickJr.il">ניק ג'וניור</channel>
+<channel update="i" site="yes.co.il" site_id="NK01" xmltv_id="Nickelodeon.il">ניקלודיאון</channel>
+<channel update="i" site="yes.co.il" site_id="PT43" xmltv_id="Disney.il">ערוץ דיסני</channel>
+<channel update="i" site="yes.co.il" site_id="PT59" xmltv_id="DisneyJunior.il">דיסני ג'וניור</channel>
+<channel update="i" site="yes.co.il" site_id="PT48" xmltv_id="JimJam.il">Jim Jam</channel>
+<channel update="i" site="yes.co.il" site_id="PT85" xmltv_id="Zoom.il">Zoom</channel>
+<channel offset="-0.333" same_as="Zoom.il" xmltv_id="Zoom(HOT).il">Zoom</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//350" xmltv_id="HOTlulli.il">HOT לולי</channel>
+
+<!-- Entertainment HOT -->
+<channel update="i" site="yes.co.il" site_id="TV04" xmltv_id="Channel10.il">Channel 10</channel>
+<channel update="i" site="yes.co.il" site_id="TV22" xmltv_id="Channel2.il">Channel 2</channel>
+<channel update="i" site="yes.co.il" site_id="TV23" xmltv_id="Channel23.il">חינוכית</channel>
+<channel update="i" site="yes.co.il" site_id="TV20" xmltv_id="Viva.il">ערוץ ויוה</channel>
+<channel update="i" site="yes.co.il" site_id="PT60" xmltv_id="VivaPlus.il">ערוץ ויוה+</channel> 
+<channel update="i" site="yes.co.il" site_id="TV87" xmltv_id="CBSReality.il">CBS Reality</channel>
+<channel update="i" site="yes.co.il" site_id="TV34" xmltv_id="FTV.il">FTV HD</channel>
+<channel update="i" site="yes.co.il" site_id="TV10" xmltv_id="E.il">E! ערוץ הבידור</channel>
+<channel update="i" site="yes.co.il" site_id="PT12" xmltv_id="Ego.il">אגו</channel>
+<channel update="i" site="yes.co.il" site_id="TV28" xmltv_id="BBCEntertainment.il">BBC Entertainment</channel>    
+<channel update="i" site="yes.co.il" site_id="PT38" xmltv_id="BigBrother.il">Big Brother</channel>
+<channel update="i" site="yes.co.il" site_id="TV21" xmltv_id="Shoppingchannel.il">ערוץ הקניות</channel>
+<channel update="i" site="yes.co.il" site_id="TV02" xmltv_id="metv.il">metv</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//341" xmltv_id="HOTBombay.il">HOT Bombay</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//3179" xmltv_id="hot3.il">HOT3</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="2//3182" xmltv_id="HotZone.il">HOT Zone</channel>
+<channel update="i" site="tv.walla.co.il" site_id="//349" xmltv_id="HOTIsraeliEntertaiment.il">הוט בידור ישראלי</channel>
+
+<!-- Widen your horizon HOT -->
+<channel update="i" site="yes.co.il" site_id="TV18" xmltv_id="Discovery.il">דיסקברי</channel>
+<channel update="i" site="yes.co.il" site_id="PT41" xmltv_id="HomePlus.il">בית+</channel>
+<channel update="i" site="yes.co.il" site_id="PT33" xmltv_id="Kabala.il">ערוץ הקבלה</channel>
+<channel update="i" site="yes.co.il" site_id="PT20" xmltv_id="FoodChannel.il">ערוץ האוכל</channel>
+<channel update="i" site="yes.co.il" site_id="PT28" xmltv_id="TravelChannel.il">ערוץ הטיולים</channel>
+<channel update="i" site="yes.co.il" site_id="PT14" xmltv_id="HealthChannel.il">ערוץ הבריאות</channel>
+<channel update="i" site="yes.co.il" site_id="TV09" xmltv_id="GoodLife.il">Good Life (also called Lifestyle)</channel>
+<channel update="i" site="yes.co.il" site_id="PT30" xmltv_id="Hidabrut.il">ערוץ הידברות</channel>
+<channel update="i" site="yes.co.il" site_id="PT89" xmltv_id="MeirTV.il">TV מאיר</channel>
+<channel update="i" site="yes.co.il" site_id="TV19" xmltv_id="HistoryChannel.il">ערוץ ההיסטוריה</channel> 
+<channel update="i" site="yes.co.il" site_id="PT35" xmltv_id="NGWild.il">NAT GEO WILD</channel>
+<channel update="i" site="yes.co.il" site_id="TV17" xmltv_id="NatGeoHD.il">N. Geographic HD</channel>
+<channel update="i" site="yes.co.il" site_id="PT10" xmltv_id="Lifetime.il">Lifetime</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//559" xmltv_id="Channel8.il">Channel 8</channel>
+<channel update="i" site="uk-sky.com" site_id="3392" xmltv_id="SonLife.uk">SonLife</channel> <!-- Gospal Channel -->
+
+<!-- Movies HOT -->
+<channel update="i" site="yes.co.il" site_id="TV05" xmltv_id="MGM.il">MGM</channel>
+<channel update="i" site="yes.co.il" site_id="TLD1" xmltv_id="MGMHD.il">MGM HD</channel> <!-- Don't remove. Different than SD channel -->
+<channel update="i" site="yes.co.il" site_id="PT02" xmltv_id="HotBOLLYWOOD.il">Bollywood</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//345" xmltv_id="HotGOLD.il">HOT GOLD</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//339" xmltv_id="HotAction.il">HOT Action</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="2//343" xmltv_id="HotDrama.il">HOT Drama</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="2//344" xmltv_id="HotFun.il">HOT Fun</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//346" xmltv_id="HotPrime.il">HOT Prime</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//351" xmltv_id="hotFilms.il">HOT Films</channel>
+<channel update="i" site="yes.co.il" site_id="PT71" xmltv_id="CBSDrama.il">CBS Drama</channel>
+
+<!-- Foreign Languages HOT -->
+<channel update="i" site="yes.co.il" site_id="TV46" xmltv_id="3sat.il">SAT3</channel>  <!-- German -->
+<channel update="i" site="yes.co.il" site_id="TV44" xmltv_id="RTL.il">RTL</channel> <!-- German -->
+<channel update="i" site="yes.co.il" site_id="TV45" xmltv_id="SAT1.il">SAT1</channel> <!-- German -->
+<channel update="i" site="yes.co.il" site_id="TV57" xmltv_id="proTV.il">protv</channel>  <!-- Italian -->
+<channel update="i" site="yes.co.il" site_id="PT64" xmltv_id="MEDIASET.il">MEDIASET</channel> <!-- Italian -->
+<channel update="i" site="yes.co.il" site_id="TV98" xmltv_id="ZeeTV.il">zee tv</channel> <!-- Indian -->
+<channel update="i" site="tv.walla.co.il" site_id="2//354" xmltv_id="ietv.il">ietv</channel>  <!-- African -->
+<channel update="i" site="tv.walla.co.il" site_id="2//333" xmltv_id="DunaTV.il">DUNA TV</channel> <!-- Hungary -->
+<channel update="i" site="elmundo.es" site_id="8" xmltv_id="CANAL24HORAS.sp">Canal 24 horas</channel> <!-- Spanish -->
+<channel update="i" site="elmundo.es" site_id="667" xmltv_id="TVEInternacionalAsia.sp">TVE Internacional Asia</channel> <!-- Spanish -->
+<channel update="i" site="digiturk.com.tr" site_id="65" xmltv_id="KralTV.tu">Kral TV</channel> 
+<channel update="i" site="digiturk.com.tr" site_id="19" xmltv_id="TRT1.tu">TRT1</channel>
+
+<!-- French HOT -->
+<!-- Duplicates. Being grabbed from another file.
+<channel update="i" site="tv5monde.com" site_id="1" xmltv_id="TV5MondeEurope.fr">TV5MONDE Europe</channel>
+<channel update="i" site="playtv.fr" site_id="france-24" xmltv_id="France24fr.fr">France 24</channel>
+-->
+<channel update="i" site="playtv.fr" site_id="france-2" xmltv_id="France2.fr">France 2</channel> <!-- Not a duplicate. Not being grabbed! -->
+<channel update="i" site="playtv.fr" site_id="france-3" xmltv_id="France3.fr">France 3</channel> <!-- Not a duplicate. Not being grabbed! -->
+<channel update="i" site="playtv.fr" site_id="france-5" xmltv_id="France5.fr">France 5</channel> <!-- Not a duplicate. Not being grabbed! -->
+<channel update="i" site="playtv.fr" site_id="i24-news" xmltv_id="i24News.fr.nws">i24 News</channel> <!-- Not a duplicate. XMLTV empty! -->
+<channel update="i" site="playtv.fr" site_id="arte" xmltv_id="Arte.fr">Arte</channel>
+
+
+<!-- Arabic HOT  -->
+<channel update="i" site="yes.co.il" site_id="PT63" xmltv_id="HalaTV.il">Arabic Local Channel</channel>
+<!-- <channel update="i" site="FILL_SITE" site_id="FILL_ID" xmltv_id="France24.ar">France 24</channel> -->
 <channel update="i" site="mydigiguide.com.simple" site_id="51283" xmltv_id="AlJazeeraArabe.nws">Al Jazeera Arabe</channel>
 
+<!-- Russian HOT -->
+<channel update="i" site="tvprograma.lt" site_id="ru-tv/300" xmltv_id="RUTV.ru">Ru TV</channel>
+<channel update="i" site="tvprograma.lt" site_id="outdoor-channel/295" xmltv_id="Outdoor.ru">Outdoor Channel</channel>
+<channel update="i" site="tvprograma.lt" site_id="tnt/49" xmltv_id="TNT.ru">TNT</channel>
+<channel update="i" site="tvprograma.lt" site_id="russian-travel-guide/245" xmltv_id="RussianTravelGuide.ru">Russian Travel Guide</channel>
+<channel update="i" site="tvprograma.lt" site_id="inter/229" xmltv_id="Inter+.ru">Inter+</channel>
+<channel update="i" site="tvprograma.lt" site_id="dom-kino/70" xmltv_id="DomKINO.ru">Dom Kino</channel>
+<channel update="i" site="tvprograma.lt" site_id="ntv-mir-lietuva/7" xmltv_id="NtvMir.ru">NTV Mir Lietuva</channel>
+<channel update="i" site="tvprograma.lt" site_id="nase-kino/39" xmltv_id="NasheKino.ru">Nase kino</channel>
+<channel update="i" site="tvprograma.lt" site_id="rtr-planeta/8" xmltv_id="RTRPlaneta.ru">RTR Planeta</channel>
+<channel update="i" site="tvprograma.lt" site_id="tvci/41" xmltv_id="TVCi.ru">TVCi</channel>
+<channel update="i" site="tvprograma.lt" site_id="sts-ctc/54" xmltv_id="CTC.ru">STS-CTC</channel>
+<channel update="i" site="tvprograma.lt" site_id="rtvi/36" xmltv_id="RTVi.ru">RTVi</channel>
+<channel update="i" site="tvprograma.lt" site_id="telecafe/314" xmltv_id="Telecafe.ru">Telecafe</channel>
+<channel update="i" site="tvprograma.lt" site_id="karusel-international/248" xmltv_id="Carusel.ru">Karusel International</channel>
+<channel update="i" site="tvprograma.lt" site_id="tv-vremia/250" xmltv_id="Vremya.ru">TV vremia</channel>
+<channel update="i" site="tvprograma.lt" site_id="fine-living-network/237" xmltv_id="FineLiving.eu">Fine living network</channel>
+<channel update="i" site="vsetv.com" site_id="3" xmltv_id="1+1.ru">1+1</channel>
+<channel update="i" site="yes.co.il" site_id="TV81" xmltv_id="ChannelOneRussia.il">Channel One Russia</channel>
+<channel update="i" site="yes.co.il" site_id="TV65" xmltv_id="RussianMusicBox.il">MusicBox</channel>
+<channel update="i" site="yes.co.il" site_id="TV79" xmltv_id="gtv.il">gtv</channel>
+<channel update="i" site="yes.co.il" site_id="TV50" xmltv_id="Channel9.il">ישראל פלוס</channel>
+
+<!-- Adult HOT -->
+<!--
+<channel update="i" site="locatetv.com" site_id="UPDATE_WITH_ENG_EPG.il" xmltv_id="BarelyLegal.il">Barely Legal</channel>
+<channel update="i" site="locatetv.com" site_id="UPDATE_WITH_ENG_EPG.il" xmltv_id="PenthouseHD.il">PENTHOUSE HD</channel>
+--> 
+<channel update="i" site="yes.co.il" site_id="PT05" xmltv_id="Hustler.il">Blue Hustler</channel> 
+<channel update="i" site="yes.co.il" site_id="TV64" xmltv_id="Touch.il">Touch</channel>
+
+<!-- Only showing on Yes -->
+<channel update="i" site="yes.co.il" site_id="YES1" xmltv_id="yes1.il">yes1 HD</channel>
+<channel update="i" site="yes.co.il" site_id="YES2" xmltv_id="yes2.il">yes2 HD</channel>
+<channel update="i" site="yes.co.il" site_id="YES3" xmltv_id="yes3.il">yes3 HD</channel>
+<channel update="i" site="yes.co.il" site_id="YES4" xmltv_id="yes5.il">yes5 HD</channel>
+<channel update="i" site="yes.co.il" site_id="YES6" xmltv_id="yes4.il">yes4 HD</channel>
+<channel update="i" site="yes.co.il" site_id="YESP" xmltv_id="yesComedy.il">yes stars Comedy</channel>
+<channel update="i" site="yes.co.il" site_id="YESU" xmltv_id="yesDrama.il">yes Drama HD</channel>
+<channel update="i" site="yes.co.il" site_id="YESV" xmltv_id="yesActionHD.il">yes Action HD</channel>
+<channel update="i" site="yes.co.il" site_id="YSAR" xmltv_id="yesOh.il">yes Oh</channel>
+<channel update="i" site="yes.co.il" site_id="YSAT" xmltv_id="yesDocu.il">yes docu HD</channel>
+<channel update="i" site="yes.co.il" site_id="TV92" xmltv_id="Teleclub.il">Teleclub</channel>
+<channel update="i" site="yes.co.il" site_id="PT95" xmltv_id="AngelTV.il">Angel TV</channel>
+<channel update="i" site="yes.co.il" site_id="PT17" xmltv_id="AljazeeraEng.il">Aljazeera English</channel>
+<channel update="i" site="yes.co.il" site_id="TA02" xmltv_id="Baby.il">בייבי</channel>
+<channel update="i" site="yes.co.il" site_id="PT54" xmltv_id="1+1international.il">1+1 international</channel>
+<channel update="i" site="yes.co.il" site_id="YSAU" xmltv_id="yesIsraeliCinema.il">Israeli Cinema</channel>
+<channel update="i" site="yes.co.il" site_id="PT75" xmltv_id="Rain.il">rain</channel>
+<channel update="i" site="yes.co.il" site_id="I002" xmltv_id="yesNews.il">yes News</channel>
+<channel update="i" site="yes.co.il" site_id="PT46" xmltv_id="HopChildhood.il">HOP! Childhood</channel>
+<channel update="i" site="yes.co.il" site_id="TV09" xmltv_id="Lifestyle.il">Style</channel>
+<channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCI.il">TVCI</channel>
+<channel update="i" site="yes.co.il" site_id="TV49" xmltv_id="TVE.il">TVE</channel>
+
+<!-- Alternates for backup
+<channel update="i" site="tv.walla.co.il" site_id="2//340" xmltv_id="yesBOLLYWOOD.il">HOT BOLLYWOOD</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//211" xmltv_id="Channel23.il">חינוכית</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//207" xmltv_id="HistoryChannel.il">ערוץ ההיסטוריה</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//373/" xmltv_id="CBSReality.il">CBS Reality</channel>
+<channel update="i" site="tv.walla.co.il" site_id="3//218" xmltv_id="FoxSportHD.il">FOX SPORT HD</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//225" xmltv_id="VH-1Classic.il">VH-1 CLASSIC</channel>  
+<channel update="i" site="tv.walla.co.il" site_id="3//198" xmltv_id="Lifetime.il">Lifetime</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//235" xmltv_id="ARTE.il">ARTE</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//232" xmltv_id="RTL.il">RTL</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="3//267" xmltv_id="gtv.il">gtv</channel>
+<channel update="i" site="tv.walla.co.il" site_id="3//281" xmltv_id="France2.il">France 2</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="3//233" xmltv_id="SAT1.il">SAT1</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="3//258" xmltv_id="MBC.il">MBC</channel>
+<channel update="i" site="tv.walla.co.il" site_id="3//134" xmltv_id="Lifetime.il">Lifetime</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="3//191" xmltv_id="metv.il">metv</channel>
+<channel update="i" site="hot.net.il" site_id="683" xmltv_id="Teleclub.il">TELECLUB</channel> 
+<channel update="i" site="hot.net.il" site_id="536" xmltv_id="RTRPlaneta.il">RTR</channel>
+<channel update="i" site="hot.net.il" site_id="756" xmltv_id="BigBrother.il">Big Brother</channel>
+<channel update="i" site="hot.net.il" site_id="525" xmltv_id="MTVHits.il">MTV Hits</channel>
+<channel update="i" site="hot.net.il" site_id="535" xmltv_id="RTL.il">RTL</channel>
+<channel update="i" site="hot.net.il" site_id="539" xmltv_id="SAT1.il">SAT1</channel>
+<channel update="i" site="hot.net.il" site_id="511" xmltv_id="ietv.il">IETV</channel>
+<channel update="i" site="hot.net.il" site_id="721" xmltv_id="TELECAFE.il">TeleCafe</channel>
+<channel update="i" site="hot.net.il" site_id="565" xmltv_id="Hidabrut.il">ערוץ הידברות</channel>
+<channel update="i" site="hot.net.il" site_id="739" xmltv_id="MeirTV.il">TV מאיר</channel>
+<channel update="i" site="hot.net.il" site_id="442" xmltv_id="Lifetime.il">Lifetime</channel>
+<channel update="i" site="hot.net.il" site_id="690" xmltv_id="MEDIASET.il">MEDIASET</channel>
+<channel update="i" site="hot.net.il" site_id="766" xmltv_id="Channel20.il">ערוץ מורשת</channel> 
+<channel update="i" site="yes.co.il" site_id="PT06" xmltv_id="CCTVNews.il">CCTV News</channel> Weak epg. Hot is much better.
+<channel update="i" site="yes.co.il" site_id="TV94" xmltv_id="France2.il">France2</channel>
+<channel update="i" site="hot.net.il" site_id="729" xmltv_id="France3.il">France 3</channel>
+<channel update="i" site="hot.net.il" site_id="730" xmltv_id="France5.il">France 5</channel>
+<channel update="i" site="hot.net.il" site_id="540" xmltv_id="3SAT.il">SAT3</channel> 
+<channel update="i" site="hot.net.il" site_id="719" xmltv_id="RUTV.il">RU TV</channel>
+<channel update="i" site="hot.net.il" site_id="718" xmltv_id="Outdoor.il">OUTDOOR HD</channel>   
+<channel update="i" site="hot.net.il" site_id="715" xmltv_id="TNT.il">Comedy TV</channel>
+<channel update="i" site="hot.net.il" site_id="720" xmltv_id="RussianTravelGuide.il">Russian Travel Guide</channel>
+<channel update="i" site="hot.net.il" site_id="512" xmltv_id="inter+.il">inter+</channel>
+<channel update="i" site="yo.tv" site_id="COUNTRY:pr,CHANNEL_ID:25119" xmltv_id="FineLiving.eu">Fine Living Network</channel>
+<channel update="i" site="yes.co.il" site_id="PT36" xmltv_id="DomKINO.il">DOM KINO</channel>
+<channel update="i" site="yes.co.il" site_id="TV60" xmltv_id="NtvMir.il">NTV MIR</channel>
+<channel update="i" site="yes.co.il" site_id="TV85" xmltv_id="NasheKino.il">nashe kino</channel>
+<channel update="i" site="yes.co.il" site_id="TV82" xmltv_id="RTRPlaneta.il">RTR Planeta</channel>
+<channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCi.il">TVCI</channel> 
+<channel update="i" site="yes.co.il" site_id="PT51" xmltv_id="CTC.il">CTC</channel> 
+<channel update="i" site="yes.co.il" site_id="TV83" xmltv_id="RTVi.il">RTVi</channel>
+<channel update="i" site="yes.co.il" site_id="PT74" xmltv_id="Telecafe.il">TELECAFE</channel> 
+<channel update="i" site="yes.co.il" site_id="PT61" xmltv_id="Carousel.il">Carousel</channel> 
+<channel update="i" site="yes.co.il" site_id="PT73" xmltv_id="Vremya.il">VREMYA</channel>  
+<channel update="i" site="hot.net.il" site_id="548" xmltv_id="TV5MONDE.il">TV5MONDE</channel> French
+<channel update="i" site="hot.net.il" site_id="769" xmltv_id="CANAL24HORAS.il">CANAL 24 HORAS</channel> Spanish
+<channel update="i" site="hot.net.il" site_id="549" xmltv_id="TVE.il">TVE</channel> Spanish 
+<channel update="i" site="hot.net.il" site_id="798" xmltv_id="KralTV.il">KRAL</channel> Turkish 
+<channel update="i" site="hot.net.il" site_id="546" xmltv_id="TRT1.il">TRT1</channel> Turkish 
+<channel update="i" site="hot.net.il" site_id="714" xmltv_id="1+1.il">1+1</channel> different then 1+1 international 
+<channel update="i" site="yes.co.il" site_id="TV47" xmltv_id="Arte.il">ARTE</channel> French
+-->
+
+<!-- Useless repeated EPG data. Save as a place holder. 
+<channel update="i" site="yes.co.il" site_id="TV70" xmltv_id="mbc.il">mbc</channel>
+<channel update="i" site="yes.co.il" site_id="TV71" xmltv_id="lbc.il">LBC</channel>
+<channel update="i" site="yes.co.il" site_id="PT13" xmltv_id="Daystar.il">daystar</channel>
+<channel update="i" site="yes.co.il" site_id="PT11" xmltv_id="TVRi.il">TVR int.</channel>
+<channel update="i" site="yes.co.il" site_id="TV56" xmltv_id="EUROSTAR.il">EUROSTAR</channel> 
+<channel update="i" site="tv.walla.co.il" site_id="2//518" xmltv_id="Syria.il">סוריה</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//506" xmltv_id="Dubai.il">דובאי</channel>
+<channel update="i" site="tv.walla.co.il" site_id="2//3043" xmltv_id="Saudi.il">סעודיה</channel>
+<channel update="i" site="tv.walla.co.il" site_id="3//265" xmltv_id="rtm.il">מרוקו</channel>
+<channel update="i" site="tv.walla.co.il" site_id="3//261" xmltv_id="RotanaMusic.il">ROTANA MUSIC</channel>
+<channel update="i" site="hot.net.il" site_id="568" xmltv_id="Jordan1.il">ירדן 1</channel>
+<channel update="i" site="hot.net.il" site_id="587" xmltv_id="Tunis.il">טוניס</channel> 
+<channel update="i" site="hot.net.il" site_id="458" xmltv_id="Almustakbal.il">אל מוסטקבל</channel>
+<channel update="i" site="hot.net.il" site_id="595" xmltv_id="AljazeeraArabic.il">אלג'זירה בערבית</channel>
+<channel update="i" site="hot.net.il" site_id="752" xmltv_id="ShansonTV.il">Shanson TV</channel>
+<channel update="i" site="hot.net.il" site_id="774" xmltv_id="Kazakh.il">Kazakh</channel>
+<channel update="i" site="hot.net.il" site_id="335" xmltv_id="EuroNews.il">Euro News</channel>
+<channel update="i" site="hot.net.il" site_id="350" xmltv_id="RaiItalia.il">Rai Italia</channel>
+<channel update="i" site="hot.net.il" site_id="666" xmltv_id="RotanaCinema.il">ROTANA CINEMA</channel>
+-->
  </settings>

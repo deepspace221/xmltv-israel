@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="playtv.fr">
+  <channels>
+    <channel update="i" site="playtv.fr" site_id="canal-plus" xmltv_id="Canal+">Canal+</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-plus-cinema" xmltv_id="Canal+ Cinéma">Canal+ Cinéma</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-plus-sport" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-plus-family" xmltv_id="Canal+ Family">Canal+ Family</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-plus-decale" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-plus-series" xmltv_id="Canal+ Série">Canal+ Série</channel>
+    <channel update="i" site="playtv.fr" site_id="tf1" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="playtv.fr" site_id="france-2" xmltv_id="FR 2">FR 2</channel>
+    <channel update="i" site="playtv.fr" site_id="france-3" xmltv_id="FR 3">FR 3</channel>
+    <channel update="i" site="playtv.fr" site_id="france-5" xmltv_id="FR 5">FR 5</channel>
+    <channel update="i" site="playtv.fr" site_id="m6" xmltv_id="M6">M6</channel>
+    <channel update="i" site="playtv.fr" site_id="arte" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="playtv.fr" site_id="d8" xmltv_id="D8">D8</channel>
+    <channel update="i" site="playtv.fr" site_id="w9" xmltv_id="W9">W9</channel>
+    <channel update="i" site="playtv.fr" site_id="tmc" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="playtv.fr" site_id="nt1" xmltv_id="NT1">NT1</channel>
+    <channel update="i" site="playtv.fr" site_id="nrj-12" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel update="i" site="playtv.fr" site_id="lcp-ps" xmltv_id="LCP / PS">LCP / PS</channel>
+    <channel update="i" site="playtv.fr" site_id="france-4" xmltv_id="FR 4">FR 4</channel>
+    <channel update="i" site="playtv.fr" site_id="bfm-tv" xmltv_id="BFM TV">BFM TV</channel>
+    <channel update="i" site="playtv.fr" site_id="i-tele" xmltv_id="iTELE">iTELE</channel>
+    <channel update="i" site="playtv.fr" site_id="d17" xmltv_id="D17">D17</channel>
+    <channel update="i" site="playtv.fr" site_id="gulli" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="playtv.fr" site_id="rtl-9" xmltv_id="RTL 9">RTL 9</channel>
+    <channel update="i" site="playtv.fr" site_id="ab1" xmltv_id="AB1">AB1</channel>
+    <channel update="i" site="playtv.fr" site_id="hd1" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="playtv.fr" site_id="paris-premiere" xmltv_id="Paris Premiere">Paris Premiere</channel>
+    <channel update="i" site="playtv.fr" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="playtv.fr" site_id="lequipe-21" xmltv_id="L’Équipe 21">L’Équipe 21</channel>
+    <channel update="i" site="playtv.fr" site_id="tv5-monde" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="playtv.fr" site_id="6ter" xmltv_id="6TER">6TER</channel>
+    <channel update="i" site="playtv.fr" site_id="vivolta" xmltv_id="Vivolta">Vivolta</channel>
+    <channel update="i" site="playtv.fr" site_id="numero-23" xmltv_id="Numéro 23">Numéro 23</channel>
+    <channel update="i" site="playtv.fr" site_id="rmc-decouverte" xmltv_id="RMC Decouverte">RMC Decouverte</channel>
+    <channel update="i" site="playtv.fr" site_id="cherie-25" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel update="i" site="playtv.fr" site_id="bfm-business" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="playtv.fr" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="playtv.fr" site_id="aljazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="playtv.fr" site_id="skynews" xmltv_id="Sky News International">Sky News International</channel>
+    <channel update="i" site="playtv.fr" site_id="i24-news" xmltv_id="i24 News">i24 News</channel>
+    <channel update="i" site="playtv.fr" site_id="lcpan" xmltv_id="LCP 24/24">LCP 24/24</channel>
+    <channel update="i" site="playtv.fr" site_id="public-senat-24-24" xmltv_id="Public Senat 24/24">Public Senat 24/24</channel>
+    <channel update="i" site="playtv.fr" site_id="mce" xmltv_id="MCE">MCE</channel>
+    <channel update="i" site="playtv.fr" site_id="france-24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="playtv.fr" site_id="game-one" xmltv_id="Game One">Game One</channel>
+    <channel update="i" site="playtv.fr" site_id="men-s-up-tv" xmltv_id="MEN’S UP TV">MEN’S UP TV</channel>
+    <channel update="i" site="playtv.fr" site_id="nolife" xmltv_id="NoLife">NoLife</channel>
+    <channel update="i" site="playtv.fr" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="playtv.fr" site_id="equidia-live" xmltv_id="Equidia Live">Equidia Live</channel>
+    <channel update="i" site="playtv.fr" site_id="equidia-life" xmltv_id="Equidia Life">Equidia Life</channel>
+    <channel update="i" site="playtv.fr" site_id="ab-moteurs" xmltv_id="AB moteurs">AB moteurs</channel>
+    <channel update="i" site="playtv.fr" site_id="france-o" xmltv_id="FR Ô">FR Ô</channel>
+    <channel update="i" site="playtv.fr" site_id="montagne-tv" xmltv_id="Montagne TV">Montagne TV</channel>
+    <channel update="i" site="playtv.fr" site_id="luxe-tv" xmltv_id="Luxe TV">Luxe TV</channel>
+    <channel update="i" site="playtv.fr" site_id="demain-tv" xmltv_id="Demain TV">Demain TV</channel>
+    <channel update="i" site="playtv.fr" site_id="kto" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="playtv.fr" site_id="souvenirs-from-earth" xmltv_id="Souvenirs from Earth">Souvenirs from Earth</channel>
+    <channel update="i" site="playtv.fr" site_id="grand-lille-tv" xmltv_id="Grand Lille TV">Grand Lille TV</channel>
+    <channel update="i" site="playtv.fr" site_id="tlt" xmltv_id="TLT">TLT</channel>
+    <channel update="i" site="playtv.fr" site_id="tv7-bordeaux" xmltv_id="TV7 Bordeaux">TV7 Bordeaux</channel>
+    <channel update="i" site="playtv.fr" site_id="tv8-mont-blanc" xmltv_id="TV8 Mont Blanc">TV8 Mont Blanc</channel>
+    <channel update="i" site="playtv.fr" site_id="telif" xmltv_id="Télif">Télif</channel>
+    <channel update="i" site="playtv.fr" site_id="lalocale" xmltv_id="La Locale">La Locale</channel>
+    <channel update="i" site="playtv.fr" site_id="normandie-tv" xmltv_id="Normandie TV">Normandie TV</channel>
+    <channel update="i" site="playtv.fr" site_id="telenantes" xmltv_id="TéléNantes">TéléNantes</channel>
+    <channel update="i" site="playtv.fr" site_id="tv-tours" xmltv_id="TV Tours">TV Tours</channel>
+    <channel update="i" site="playtv.fr" site_id="idf1" xmltv_id="IDF1">IDF1</channel>
+    <channel update="i" site="playtv.fr" site_id="alsace-20" xmltv_id="Alsace 20">Alsace 20</channel>
+    <channel update="i" site="playtv.fr" site_id="weo" xmltv_id="Wéo">Wéo</channel>
+    <channel update="i" site="playtv.fr" site_id="tlm" xmltv_id="TLM">TLM</channel>
+    <channel update="i" site="playtv.fr" site_id="calaisis-tv" xmltv_id="Calaisis TV">Calaisis TV</channel>
+    <channel update="i" site="playtv.fr" site_id="mirabelle-tv" xmltv_id="Mirabelle TV">Mirabelle TV</channel>
+    <channel update="i" site="playtv.fr" site_id="mboa" xmltv_id="MBOA">MBOA</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-algerie" xmltv_id="Canal Algerie">Canal Algerie</channel>
+    <channel update="i" site="playtv.fr" site_id="beur-tv" xmltv_id="Beur FM TV">Beur FM TV</channel>
+    <channel update="i" site="playtv.fr" site_id="al-jazeera-arab" xmltv_id="Al Jazeera Arab">Al Jazeera Arab</channel>
+    <channel update="i" site="playtv.fr" site_id="al-jazeera-children" xmltv_id="Al Jazeera Children">Al Jazeera Children</channel>
+    <channel update="i" site="playtv.fr" site_id="russia-today" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="playtv.fr" site_id="russia-today-es" xmltv_id="Russia Today ES">Russia Today ES</channel>
+    <channel update="i" site="playtv.fr" site_id="russia-al-yaum" xmltv_id="Russia Al-Yaum">Russia Al-Yaum</channel>
+    <channel update="i" site="playtv.fr" site_id="record-news" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="playtv.fr" site_id="teva" xmltv_id="Teva">Teva</channel>
+    <channel update="i" site="playtv.fr" site_id="disney-channel-plus-1" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel update="i" site="playtv.fr" site_id="tropik-tv" xmltv_id="Tropik TV">Tropik TV</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-32" xmltv_id="Canal 32">Canal 32</channel>
+    <channel update="i" site="playtv.fr" site_id="2m-maroc" xmltv_id="2M Maroc">2M Maroc</channel>
+    <channel update="i" site="playtv.fr" site_id="ntd" xmltv_id="NTD">NTD</channel>
+    <channel update="i" site="playtv.fr" site_id="tv5-monde-europe" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel update="i" site="playtv.fr" site_id="infosport" xmltv_id="InfoSport">InfoSport</channel>
+    <channel update="i" site="playtv.fr" site_id="tcm" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="playtv.fr" site_id="tv-festival" xmltv_id="TV Festival">TV Festival</channel>
+    <channel update="i" site="playtv.fr" site_id="bip-tv" xmltv_id="BIP TV">BIP TV</channel>
+    <channel update="i" site="playtv.fr" site_id="rennes-35-bretagne" xmltv_id="TV Rennes 35 Bretagne">TV Rennes 35 Bretagne</channel>
+    <channel update="i" site="playtv.fr" site_id="13eme-rue" xmltv_id="13ème Rue">13ème Rue</channel>
+    <channel update="i" site="playtv.fr" site_id="tv-breizh" xmltv_id="TV Breizh">TV Breizh</channel>
+    <channel update="i" site="playtv.fr" site_id="action" xmltv_id="Action">Action</channel>
+    <channel update="i" site="playtv.fr" site_id="comedie" xmltv_id="Comédie">Comédie</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-plus-classic" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-plus-club" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-plus-emotion" xmltv_id="Ciné+ Émotion">Ciné+ Émotion</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-plus-famiz" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-plus-frisson" xmltv_id="Ciné+ Frisson">Ciné+ Frisson</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-plus-premier" xmltv_id="Ciné + Premier">Ciné + Premier</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-fx" xmltv_id="Ciné FX">Ciné FX</channel>
+    <channel update="i" site="playtv.fr" site_id="cine-polar" xmltv_id="Ciné Polar">Ciné Polar</channel>
+    <channel update="i" site="playtv.fr" site_id="entertainment-television" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel update="i" site="playtv.fr" site_id="serie-club" xmltv_id="Série Club">Série Club</channel>
+    <channel update="i" site="playtv.fr" site_id="la-chaine-meteo" xmltv_id="La chaîne Météo">La chaîne Météo</channel>
+    <channel update="i" site="playtv.fr" site_id="boing" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="playtv.fr" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-j" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="playtv.fr" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="playtv.fr" site_id="disney-cinemagic" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="playtv.fr" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="playtv.fr" site_id="disney-xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="playtv.fr" site_id="jimmy" xmltv_id="Jimmy">Jimmy</channel>
+    <channel update="i" site="playtv.fr" site_id="june" xmltv_id="June">June</channel>
+    <channel update="i" site="playtv.fr" site_id="mangas" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="playtv.fr" site_id="nickelodeon-junior" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="playtv.fr" site_id="piwi-plus" xmltv_id="Piwi+">Piwi+</channel>
+    <channel update="i" site="playtv.fr" site_id="teletoon" xmltv_id="Teletoon">Teletoon</channel>
+    <channel update="i" site="playtv.fr" site_id="tiji" xmltv_id="TiJi">TiJi</channel>
+    <channel update="i" site="playtv.fr" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="playtv.fr" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="playtv.fr" site_id="extreme-sports-channel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="playtv.fr" site_id="ma-chaine-sport" xmltv_id="MA CHAINE SPORT">MA CHAINE SPORT</channel>
+    <channel update="i" site="playtv.fr" site_id="mcs-extreme" xmltv_id="MCS Extrême">MCS Extrême</channel>
+    <channel update="i" site="playtv.fr" site_id="mcs-bien-etre" xmltv_id="MCS Bien-être">MCS Bien-être</channel>
+    <channel update="i" site="playtv.fr" site_id="oltv" xmltv_id="OLTV">OLTV</channel>
+    <channel update="i" site="playtv.fr" site_id="om-tv" xmltv_id="OM TV">OM TV</channel>
+    <channel update="i" site="playtv.fr" site_id="sport-plus" xmltv_id="Sport +">Sport +</channel>
+    <channel update="i" site="playtv.fr" site_id="c-music-tv" xmltv_id="C Music TV">C Music TV</channel>
+    <channel update="i" site="playtv.fr" site_id="mcm" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="playtv.fr" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="playtv.fr" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="playtv.fr" site_id="mtv-pulse" xmltv_id="MTV Pulse">MTV Pulse</channel>
+    <channel update="i" site="playtv.fr" site_id="mtv-base" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="playtv.fr" site_id="animaux" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="playtv.fr" site_id="canvas" xmltv_id="Canvas">Canvas</channel>
+    <channel update="i" site="playtv.fr" site_id="chasse-et-peche" xmltv_id="Chasse et Pêche">Chasse et Pêche</channel>
+    <channel update="i" site="playtv.fr" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="playtv.fr" site_id="encyclo" xmltv_id="Encyclo">Encyclo</channel>
+    <channel update="i" site="playtv.fr" site_id="escales" xmltv_id="Escales">Escales</channel>
+    <channel update="i" site="playtv.fr" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="playtv.fr" site_id="planete" xmltv_id="Planète">Planète</channel>
+    <channel update="i" site="playtv.fr" site_id="planete-plus-thalassa" xmltv_id="Planète + Thalassa">Planète + Thalassa</channel>
+    <channel update="i" site="playtv.fr" site_id="planete-plus-no-limit" xmltv_id="Planète+ No Limit">Planète+ No Limit</channel>
+    <channel update="i" site="playtv.fr" site_id="planete-plus-justice" xmltv_id="Planète+ Justice">Planète+ Justice</channel>
+    <channel update="i" site="playtv.fr" site_id="seasons" xmltv_id="Seasons">Seasons</channel>
+    <channel update="i" site="playtv.fr" site_id="stylia" xmltv_id="Stylia">Stylia</channel>
+    <channel update="i" site="playtv.fr" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="playtv.fr" site_id="toute-l-histoire" xmltv_id="toute l'HISTOIRE">toute l'HISTOIRE</channel>
+    <channel update="i" site="playtv.fr" site_id="ushuaia-tv" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
+    <channel update="i" site="playtv.fr" site_id="dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="playtv.fr" site_id="xxl" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="playtv.fr" site_id="tv-record" xmltv_id="TV Record">TV Record</channel>
+    <channel update="i" site="playtv.fr" site_id="al-jazeera-sport" xmltv_id="Al Jazeera Sport">Al Jazeera Sport</channel>
+    <channel update="i" site="playtv.fr" site_id="eurosport-news" xmltv_id="Eurosport News">Eurosport News</channel>
+    <channel update="i" site="playtv.fr" site_id="ab3" xmltv_id="AB3">AB3</channel>
+    <channel update="i" site="playtv.fr" site_id="ab4" xmltv_id="AB4">AB4</channel>
+    <channel update="i" site="playtv.fr" site_id="berbere-television" xmltv_id="Berbère Télévision">Berbère Télévision</channel>
+    <channel update="i" site="playtv.fr" site_id="canal-alpha" xmltv_id="Canal Alpha">Canal Alpha</channel>
+    <channel update="i" site="playtv.fr" site_id="rts-un" xmltv_id="RTS Un">RTS Un</channel>
+    <channel update="i" site="playtv.fr" site_id="television-tunisienne-2" xmltv_id="Télévision Tunisienne 2">Télévision Tunisienne 2</channel>
+    <channel update="i" site="playtv.fr" site_id="astv" xmltv_id="ASTV">ASTV</channel>
+  </channels>
+</site>

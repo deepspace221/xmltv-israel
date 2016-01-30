@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="tv5monde.com">
+  <channels>
+    <channel update="i" site="tv5monde.com" site_id="3" xmltv_id="TV5MONDE Afrique">TV5MONDE Afrique</channel>
+    <channel update="i" site="tv5monde.com" site_id="8" xmltv_id="TV5MONDE Amérique latine et Caraïbes">TV5MONDE Amérique latine et Caraïbes</channel>
+    <channel update="i" site="tv5monde.com" site_id="4" xmltv_id="TV5MONDE Asie">TV5MONDE Asie</channel>
+    <channel update="i" site="tv5monde.com" site_id="5" xmltv_id="TV5MONDE Etats-Unis">TV5MONDE Etats-Unis</channel>
+    <channel update="i" site="tv5monde.com" site_id="1" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
+    <channel update="i" site="tv5monde.com" site_id="2" xmltv_id="TV5MONDE France Belgique Suisse (FBS)">TV5MONDE France Belgique Suisse (FBS)</channel>
+    <channel update="i" site="tv5monde.com" site_id="6" xmltv_id="TV5MONDE Maghreb-Orient">TV5MONDE Maghreb-Orient</channel>
+    <channel update="i" site="tv5monde.com" site_id="10" xmltv_id="TV5MONDE Pacifique">TV5MONDE Pacifique</channel>
+  </channels>
+</site>
