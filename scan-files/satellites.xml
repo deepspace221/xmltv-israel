@@ -5295,48 +5295,48 @@
 		<transponder frequency="4148000" symbol_rate="9578000" polarization="0" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="4160000" symbol_rate="9578000" polarization="0" fec_inner="3" system="0" modulation="1"/>
 	</sat>
-    <sat name="DVB-C Cable (Jerusalem)" flags="1" position="65535">
-       <!-- HD transponder 306mhz -->
-       <transponder frequency="1306000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1346000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1354000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- SID NIT -->
-       <transponder frequency="1410000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- HD transponder (channel 1 HD) 434mhz -->
-       <transponder frequency="1434000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1442000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1458000000" symbol_rate="6890000" fec_inner="5" modulation="5" />         
-       <transponder frequency="1466000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- HD transponder 474mhz (Hot3 HD) -->
-       <transponder frequency="1474000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- Channel 1,33 482mhz -->
-       <transponder frequency="1482000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- Music channels and radio stations 490mhz -->
-       <transponder frequency="1490000000" symbol_rate="6890000" fec_inner="5" modulation="5" />   
-       <transponder frequency="1498000000" symbol_rate="6890000" fec_inner="5" modulation="5" />         
-       <transponder frequency="1538000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1546000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1554000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- Channel 10  562mhz -->
-       <transponder frequency="1562000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1570000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1578000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- Channel 2 586mhz -->
-       <transponder frequency="1586000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1594000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- Missing from NIT scan 618mhz -->
-       <transponder frequency="1618000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- SID NIT -->
-       <transponder frequency="1626000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- Missing from NIT scan 642mhz -->      
-       <transponder frequency="1642000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <!-- SID NIT -->      
-       <transponder frequency="1650000000" symbol_rate="6890000" fec_inner="5" modulation="5" />      
-       <!-- SID Transponders -->
-       <transponder frequency="1362000000" symbol_rate="6510000" fec_inner="5" modulation="5" />
-       <transponder frequency="1602000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1610000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
-       <transponder frequency="1634000000" symbol_rate="6890000" fec_inner="5" modulation="5" />	 
+	<sat name="DVB-C Cable (Jerusalem)" flags="1" position="65535">
+		<!-- HD transponder 306mhz -->
+		<transponder frequency="1306000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1346000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1354000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- SID NIT -->
+		<transponder frequency="1410000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- HD transponder (channel 1 HD) 434mhz -->
+		<transponder frequency="1434000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1442000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1458000000" symbol_rate="6890000" fec_inner="5" modulation="5" />         
+		<transponder frequency="1466000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- HD transponder 474mhz (Hot3 HD) -->
+		<transponder frequency="1474000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Channel 1,33 482mhz -->
+		<transponder frequency="1482000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Music channels and radio stations 490mhz -->
+		<transponder frequency="1490000000" symbol_rate="6890000" fec_inner="5" modulation="5" />   
+		<transponder frequency="1498000000" symbol_rate="6890000" fec_inner="5" modulation="5" />         
+		<transponder frequency="1538000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1546000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1554000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Channel 10  562mhz -->
+		<transponder frequency="1562000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1570000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1578000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Channel 2 586mhz -->
+		<transponder frequency="1586000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1594000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Missing from NIT scan 618mhz -->
+		<transponder frequency="1618000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- SID NIT -->
+		<transponder frequency="1626000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- Missing from NIT scan 642mhz -->      
+		<transponder frequency="1642000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<!-- SID NIT -->      
+		<transponder frequency="1650000000" symbol_rate="6890000" fec_inner="5" modulation="5" />      
+		<!-- SID Transponders -->
+		<transponder frequency="1362000000" symbol_rate="6510000" fec_inner="5" modulation="5" />
+		<transponder frequency="1602000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1610000000" symbol_rate="6890000" fec_inner="5" modulation="5" />
+		<transponder frequency="1634000000" symbol_rate="6890000" fec_inner="5" modulation="5" />	 
 	</sat>
 </satellites>
 
