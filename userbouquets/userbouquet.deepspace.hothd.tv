@@ -1,0 +1,27 @@
+#NAME הוט HD
+#SERVICE 1:0:19:ca:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:de:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:d1:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:133:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:e0:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:131:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:134:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:132:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:e5:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:325:7:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:130:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:cf:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:cb:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:e2:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:12d:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:dd:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:c9:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:e3:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:12e:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:d3:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:12c:c:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:e1:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:df:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:e4:e:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:39f:22:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:cd:d:de:ffff0000:0:0:0:

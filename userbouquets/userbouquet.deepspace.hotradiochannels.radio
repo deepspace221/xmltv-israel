@@ -1,4 +1,4 @@
-#NAME bouquetnameq (Radio)
+#NAME הוט ערוצי רדיו
 #SERVICE 1:0:2:1a8:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:1a9:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:1b2:5:de:ffff0000:0:0:0:
@@ -23,8 +23,8 @@
 #SERVICE 1:0:2:226:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:19d:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:227:5:de:ffff0000:0:0:0:
-#SERVICE 1:0:2:22d:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:1ad:5:de:ffff0000:0:0:0:
+#SERVICE 1:0:2:22d:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:1b5:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:199:5:de:ffff0000:0:0:0:
 #SERVICE 1:0:2:1a6:5:de:ffff0000:0:0:0:

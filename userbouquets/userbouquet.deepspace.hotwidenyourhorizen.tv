@@ -1,0 +1,20 @@
+#NAME הוט ערוצי העשרה
+#SERVICE 1:0:1:ba:b:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:57:5:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:d1:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:2a:3:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:164:20:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:398:22:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:ae:9:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:a6:9:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:f4:a:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:31:3:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:99:8:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:43:4:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:162:20:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:2f:3:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:f8:a:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:399:22:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:af:9:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:21:2:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:15:2:de:ffff0000:0:0:0:

@@ -1,0 +1,17 @@
+#NAME הוט ילדים
+#SERVICE 1:0:1:147:12:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:145:12:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:b8:b:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:51:5:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:f9:a:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:c5:b:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:24:2:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:3f:4:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:fd:a:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:8e:8:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:156:20:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:158:20:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:bb:b:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:141:12:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:94:8:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:2c1:1f:1:ffff0000:0:0:0:

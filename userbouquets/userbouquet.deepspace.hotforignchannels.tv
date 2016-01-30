@@ -1,0 +1,19 @@
+#NAME הוט ערוצים זרים
+#SERVICE 1:0:1:48:4:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:39a:22:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:1f:2:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:11f:10:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:9a:8:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:120:10:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:39e:22:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:138:1f:1:ffff0000:0:0:0:
+#SERVICE 1:0:1:5c:5:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:13d:1f:1:ffff0000:0:0:0:
+#SERVICE 1:0:1:45:4:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:46:4:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:b:1:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:19:2:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:7:1:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:3d:4:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:55:5:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:2d:3:de:ffff0000:0:0:0:

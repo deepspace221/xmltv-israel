@@ -1,0 +1,9 @@
+#NAME הוט צרפת
+#SERVICE 1:0:1:107:f:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:110:f:de:ffff0000:0:0:0:
+#SERVICE 1:0:19:cd:d:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:136:1f:1:ffff0000:0:0:0:
+#SERVICE 1:0:1:13a:1f:1:ffff0000:0:0:0:
+#SERVICE 1:0:1:13e:1f:1:ffff0000:0:0:0:
+#SERVICE 1:0:1:161:20:de:ffff0000:0:0:0:
+#SERVICE 1:0:1:c:1:de:ffff0000:0:0:0:
