@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB Postprocess -- version 1.1.1/11 -- Jan van Straaten" site="fr.timefor.tv">
+  <channels>
+    <channel update="i" site="fr.timefor.tv" site_id="6ter" xmltv_id="6ter">6ter</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="arte-tv" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="arte-hd-tv" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11867" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="bfm-business" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="bfm-tv" xmltv_id="BFM TV">BFM TV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="bfm-tv-hd" xmltv_id="BFM TV HD">BFM TV HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11887" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="canal-j" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="canal-tv" xmltv_id="Canal+">Canal+</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="canal-cinema" xmltv_id="Canal+ Cinema">Canal+ Cinema</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="canal-decale" xmltv_id="Canal+ Decale">Canal+ Decale</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11436" xmltv_id="Canal+ Family">Canal+ Family</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="canal-sport-tv" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11888" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cherie-25" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-classic" xmltv_id="Cine+ Classic">Cine+ Classic</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-club" xmltv_id="Cine+ Club">Cine+ Club</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-motion" xmltv_id="Cine+ Émotion">Cine+ Émotion</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-famiz" xmltv_id="Cine+ Famiz">Cine+ Famiz</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-frisson" xmltv_id="Cine+ Frisson">Cine+ Frisson</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-premier" xmltv_id="Cine+ Premier">Cine+ Premier</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="cine-star" xmltv_id="Cine+ Star">Cine+ Star</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="comedie" xmltv_id="Comédie+">Comédie+</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="direct-star" xmltv_id="D17">D17</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="d8" xmltv_id="D8">D8</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="discovery-channel-france-english" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="discovery-science-france-english" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="12053" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="disney-channel-hd-tv" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="disney-cinemagic-tv" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="disney-cinemagic-hd-tv" xmltv_id="Disney Cinemagic HD">Disney Cinemagic HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="12055" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="disney-junior-hd" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="12056" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="disney-xd-hd" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="djazz" xmltv_id="Djazz">Djazz</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11333" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11334" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11336" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="11335" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-2" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-2-hd" xmltv_id="France 2 HD">France 2 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-24-tv" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-3" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-3-hd" xmltv_id="France 3 HD">France 3 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-4" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-4-hd" xmltv_id="France 4 HD">France 4 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-5" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france-5-hd" xmltv_id="France 5 HD">France 5 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="france" xmltv_id="France Ô">France Ô</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="gulli" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="hd1" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="itele" xmltv_id="iTélé">iTélé</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="jimmy" xmltv_id="JIMMY">JIMMY</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="june" xmltv_id="June">June</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="lequipe" xmltv_id="L'equipe">L'equipe</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="lcp" xmltv_id="LCP">LCP</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="luxe-tv-tv" xmltv_id="Luxe TV">Luxe TV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="m6" xmltv_id="M6">M6</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="m6-boutique-co" xmltv_id="M6 Boutique &amp; Co.">M6 Boutique &amp; Co.</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="m6-hd" xmltv_id="M6 HD">M6 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="m6music-hits" xmltv_id="M6 Music">M6 Music</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="m6music-black" xmltv_id="M6 Music Black">M6 Music Black</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="m6music-club" xmltv_id="M6 Music Club">M6 Music Club</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="mcm" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="mcm-pop" xmltv_id="MCM POP">MCM POP</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="mcm-top" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="mezzo-tv" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="mezzo-live-hd-tv" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="montagne-tv" xmltv_id="Montagne TV">Montagne TV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="motors-tv-france" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-coaching-audio-1-eng" xmltv_id="MyZen TV Coaching (Audio 1)">MyZen TV Coaching (Audio 1)</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-coaching-audio-1" xmltv_id="MyZen TV Coaching (Audio 1)">MyZen TV Coaching (Audio 1)</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-hd" xmltv_id="MyZen TV HD (Video)">MyZen TV HD (Video)</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-hd-tv" xmltv_id="MyZen TV HD (Video)">MyZen TV HD (Video)</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-music" xmltv_id="MyZen TV Music">MyZen TV Music</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-music-eng" xmltv_id="MyZen TV Music">MyZen TV Music</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-nature-eng" xmltv_id="MyZen TV Nature">MyZen TV Nature</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="myzen-tv-nature" xmltv_id="MyZen TV Nature">MyZen TV Nature</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nat-geo-wild-tv" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nat-geo-wild-hd-france" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="12288" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="national-geographic-channel-hd-france" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nrj-hits" xmltv_id="NRJ Hits">NRJ Hits</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nrj-paris" xmltv_id="NRJ Paris">NRJ Paris</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nrj12" xmltv_id="NRJ12">NRJ12</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nrj-12-hd" xmltv_id="NRJ12 HD">NRJ12 HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="nt1" xmltv_id="NT1">NT1</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="numero23" xmltv_id="Numero23">Numero23</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="paris-premiere" xmltv_id="Paris Premiére">Paris Premiére</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="paris-premire-hd" xmltv_id="Paris Première HD">Paris Première HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="piwi" xmltv_id="Piwi+">Piwi+</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="planete" xmltv_id="Planete+">Planete+</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="planete-justice" xmltv_id="Planete+ Justice">Planete+ Justice</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="planete-no-limit" xmltv_id="Planete+ No Limit">Planete+ No Limit</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="planete-thalassa" xmltv_id="Planete+ Thalassa">Planete+ Thalassa</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="renault-tv-english" xmltv_id="Renault TV">Renault TV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="renault-tv" xmltv_id="Renault TV">Renault TV</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="seasons" xmltv_id="Seasons">Seasons</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="sport-365" xmltv_id="Sport 365">Sport 365</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tele-melody" xmltv_id="Tele Melody">Tele Melody</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="teletoon" xmltv_id="TéléToon+">TéléToon+</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="teva" xmltv_id="Téva">Téva</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="teva-hd" xmltv_id="Téva HD">Téva HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tf-1" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tf6" xmltv_id="TF6">TF6</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tiji" xmltv_id="Tiji">Tiji</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tmc" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-sports" xmltv_id="Trace Sports">Trace Sports</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-sports-hd" xmltv_id="Trace Sports HD">Trace Sports HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-tropical" xmltv_id="Trace Tropical">Trace Tropical</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-tropical-english" xmltv_id="Trace Tropical">Trace Tropical</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-tropical-hd" xmltv_id="Trace Tropical HD">Trace Tropical HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-urban" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tv5-monde" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="tv8-mont-blanc" xmltv_id="TV8 Mont Blanc">TV8 Mont Blanc</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="vivolta" xmltv_id="Vivolta">Vivolta</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="voyage" xmltv_id="Voyage">Voyage</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="w9" xmltv_id="W9">W9</channel>
+    <channel update="i" site="fr.timefor.tv" site_id="w9-hd" xmltv_id="W9 HD">W9 HD</channel>
+  </channels>
+</site>
