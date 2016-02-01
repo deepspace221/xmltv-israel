@@ -1,0 +1,1347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.13 -- Jan van Straaten" site="mydigiguide.com.simple">
+  <channels>
+    <channel update="i" site="mydigiguide.com.simple" site_id="1" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51035" xmltv_id="BBC 1 HD">BBC 1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50231" xmltv_id="BBC 1 London">BBC 1 London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50235" xmltv_id="BBC 1 North">BBC 1 North</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50238" xmltv_id="BBC 1 North West">BBC 1 North West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50237" xmltv_id="BBC 1 North East">BBC 1 North East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50232" xmltv_id="BBC 1 Midlands">BBC 1 Midlands</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50233" xmltv_id="BBC 1 West">BBC 1 West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50236" xmltv_id="BBC 1 East">BBC 1 East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50234" xmltv_id="BBC 1 South">BBC 1 South</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50239" xmltv_id="BBC 1 South West">BBC 1 South West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50240" xmltv_id="BBC 1 South East">BBC 1 South East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="202" xmltv_id="BBC 1 Scotland">BBC 1 Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51187" xmltv_id="BBC 1 Scotland HD">BBC 1 Scotland HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="203" xmltv_id="BBC 1 Northern Ireland">BBC 1 Northern Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51177" xmltv_id="BBC 1 Northern Ireland HD">BBC 1 Northern Ireland HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="201" xmltv_id="BBC 1 Wales">BBC 1 Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51188" xmltv_id="BBC 1 Wales HD">BBC 1 Wales HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="2" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50530" xmltv_id="BBC 2 HD">BBC 2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="206" xmltv_id="BBC 2 Northern Ireland">BBC 2 Northern Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="633" xmltv_id="BBC 2 Northern Ireland (Digital)">BBC 2 Northern Ireland (Digital)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="205" xmltv_id="BBC 2 Scotland">BBC 2 Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="634" xmltv_id="BBC 2 Scotland (Digital)">BBC 2 Scotland (Digital)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="635" xmltv_id="BBC 2 Wales">BBC 2 Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50251" xmltv_id="BBC 2 London">BBC 2 London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50243" xmltv_id="BBC 2 North">BBC 2 North</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50242" xmltv_id="BBC 2 North West">BBC 2 North West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50244" xmltv_id="BBC 2 North East">BBC 2 North East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50245" xmltv_id="BBC 2 Midlands">BBC 2 Midlands</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50246" xmltv_id="BBC 2 West">BBC 2 West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50247" xmltv_id="BBC 2 East">BBC 2 East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50248" xmltv_id="BBC 2 South">BBC 2 South</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50249" xmltv_id="BBC 2 South West">BBC 2 South West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50250" xmltv_id="BBC 2 South East">BBC 2 South East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50" xmltv_id="itv Anglia">itv Anglia</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51182" xmltv_id="itv Anglia Plus 1">itv Anglia Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="54" xmltv_id="itv Border (English)">itv Border (English)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="637" xmltv_id="itv Border (Scottish)">itv Border (Scottish)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="52" xmltv_id="itv Central">itv Central</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51042" xmltv_id="itv Central Plus 1">itv Central Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50981" xmltv_id="itv Central HD">itv Central HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="56" xmltv_id="itv Granada">itv Granada</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51044" xmltv_id="itv Granada/Border Plus 1">itv Granada/Border Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50983" xmltv_id="itv Granada HD">itv Granada HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="3" xmltv_id="itv London">itv London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51040" xmltv_id="itv London Plus 1">itv London Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50865" xmltv_id="itv HD">itv HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="59" xmltv_id="itv Meridian">itv Meridian</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51043" xmltv_id="itv Meridian Plus 1">itv Meridian Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50555" xmltv_id="itv Thames Valley (North)">itv Thames Valley (North)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50993" xmltv_id="itv Thames Valley (North) HD">itv Thames Valley (North) HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50556" xmltv_id="itv Thames Valley (South)">itv Thames Valley (South)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50994" xmltv_id="itv Thames Valley (South) HD">itv Thames Valley (South) HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="61" xmltv_id="itv Tyne Tees">itv Tyne Tees</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51184" xmltv_id="itv Tyne Tees Plus 1">itv Tyne Tees Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="63" xmltv_id="itv West Country">itv West Country</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51183" xmltv_id="itv West Country Plus 1">itv West Country Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="57" xmltv_id="itv Wales">itv Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51045" xmltv_id="itv Wales Plus 1">itv Wales Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="78" xmltv_id="itv West">itv West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51185" xmltv_id="itv West Plus 1">itv West Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="64" xmltv_id="itv Yorkshire">itv Yorkshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51046" xmltv_id="itv Yorkshire Plus 1">itv Yorkshire Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="53" xmltv_id="itv Channel">itv Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="60" xmltv_id="STV">STV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51047" xmltv_id="STV Plus 1">STV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50974" xmltv_id="STV HD">STV HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="62" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51048" xmltv_id="UTV Plus 1">UTV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50986" xmltv_id="UTV HD">UTV HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="4" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50592" xmltv_id="Channel 4 Plus 1">Channel 4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50632" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="87" xmltv_id="S4C Digital">S4C Digital</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51072" xmltv_id="Channel 5 Plus 1">Channel 5 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50978" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51233" xmltv_id="Channel 5 +24">Channel 5 +24</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51234" xmltv_id="Channel 5 +24 (Freeview)">Channel 5 +24 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50543" xmltv_id="5USA">5USA</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50599" xmltv_id="5USA Plus 1">5USA Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50544" xmltv_id="5*">5*</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50600" xmltv_id="5* Plus 1">5* Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50636" xmltv_id="5* (Freeview)">5* (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="74" xmltv_id="BBC 3">BBC 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51226" xmltv_id="BBC 3 HD">BBC 3 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="88" xmltv_id="BBC 4">BBC 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="616" xmltv_id="BBC 4 (Freeview)">BBC 4 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51227" xmltv_id="BBC 4 HD">BBC 4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50749" xmltv_id="BBC Alba">BBC Alba</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51073" xmltv_id="BBC Interactive 301">BBC Interactive 301</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51113" xmltv_id="BBC Interactive 302">BBC Interactive 302</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51112" xmltv_id="BBC Interactive 303 HD">BBC Interactive 303 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51204" xmltv_id="BBC Red Button 1">BBC Red Button 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51205" xmltv_id="BBC Red Button 2">BBC Red Button 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51206" xmltv_id="BBC Red Button 3">BBC Red Button 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51207" xmltv_id="BBC Red Button HD">BBC Red Button HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="32" xmltv_id="itv2">itv2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50551" xmltv_id="itv2 Plus 1">itv2 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51041" xmltv_id="itv2 Plus 1 (Freeview)">itv2 Plus 1 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51024" xmltv_id="itv2 HD">itv2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50283" xmltv_id="itv3">itv3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50552" xmltv_id="itv3 Plus 1">itv3 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51232" xmltv_id="itv3 Plus 1 (Freeview)">itv3 Plus 1 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51037" xmltv_id="itv3 HD">itv3 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50470" xmltv_id="itv4">itv4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50869" xmltv_id="itv4 Plus 1">itv4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51038" xmltv_id="itv4 HD">itv4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="300" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51057" xmltv_id="RTÉ One Plus 1">RTÉ One Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="301" xmltv_id="RTÉ Two">RTÉ Two</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51101" xmltv_id="RTÉ Two HD">RTÉ Two HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="302" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="128" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50499" xmltv_id="3e">3e</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="65" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51176" xmltv_id="Sky1 Plus 1">Sky1 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50528" xmltv_id="Sky1 HD">Sky1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6156" xmltv_id="Sky2">Sky2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50468" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50997" xmltv_id="Pick Plus 1">Pick Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51023" xmltv_id="Sky 3D">Sky 3D</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51049" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51050" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51172" xmltv_id="Sky Atlantic Plus 1">Sky Atlantic Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="587" xmltv_id="E4">E4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50224" xmltv_id="E4 Plus 1">E4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50952" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50459" xmltv_id="more4">more4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50460" xmltv_id="more4 Plus 1">more4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51190" xmltv_id="more4 HD">more4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51107" xmltv_id="4Seven">4Seven</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="508" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50744" xmltv_id="Universal Channel Plus 1">Universal Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50973" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="35" xmltv_id="SyFy">SyFy</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50488" xmltv_id="SyFy Plus 1">SyFy Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50879" xmltv_id="SyFy HD">SyFy HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5910" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50352" xmltv_id="CBS Reality Plus 1">CBS Reality Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="83" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51006" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50457" xmltv_id="Comedy Central Plus 1">Comedy Central Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="588" xmltv_id="Comedy Central Analogue">Comedy Central Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50229" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50628" xmltv_id="Comedy Central Extra Plus 1">Comedy Central Extra Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51202" xmltv_id="True Drama">True Drama</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50606" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50542" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="19" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6033" xmltv_id="Sky Living Plus 1">Sky Living Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50948" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50350" xmltv_id="Sky LIVINGit">Sky LIVINGit</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50888" xmltv_id="Sky LIVINGit Plus 1">Sky LIVINGit Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50253" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50456" xmltv_id="FOX+">FOX+</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50650" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50934" xmltv_id="True Entertainment">True Entertainment</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50637" xmltv_id="Discovery DMAX">Discovery DMAX</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50638" xmltv_id="Discovery DMAX Plus 1">Discovery DMAX Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50907" xmltv_id="Quest">Quest</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50970" xmltv_id="Quest (Freeview)">Quest (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50951" xmltv_id="Quest Plus 1">Quest Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51052" xmltv_id="Showcase">Showcase</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51053" xmltv_id="Showcase 2">Showcase 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51200" xmltv_id="horror">horror</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50230" xmltv_id="E!">E!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51191" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50918" xmltv_id="BET">BET</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50920" xmltv_id="BET Plus 1">BET Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="568" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="84" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50966" xmltv_id="BBC Entertainment (Sweden)">BBC Entertainment (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51063" xmltv_id="BBC Entertainment (Poland)">BBC Entertainment (Poland)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51069" xmltv_id="BBC Entertainment (South Africa)">BBC Entertainment (South Africa)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51098" xmltv_id="BBC Entertainment (Nordic)">BBC Entertainment (Nordic)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50967" xmltv_id="BBC HD (Sweden)">BBC HD (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50996" xmltv_id="SAB TV">SAB TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="10" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50289" xmltv_id="Challenge Plus 1">Challenge Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="510" xmltv_id="Challenge Analogue">Challenge Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51208" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51215" xmltv_id="Drama (Freeview)">Drama (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="18" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="662" xmltv_id="GOLD Plus 1">GOLD Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50947" xmltv_id="GOLD (TopUpTV)">GOLD (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50799" xmltv_id="Watch">Watch</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51068" xmltv_id="Watch HD">Watch HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50800" xmltv_id="Watch Plus 1">Watch Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="26" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51108" xmltv_id="Alibi HD">Alibi HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50506" xmltv_id="Alibi Plus 1">Alibi Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="27" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51067" xmltv_id="Dave HD">Dave HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50284" xmltv_id="Dave Ja Vu">Dave Ja Vu</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51064" xmltv_id="Dave Ja Vu (Freeview)">Dave Ja Vu (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51076" xmltv_id="Starz TV">Starz TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51219" xmltv_id="Ginx">Ginx</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="533" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51036" xmltv_id="Lamhe">Lamhe</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50384" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="577" xmltv_id="ARY Digital">ARY Digital</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50961" xmltv_id="ARY QTV">ARY QTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="628" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51111" xmltv_id="Star Plus HD">Star Plus HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="528" xmltv_id="Phoenix CNE">Phoenix CNE</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50562" xmltv_id="Star Life OK">Star Life OK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51060" xmltv_id="Sony Entertainment TV">Sony Entertainment TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51061" xmltv_id="Sony Entertainment TV Plus 1">Sony Entertainment TV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="560" xmltv_id="Sony Entertainment TV Asia">Sony Entertainment TV Asia</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50565" xmltv_id="Sony MAX">Sony MAX</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50962" xmltv_id="AIT International">AIT International</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50964" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51011" xmltv_id="AAG">AAG</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51012" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51013" xmltv_id="Colors">Colors</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51231" xmltv_id="Rishtey">Rishtey</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51014" xmltv_id="GEO UK">GEO UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="90" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="41" xmltv_id="Sky Movies Premiere Analogue">Sky Movies Premiere Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="95" xmltv_id="Sky Movies Premiere Plus 1">Sky Movies Premiere Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50643" xmltv_id="Sky Movies Premiere HD">Sky Movies Premiere HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50575" xmltv_id="Sky Movies Showcase">Sky Movies Showcase</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50526" xmltv_id="Sky Movies Showcase HD">Sky Movies Showcase HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="98" xmltv_id="Sky Movies Oscars">Sky Movies Oscars</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50752" xmltv_id="Sky Movies Oscars HD">Sky Movies Oscars HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51192" xmltv_id="Sky Movies">Sky Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney&amp;dt=531037ee&amp;el=%20POST%3a&quot;&gt;Sky Movies" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35&amp;a=2&amp;" xmltv_id="Disney&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35Anda=2Andch=51193">Disney&lt;/a&gt;&lt;br&gt;&lt;span class="bold"&gt;&lt;/span&gt; &lt;a href="wbl.dll?h=35Anda=2Andch=51193</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51193" xmltv_id="Sky Movies">Sky Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney HD&amp;dt=531037ee&amp;el=%20POST%3a&quot;&gt;Sky Movies" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney HD&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35&amp;a=2&amp;" xmltv_id="Disney HD&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35Anda=2Andch=92">Disney HD&lt;/a&gt;&lt;br&gt;&lt;span class="bold"&gt;&lt;/span&gt; &lt;a href="wbl.dll?h=35Anda=2Andch=92</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="92" xmltv_id="Sky Movies Family">Sky Movies Family</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50755" xmltv_id="Sky Movies Family HD">Sky Movies Family HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="96" xmltv_id="Sky Movies Action and Adventure">Sky Movies Action and Adventure</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50751" xmltv_id="Sky Movies Action and Adventure HD">Sky Movies Action and Adventure HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="91" xmltv_id="Sky Movies Comedy">Sky Movies Comedy</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50754" xmltv_id="Sky Movies Comedy HD">Sky Movies Comedy HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50576" xmltv_id="Sky Movies Crime and Thriller">Sky Movies Crime and Thriller</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50527" xmltv_id="Sky Movies Crime and Thriller HD">Sky Movies Crime and Thriller HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="97" xmltv_id="Sky Movies Drama and Romance">Sky Movies Drama and Romance</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50753" xmltv_id="Sky Movies Drama and Romance HD">Sky Movies Drama and Romance HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="93" xmltv_id="Sky Movies Sci-Fi and Horror">Sky Movies Sci-Fi and Horror</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50756" xmltv_id="Sky Movies Sci-Fi and Horror HD">Sky Movies Sci-Fi and Horror HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50480" xmltv_id="Sky Movies Select">Sky Movies Select</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50950" xmltv_id="Sky Movies Select HD">Sky Movies Select HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="100" xmltv_id="Film4">Film4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="598" xmltv_id="Film4 Plus 1">Film4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50979" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="24" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51171" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50505" xmltv_id="TCM Plus 1">TCM Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50446" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50509" xmltv_id="True Movies 2">True Movies 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50535" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50595" xmltv_id="Movies 24 +">Movies 24 +</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50464" xmltv_id="Movies4Men">Movies4Men</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50641" xmltv_id="Movies4Men Plus 1">Movies4Men Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51026" xmltv_id="More Than Movies">More Than Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51100" xmltv_id="More Than Movies Plus 1">More Than Movies Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51189" xmltv_id="movie mix">movie mix</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50277" xmltv_id="horror channel">horror channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50660" xmltv_id="horror channel Plus 1">horror channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50383" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="562" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51103" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51104" xmltv_id="Sony Movie Channel Plus 1">Sony Movie Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50290" xmltv_id="Sky Movies Box Office 701">Sky Movies Box Office 701</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50291" xmltv_id="Sky Movies Box Office 702">Sky Movies Box Office 702</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50292" xmltv_id="Sky Movies Box Office 703">Sky Movies Box Office 703</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50293" xmltv_id="Sky Movies Box Office 704">Sky Movies Box Office 704</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50294" xmltv_id="Sky Movies Box Office 705">Sky Movies Box Office 705</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50295" xmltv_id="Sky Movies Box Office 706">Sky Movies Box Office 706</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50296" xmltv_id="Sky Movies Box Office 707">Sky Movies Box Office 707</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50297" xmltv_id="Sky Movies Box Office 708">Sky Movies Box Office 708</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50298" xmltv_id="Sky Movies Box Office 709">Sky Movies Box Office 709</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50299" xmltv_id="Sky Movies Box Office 710">Sky Movies Box Office 710</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50300" xmltv_id="Sky Movies Box Office 711">Sky Movies Box Office 711</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50301" xmltv_id="Sky Movies Box Office 712">Sky Movies Box Office 712</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50302" xmltv_id="Sky Movies Box Office 713">Sky Movies Box Office 713</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50303" xmltv_id="Sky Movies Box Office 714">Sky Movies Box Office 714</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50304" xmltv_id="Sky Movies Box Office 715">Sky Movies Box Office 715</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50305" xmltv_id="Sky Movies Box Office 716">Sky Movies Box Office 716</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50306" xmltv_id="Sky Movies Box Office 717">Sky Movies Box Office 717</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50307" xmltv_id="Sky Movies Box Office 718">Sky Movies Box Office 718</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50308" xmltv_id="Sky Movies Box Office 719">Sky Movies Box Office 719</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50309" xmltv_id="Sky Movies Box Office 720">Sky Movies Box Office 720</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50310" xmltv_id="Sky Movies Box Office 721">Sky Movies Box Office 721</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50311" xmltv_id="Sky Movies Box Office 722">Sky Movies Box Office 722</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50312" xmltv_id="Sky Movies Box Office 723">Sky Movies Box Office 723</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50313" xmltv_id="Sky Movies Box Office 724">Sky Movies Box Office 724</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50314" xmltv_id="Sky Movies Box Office 725">Sky Movies Box Office 725</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50315" xmltv_id="Sky Movies Box Office 726">Sky Movies Box Office 726</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50316" xmltv_id="Sky Movies Box Office 727">Sky Movies Box Office 727</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50317" xmltv_id="Sky Movies Box Office 728">Sky Movies Box Office 728</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50318" xmltv_id="Sky Movies Box Office 729">Sky Movies Box Office 729</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50319" xmltv_id="Sky Movies Box Office 730">Sky Movies Box Office 730</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50320" xmltv_id="Sky Movies Box Office 731">Sky Movies Box Office 731</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50332" xmltv_id="Sky Movies Box Office 744">Sky Movies Box Office 744</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50342" xmltv_id="Sky Movies Box Office 754">Sky Movies Box Office 754</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50343" xmltv_id="Sky Movies Box Office 755">Sky Movies Box Office 755</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50524" xmltv_id="Sky Movies Box Office HD">Sky Movies Box Office HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50381" xmltv_id="Sky Movies Box Office Events">Sky Movies Box Office Events</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50563" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="43" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="44" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="45" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="590" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50508" xmltv_id="Sky Sports HD 1">Sky Sports HD 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50537" xmltv_id="Sky Sports HD 2">Sky Sports HD 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50642" xmltv_id="Sky Sports HD 3">Sky Sports HD 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50971" xmltv_id="Sky Sports HD 4">Sky Sports HD 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51094" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51095" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="530" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50999" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="519" xmltv_id="British Eurosport">British Eurosport</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51163" xmltv_id="British Eurosport HD">British Eurosport HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="614" xmltv_id="British Eurosport2">British Eurosport2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51173" xmltv_id="British Eurosport2 HD">British Eurosport2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="68" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51162" xmltv_id="Eurosport 3D">Eurosport 3D</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50376" xmltv_id="Eurosport2">Eurosport2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51209" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51211" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51210" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51212" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50942" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50943" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51003" xmltv_id="ESPN (TopUpTV)">ESPN (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="630" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50569" xmltv_id="Sky Poker">Sky Poker</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="653" xmltv_id="At The Races">At The Races</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50937" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6351" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="122" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50286" xmltv_id="Chelsea TV">Chelsea TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50609" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50386" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50603" xmltv_id="Setanta Sports 1 Irish Version">Setanta Sports 1 Irish Version</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50949" xmltv_id="Primetime">Primetime</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51054" xmltv_id="Premier Sports">Premier Sports</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51021" xmltv_id="Smart Live Casino">Smart Live Casino</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="638" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51228" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="639" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51229" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51066" xmltv_id="CBeebies (Asia)">CBeebies (Asia)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50486" xmltv_id="Citv">Citv</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50539" xmltv_id="Citv (Freeview)">Citv (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51058" xmltv_id="RTÉ Junior">RTÉ Junior</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="7" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="608" xmltv_id="Cartoon Network Plus 1">Cartoon Network Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51078" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50503" xmltv_id="Cartoon Network Too">Cartoon Network Too</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="67" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="580" xmltv_id="Disney Plus 1">Disney Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51065" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="643" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50626" xmltv_id="Disney Junior +">Disney Junior +</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51201" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50945" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50946" xmltv_id="Disney XD Plus 1">Disney XD Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51032" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="110" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51022" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51174" xmltv_id="Nickelodeon Plus 1">Nickelodeon Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="109" xmltv_id="Nickelodeon Analogue">Nickelodeon Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="112" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="111" xmltv_id="Nick Junior Analogue">Nick Junior Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51170" xmltv_id="Nick Junior Plus 1">Nick Junior Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50507" xmltv_id="Nick Junior 2">Nick Junior 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="654" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="547" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51009" xmltv_id="Jazeera Children">Jazeera Children</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50487" xmltv_id="Boomerang Plus 1">Boomerang Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50574" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50398" xmltv_id="Pop">Pop</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50602" xmltv_id="Pop Girl">Pop Girl</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50702" xmltv_id="Pop Girl Plus 1">Pop Girl Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50653" xmltv_id="Kix!">Kix!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51218" xmltv_id="Kix! Plus 1">Kix! Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50399" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50594" xmltv_id="Tiny Pop Plus 1">Tiny Pop Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50579" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51222" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51225" xmltv_id="Lifetime Plus 1">Lifetime Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6264" xmltv_id="Community Channel">Community Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6314" xmltv_id="Community Channel (Freeview)">Community Channel (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="564" xmltv_id="Home and Health">Home and Health</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50448" xmltv_id="Home and Health Plus 1">Home and Health Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51195" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51197" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51196" xmltv_id="TLC Plus 1">TLC Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51223" xmltv_id="TLC Plus 2">TLC Plus 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="30" xmltv_id="Home">Home</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="644" xmltv_id="Home Plus 1">Home Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50272" xmltv_id="Home (TopUpTV)">Home (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50360" xmltv_id="Really">Really</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="629" xmltv_id="Good Food">Good Food</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51002" xmltv_id="Good Food HD">Good Food HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50254" xmltv_id="Good Food Plus 1">Good Food Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50953" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50954" xmltv_id="Food Network Plus 1">Food Network Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51062" xmltv_id="Food Network (Freeview)">Food Network (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="103" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50354" xmltv_id="Travel Channel Plus 1">Travel Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51214" xmltv_id="Travel Channel (Freeview)">Travel Channel (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50280" xmltv_id="Information TV">Information TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50591" xmltv_id="Horse and Country">Horse and Country</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50968" xmltv_id="BBC Lifestyle (Sweden)">BBC Lifestyle (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="632" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51216" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50894" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50395" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51039" xmltv_id="Ideal World (Freeview)">Ideal World (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50959" xmltv_id="Ideal Extra">Ideal Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50960" xmltv_id="Ideal And More">Ideal And More</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51070" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="28" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="603" xmltv_id="Eden Plus 1">Eden Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51025" xmltv_id="Eden HD">Eden HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5945" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50619" xmltv_id="Yesterday (Freeview)">Yesterday (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50263" xmltv_id="Yesterday Plus 1">Yesterday Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="12" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50518" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="31" xmltv_id="Discovery Plus 1">Discovery Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="513" xmltv_id="Discovery Analogue">Discovery Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="14" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50649" xmltv_id="Discovery Science Plus 1">Discovery Science Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50877" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51199" xmltv_id="Investigation Discovery Plus 1">Investigation Discovery Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="11" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50659" xmltv_id="Discovery History Plus 1">Discovery History Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="126" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="79" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="607" xmltv_id="National Geographic Channel Plus 1">National Geographic Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50519" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="516" xmltv_id="National Geographic Analogue">National Geographic Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="601" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50896" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="73" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51091" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="604" xmltv_id="Animal Planet Plus 1">Animal Planet Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="512" xmltv_id="Animal Planet Analogue">Animal Planet Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="72" xmltv_id="History">History</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50550" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="579" xmltv_id="History Plus 1">History Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="509" xmltv_id="History Analogue">History Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50701" xmltv_id="H2">H2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50536" xmltv_id="Crime And Investigation Network">Crime And Investigation Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50863" xmltv_id="Crime And Investigation Network HD">Crime And Investigation Network HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50893" xmltv_id="Crime And Investigation Network Plus 1">Crime And Investigation Network Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50969" xmltv_id="BBC Knowledge (Sweden)">BBC Knowledge (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51051" xmltv_id="BBC Knowledge (Asia)">BBC Knowledge (Asia)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="20" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51230" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="551" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="70" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50972" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="548" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="521" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="570" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50912" xmltv_id="FOX News">FOX News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="121" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51059" xmltv_id="RTÉ News Now">RTÉ News Now</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50504" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50887" xmltv_id="Russia Today (Freeview)">Russia Today (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50611" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="21" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50940" xmltv_id="Press TV">Press TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51093" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50610" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51000" xmltv_id="Al Jazeera English (Freeview)">Al Jazeera English (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51213" xmltv_id="Zee News">Zee News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50939" xmltv_id="ARY News">ARY News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51010" xmltv_id="GEO News">GEO News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50264" xmltv_id="Bloomberg TV (TopUpTV)">Bloomberg TV (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="583" xmltv_id="Sky Arts 1">Sky Arts 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50529" xmltv_id="Sky Arts 1 HD">Sky Arts 1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50798" xmltv_id="Sky Arts 2">Sky Arts 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50892" xmltv_id="Sky Arts 2 HD">Sky Arts 2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="115" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51097" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50640" xmltv_id="MTV Plus 1">MTV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50380" xmltv_id="MTV Ireland">MTV Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="118" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="117" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="119" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="597" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50629" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="120" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51175" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50870" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51005" xmltv_id="Vintage TV">Vintage TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="116" xmltv_id="VH1 UK">VH1 UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="541" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="606" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6262" xmltv_id="Smash Hits!">Smash Hits!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50372" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51180" xmltv_id="Capital TV">Capital TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51181" xmltv_id="Heart TV">Heart TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50373" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51109" xmltv_id="Heat">Heat</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50742" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6261" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50225" xmltv_id="Bliss">Bliss</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50226" xmltv_id="Chart Show Dance">Chart Show Dance</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50227" xmltv_id="Scuzz">Scuzz</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50358" xmltv_id="Chart Show TV">Chart Show TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50359" xmltv_id="The Vault">The Vault</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50357" xmltv_id="Flava">Flava</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51106" xmltv_id="BuzMuzik">BuzMuzik</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51092" xmltv_id="NOW Music TV">NOW Music TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51178" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51194" xmltv_id="Planet Pop">Planet Pop</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51074" xmltv_id="Channel AKA">Channel AKA</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50375" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50382" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="529" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51030" xmltv_id="QVC Beauty">QVC Beauty</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51235" xmltv_id="QVC Style">QVC Style</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51236" xmltv_id="QVC Extra">QVC Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50554" xmltv_id="The Jewellery Channel">The Jewellery Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51075" xmltv_id="The Jewellery Channel (Freeview)">The Jewellery Channel (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50958" xmltv_id="Create and Craft">Create and Craft</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50965" xmltv_id="Create and Craft (Freeview)">Create and Craft (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51220" xmltv_id="HighStreetTV">HighStreetTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="526" xmltv_id="God UK">God UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="535" xmltv_id="God UK Analogue">God UK Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50935" xmltv_id="Revelation TV">Revelation TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50938" xmltv_id="Daystar">Daystar</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51110" xmltv_id="UCB TV">UCB TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50584" xmltv_id="Magic 105.4">Magic 105.4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="502" xmltv_id="BBC Radio One">BBC Radio One</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="503" xmltv_id="BBC Radio Two">BBC Radio Two</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="504" xmltv_id="BBC Radio Three">BBC Radio Three</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="505" xmltv_id="BBC Radio 4">BBC Radio 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="646" xmltv_id="BBC Radio 4 Longwave">BBC Radio 4 Longwave</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="506" xmltv_id="BBC Radio Five Live">BBC Radio Five Live</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="640" xmltv_id="BBC Radio Five Live Sports Extra">BBC Radio Five Live Sports Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="666" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="645" xmltv_id="BBC 6 Music">BBC 6 Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5944" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="552" xmltv_id="BBC Radio Scotland">BBC Radio Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50367" xmltv_id="BBC Radio Scotland MW">BBC Radio Scotland MW</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="553" xmltv_id="BBC Radio Wales">BBC Radio Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50222" xmltv_id="BBC Radio Cymru">BBC Radio Cymru</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="554" xmltv_id="BBC Radio Ulster">BBC Radio Ulster</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50368" xmltv_id="BBC Radio Ulster MW">BBC Radio Ulster MW</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5946" xmltv_id="BBC Radio Asian Network">BBC Radio Asian Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50625" xmltv_id="BBC London 94.9 FM">BBC London 94.9 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50362" xmltv_id="BBC Radio Aberdeen">BBC Radio Aberdeen</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50363" xmltv_id="BBC Radio Foyle">BBC Radio Foyle</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50364" xmltv_id="BBC Radio Highland">BBC Radio Highland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50365" xmltv_id="BBC Radio Nan Gaidheal">BBC Radio Nan Gaidheal</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50366" xmltv_id="BBC Radio Orkney">BBC Radio Orkney</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50369" xmltv_id="BBC Radio Shetland">BBC Radio Shetland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50370" xmltv_id="BBC Radio Solway">BBC Radio Solway</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50371" xmltv_id="BBC Radio Tweed">BBC Radio Tweed</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="549" xmltv_id="BBC World Service Radio">BBC World Service Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6320" xmltv_id="RTÉ Radio 1 FM">RTÉ Radio 1 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6347" xmltv_id="RTÉ Radio 1 LW">RTÉ Radio 1 LW</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50476" xmltv_id="RTÉ Radio 1 Extra">RTÉ Radio 1 Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6348" xmltv_id="RTÉ 2fm">RTÉ 2fm</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6349" xmltv_id="RTÉ Lyric FM">RTÉ Lyric FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6352" xmltv_id="RTÉ Raidió na Gaeltachta">RTÉ Raidió na Gaeltachta</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50921" xmltv_id="RTÉ Choice">RTÉ Choice</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50923" xmltv_id="RTÉjr Radio">RTÉjr Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51028" xmltv_id="RTÉ Gold">RTÉ Gold</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50922" xmltv_id="RTÉ Pulse">RTÉ Pulse</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50924" xmltv_id="RTÉ 2XM">RTÉ 2XM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50898" xmltv_id="98 FM">98 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50899" xmltv_id="Citybeat 96.7 and 102.5 FM">Citybeat 96.7 and 102.5 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50900" xmltv_id="Cool FM">Cool FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50901" xmltv_id="Downtown Radio">Downtown Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50902" xmltv_id="East Coast FM">East Coast FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50903" xmltv_id="FM 104">FM 104</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50904" xmltv_id="Q102.9 FM">Q102.9 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50911" xmltv_id="Q102 Dublin">Q102 Dublin</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50905" xmltv_id="Spin 103.8">Spin 103.8</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="500" xmltv_id="Absolute">Absolute</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50278" xmltv_id="Absolute Classic Rock">Absolute Classic Rock</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50533" xmltv_id="Absolute 80s">Absolute 80s</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51031" xmltv_id="Absolute Radio 90s">Absolute Radio 90s</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="501" xmltv_id="Classic FM">Classic FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6263" xmltv_id="Kiss 100">Kiss 100</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="648" xmltv_id="XFM London">XFM London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50666" xmltv_id="XFM Manchester">XFM Manchester</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="581" xmltv_id="Jazz FM">Jazz FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50477" xmltv_id="Planet Rock">Planet Rock</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51221" xmltv_id="Capital XTRA">Capital XTRA</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50585" xmltv_id="Kerrang! Radio">Kerrang! Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50590" xmltv_id="Gaydar Radio">Gaydar Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50586" xmltv_id="The Hits! Radio">The Hits! Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50256" xmltv_id="Heart Digital">Heart Digital</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50727" xmltv_id="Heart - Colchester">Heart - Colchester</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50713" xmltv_id="Heart - Bristol">Heart - Bristol</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50914" xmltv_id="Heart - North Wales Coast">Heart - North Wales Coast</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50662" xmltv_id="Heart - Essex">Heart - Essex</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50722" xmltv_id="Heart - Torbay">Heart - Torbay</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50882" xmltv_id="Heart - Northamptonshire">Heart - Northamptonshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50883" xmltv_id="Heart - Bedford">Heart - Bedford</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50723" xmltv_id="Heart - Plymouth">Heart - Plymouth</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50661" xmltv_id="Heart - Exeter">Heart - Exeter</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50714" xmltv_id="Heart - Wiltshire">Heart - Wiltshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50255" xmltv_id="Heart - West Midlands">Heart - West Midlands</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50668" xmltv_id="Heart - Dorset">Heart - Dorset</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50726" xmltv_id="Heart - Gloucestershire">Heart - Gloucestershire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50730" xmltv_id="Heart - Sussex">Heart - Sussex</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50711" xmltv_id="Heart - Somerset">Heart - Somerset</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50664" xmltv_id="Heart - Oxfordshire">Heart - Oxfordshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50881" xmltv_id="Heart - Peterborough">Heart - Peterborough</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50913" xmltv_id="Heart - Kent">Heart - Kent</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50733" xmltv_id="Heart - Berkshire">Heart - Berkshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50712" xmltv_id="Heart - Bath">Heart - Bath</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50915" xmltv_id="Heart - Anglesey and Gwynedd">Heart - Anglesey and Gwynedd</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50669" xmltv_id="Heart - Cambridgeshire">Heart - Cambridgeshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50665" xmltv_id="Heart - Milton Keynes">Heart - Milton Keynes</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50880" xmltv_id="Heart - Norfolk">Heart - Norfolk</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="647" xmltv_id="Heart - London">Heart - London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50885" xmltv_id="Heart - Watford and Hemel">Heart - Watford and Hemel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50708" xmltv_id="Heart - Crawley and Surrey">Heart - Crawley and Surrey</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50731" xmltv_id="Heart - Harlow">Heart - Harlow</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51081" xmltv_id="Heart - Barnstaple">Heart - Barnstaple</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50699" xmltv_id="Heart - Wirral">Heart - Wirral</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51082" xmltv_id="Heart - Beds Bucks and Herts">Heart - Beds Bucks and Herts</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51083" xmltv_id="Heart - Wrexham and Cheshire">Heart - Wrexham and Cheshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51084" xmltv_id="Heart - South Coast">Heart - South Coast</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51085" xmltv_id="Heart - Suffolk">Heart - Suffolk</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51086" xmltv_id="Heart - South Hams">Heart - South Hams</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="507" xmltv_id="Capital London">Capital London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50258" xmltv_id="Capital Manchester">Capital Manchester</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50259" xmltv_id="Capital Birmingham">Capital Birmingham</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50260" xmltv_id="Capital Yorkshire South and West">Capital Yorkshire South and West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50261" xmltv_id="Capital Teesside">Capital Teesside</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50886" xmltv_id="Capital South Coast">Capital South Coast</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50725" xmltv_id="Capital Derbyshire">Capital Derbyshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50663" xmltv_id="Capital Leicestershire">Capital Leicestershire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50657" xmltv_id="Capital Scotland">Capital Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50732" xmltv_id="Capital Nottinghamshire">Capital Nottinghamshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50667" xmltv_id="Capital South Wales">Capital South Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50740" xmltv_id="Smooth Radio">Smooth Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50601" xmltv_id="Gold Radio">Gold Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51087" xmltv_id="Gold Central Lancashire">Gold Central Lancashire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51088" xmltv_id="Gold South Yorkshire">Gold South Yorkshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51090" xmltv_id="Gold West Wiltshire">Gold West Wiltshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51089" xmltv_id="Gold Teeside">Gold Teeside</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50262" xmltv_id="LBC">LBC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50282" xmltv_id="LBC News">LBC News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50741" xmltv_id="Today FM">Today FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50621" xmltv_id="Newstalk 106-108 FM">Newstalk 106-108 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50622" xmltv_id="102.5 Clyde 1">102.5 Clyde 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50623" xmltv_id="U105">U105</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="550" xmltv_id="talkSport">talkSport</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50587" xmltv_id="Chill">Chill</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50614" xmltv_id="Gay Network">Gay Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50615" xmltv_id="Chat Box">Chat Box</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="89" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51099" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="99" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="16" xmltv_id="Television X">Television X</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50465" xmltv_id="Television X (TopUpTV)">Television X (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="517" xmltv_id="Television X Analogue">Television X Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50872" xmltv_id="TVX Brits">TVX Brits</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50516" xmltv_id="Red Hot TV 18s">Red Hot TV 18s</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50580" xmltv_id="Private Spice">Private Spice</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50931" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51105" xmltv_id="Daring!TV">Daring!TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="1" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51035" xmltv_id="BBC 1 HD">BBC 1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50231" xmltv_id="BBC 1 London">BBC 1 London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50235" xmltv_id="BBC 1 North">BBC 1 North</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50238" xmltv_id="BBC 1 North West">BBC 1 North West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50237" xmltv_id="BBC 1 North East">BBC 1 North East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50232" xmltv_id="BBC 1 Midlands">BBC 1 Midlands</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50233" xmltv_id="BBC 1 West">BBC 1 West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50236" xmltv_id="BBC 1 East">BBC 1 East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50234" xmltv_id="BBC 1 South">BBC 1 South</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50239" xmltv_id="BBC 1 South West">BBC 1 South West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50240" xmltv_id="BBC 1 South East">BBC 1 South East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="202" xmltv_id="BBC 1 Scotland">BBC 1 Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51187" xmltv_id="BBC 1 Scotland HD">BBC 1 Scotland HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="203" xmltv_id="BBC 1 Northern Ireland">BBC 1 Northern Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51177" xmltv_id="BBC 1 Northern Ireland HD">BBC 1 Northern Ireland HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="201" xmltv_id="BBC 1 Wales">BBC 1 Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51188" xmltv_id="BBC 1 Wales HD">BBC 1 Wales HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="2" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50530" xmltv_id="BBC 2 HD">BBC 2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="206" xmltv_id="BBC 2 Northern Ireland">BBC 2 Northern Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="633" xmltv_id="BBC 2 Northern Ireland (Digital)">BBC 2 Northern Ireland (Digital)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="205" xmltv_id="BBC 2 Scotland">BBC 2 Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="634" xmltv_id="BBC 2 Scotland (Digital)">BBC 2 Scotland (Digital)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="635" xmltv_id="BBC 2 Wales">BBC 2 Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50251" xmltv_id="BBC 2 London">BBC 2 London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50243" xmltv_id="BBC 2 North">BBC 2 North</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50242" xmltv_id="BBC 2 North West">BBC 2 North West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50244" xmltv_id="BBC 2 North East">BBC 2 North East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50245" xmltv_id="BBC 2 Midlands">BBC 2 Midlands</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50246" xmltv_id="BBC 2 West">BBC 2 West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50247" xmltv_id="BBC 2 East">BBC 2 East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50248" xmltv_id="BBC 2 South">BBC 2 South</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50249" xmltv_id="BBC 2 South West">BBC 2 South West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50250" xmltv_id="BBC 2 South East">BBC 2 South East</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50" xmltv_id="itv Anglia">itv Anglia</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51182" xmltv_id="itv Anglia Plus 1">itv Anglia Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="54" xmltv_id="itv Border (English)">itv Border (English)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="637" xmltv_id="itv Border (Scottish)">itv Border (Scottish)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="52" xmltv_id="itv Central">itv Central</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51042" xmltv_id="itv Central Plus 1">itv Central Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50981" xmltv_id="itv Central HD">itv Central HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="56" xmltv_id="itv Granada">itv Granada</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51044" xmltv_id="itv Granada/Border Plus 1">itv Granada/Border Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50983" xmltv_id="itv Granada HD">itv Granada HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="3" xmltv_id="itv London">itv London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51040" xmltv_id="itv London Plus 1">itv London Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50865" xmltv_id="itv HD">itv HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="59" xmltv_id="itv Meridian">itv Meridian</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51043" xmltv_id="itv Meridian Plus 1">itv Meridian Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50555" xmltv_id="itv Thames Valley (North)">itv Thames Valley (North)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50993" xmltv_id="itv Thames Valley (North) HD">itv Thames Valley (North) HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50556" xmltv_id="itv Thames Valley (South)">itv Thames Valley (South)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50994" xmltv_id="itv Thames Valley (South) HD">itv Thames Valley (South) HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="61" xmltv_id="itv Tyne Tees">itv Tyne Tees</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51184" xmltv_id="itv Tyne Tees Plus 1">itv Tyne Tees Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="63" xmltv_id="itv West Country">itv West Country</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51183" xmltv_id="itv West Country Plus 1">itv West Country Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="57" xmltv_id="itv Wales">itv Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51045" xmltv_id="itv Wales Plus 1">itv Wales Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="78" xmltv_id="itv West">itv West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51185" xmltv_id="itv West Plus 1">itv West Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="64" xmltv_id="itv Yorkshire">itv Yorkshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51046" xmltv_id="itv Yorkshire Plus 1">itv Yorkshire Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="53" xmltv_id="itv Channel">itv Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="60" xmltv_id="STV">STV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51047" xmltv_id="STV Plus 1">STV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50974" xmltv_id="STV HD">STV HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="62" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51048" xmltv_id="UTV Plus 1">UTV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50986" xmltv_id="UTV HD">UTV HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="4" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50592" xmltv_id="Channel 4 Plus 1">Channel 4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50632" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="87" xmltv_id="S4C Digital">S4C Digital</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51072" xmltv_id="Channel 5 Plus 1">Channel 5 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50978" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51233" xmltv_id="Channel 5 +24">Channel 5 +24</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51234" xmltv_id="Channel 5 +24 (Freeview)">Channel 5 +24 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50543" xmltv_id="5USA">5USA</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50599" xmltv_id="5USA Plus 1">5USA Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50544" xmltv_id="5*">5*</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50600" xmltv_id="5* Plus 1">5* Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50636" xmltv_id="5* (Freeview)">5* (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="74" xmltv_id="BBC 3">BBC 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51226" xmltv_id="BBC 3 HD">BBC 3 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="88" xmltv_id="BBC 4">BBC 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="616" xmltv_id="BBC 4 (Freeview)">BBC 4 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51227" xmltv_id="BBC 4 HD">BBC 4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50749" xmltv_id="BBC Alba">BBC Alba</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51073" xmltv_id="BBC Interactive 301">BBC Interactive 301</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51113" xmltv_id="BBC Interactive 302">BBC Interactive 302</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51112" xmltv_id="BBC Interactive 303 HD">BBC Interactive 303 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51204" xmltv_id="BBC Red Button 1">BBC Red Button 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51205" xmltv_id="BBC Red Button 2">BBC Red Button 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51206" xmltv_id="BBC Red Button 3">BBC Red Button 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51207" xmltv_id="BBC Red Button HD">BBC Red Button HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="32" xmltv_id="itv2">itv2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50551" xmltv_id="itv2 Plus 1">itv2 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51041" xmltv_id="itv2 Plus 1 (Freeview)">itv2 Plus 1 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51024" xmltv_id="itv2 HD">itv2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50283" xmltv_id="itv3">itv3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50552" xmltv_id="itv3 Plus 1">itv3 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51232" xmltv_id="itv3 Plus 1 (Freeview)">itv3 Plus 1 (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51037" xmltv_id="itv3 HD">itv3 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50470" xmltv_id="itv4">itv4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50869" xmltv_id="itv4 Plus 1">itv4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51038" xmltv_id="itv4 HD">itv4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="300" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51057" xmltv_id="RTÉ One Plus 1">RTÉ One Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="301" xmltv_id="RTÉ Two">RTÉ Two</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51101" xmltv_id="RTÉ Two HD">RTÉ Two HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="302" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="128" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50499" xmltv_id="3e">3e</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="65" xmltv_id="Sky1">Sky1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51176" xmltv_id="Sky1 Plus 1">Sky1 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50528" xmltv_id="Sky1 HD">Sky1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6156" xmltv_id="Sky2">Sky2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50468" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50997" xmltv_id="Pick Plus 1">Pick Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51023" xmltv_id="Sky 3D">Sky 3D</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51049" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51050" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51172" xmltv_id="Sky Atlantic Plus 1">Sky Atlantic Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="587" xmltv_id="E4">E4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50224" xmltv_id="E4 Plus 1">E4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50952" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50459" xmltv_id="more4">more4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50460" xmltv_id="more4 Plus 1">more4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51190" xmltv_id="more4 HD">more4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51107" xmltv_id="4Seven">4Seven</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="508" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50744" xmltv_id="Universal Channel Plus 1">Universal Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50973" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="35" xmltv_id="SyFy">SyFy</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50488" xmltv_id="SyFy Plus 1">SyFy Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50879" xmltv_id="SyFy HD">SyFy HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5910" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50352" xmltv_id="CBS Reality Plus 1">CBS Reality Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="83" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51006" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50457" xmltv_id="Comedy Central Plus 1">Comedy Central Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="588" xmltv_id="Comedy Central Analogue">Comedy Central Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50229" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50628" xmltv_id="Comedy Central Extra Plus 1">Comedy Central Extra Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51202" xmltv_id="True Drama">True Drama</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50606" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50542" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="19" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6033" xmltv_id="Sky Living Plus 1">Sky Living Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50948" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50350" xmltv_id="Sky LIVINGit">Sky LIVINGit</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50888" xmltv_id="Sky LIVINGit Plus 1">Sky LIVINGit Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50253" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50456" xmltv_id="FOX+">FOX+</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50650" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50934" xmltv_id="True Entertainment">True Entertainment</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50637" xmltv_id="Discovery DMAX">Discovery DMAX</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50638" xmltv_id="Discovery DMAX Plus 1">Discovery DMAX Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50907" xmltv_id="Quest">Quest</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50970" xmltv_id="Quest (Freeview)">Quest (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50951" xmltv_id="Quest Plus 1">Quest Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51052" xmltv_id="Showcase">Showcase</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51053" xmltv_id="Showcase 2">Showcase 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51200" xmltv_id="horror">horror</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50230" xmltv_id="E!">E!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51191" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50918" xmltv_id="BET">BET</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50920" xmltv_id="BET Plus 1">BET Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="568" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="84" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50966" xmltv_id="BBC Entertainment (Sweden)">BBC Entertainment (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51063" xmltv_id="BBC Entertainment (Poland)">BBC Entertainment (Poland)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51069" xmltv_id="BBC Entertainment (South Africa)">BBC Entertainment (South Africa)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51098" xmltv_id="BBC Entertainment (Nordic)">BBC Entertainment (Nordic)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50967" xmltv_id="BBC HD (Sweden)">BBC HD (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50996" xmltv_id="SAB TV">SAB TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="10" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50289" xmltv_id="Challenge Plus 1">Challenge Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="510" xmltv_id="Challenge Analogue">Challenge Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51208" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51215" xmltv_id="Drama (Freeview)">Drama (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="18" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="662" xmltv_id="GOLD Plus 1">GOLD Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50947" xmltv_id="GOLD (TopUpTV)">GOLD (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50799" xmltv_id="Watch">Watch</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51068" xmltv_id="Watch HD">Watch HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50800" xmltv_id="Watch Plus 1">Watch Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="26" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51108" xmltv_id="Alibi HD">Alibi HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50506" xmltv_id="Alibi Plus 1">Alibi Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="27" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51067" xmltv_id="Dave HD">Dave HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50284" xmltv_id="Dave Ja Vu">Dave Ja Vu</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51064" xmltv_id="Dave Ja Vu (Freeview)">Dave Ja Vu (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51076" xmltv_id="Starz TV">Starz TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51219" xmltv_id="Ginx">Ginx</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="533" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51036" xmltv_id="Lamhe">Lamhe</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50384" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="577" xmltv_id="ARY Digital">ARY Digital</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50961" xmltv_id="ARY QTV">ARY QTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="628" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51111" xmltv_id="Star Plus HD">Star Plus HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="528" xmltv_id="Phoenix CNE">Phoenix CNE</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50562" xmltv_id="Star Life OK">Star Life OK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51060" xmltv_id="Sony Entertainment TV">Sony Entertainment TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51061" xmltv_id="Sony Entertainment TV Plus 1">Sony Entertainment TV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="560" xmltv_id="Sony Entertainment TV Asia">Sony Entertainment TV Asia</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50565" xmltv_id="Sony MAX">Sony MAX</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50962" xmltv_id="AIT International">AIT International</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50964" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51011" xmltv_id="AAG">AAG</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51012" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51013" xmltv_id="Colors">Colors</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51231" xmltv_id="Rishtey">Rishtey</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51014" xmltv_id="GEO UK">GEO UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="90" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="41" xmltv_id="Sky Movies Premiere Analogue">Sky Movies Premiere Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="95" xmltv_id="Sky Movies Premiere Plus 1">Sky Movies Premiere Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50643" xmltv_id="Sky Movies Premiere HD">Sky Movies Premiere HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50575" xmltv_id="Sky Movies Showcase">Sky Movies Showcase</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50526" xmltv_id="Sky Movies Showcase HD">Sky Movies Showcase HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="98" xmltv_id="Sky Movies Oscars">Sky Movies Oscars</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50752" xmltv_id="Sky Movies Oscars HD">Sky Movies Oscars HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51192" xmltv_id="Sky Movies">Sky Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney&amp;dt=531037ee&amp;el=%20POST%3a&quot;&gt;Sky Movies" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35&amp;a=2&amp;" xmltv_id="Disney&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35Anda=2Andch=51193">Disney&lt;/a&gt;&lt;br&gt;&lt;span class="bold"&gt;&lt;/span&gt; &lt;a href="wbl.dll?h=35Anda=2Andch=51193</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51193" xmltv_id="Sky Movies">Sky Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney HD&amp;dt=531037ee&amp;el=%20POST%3a&quot;&gt;Sky Movies" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="Disney HD&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35&amp;a=2&amp;" xmltv_id="Disney HD&lt;/a&gt;&lt;br&gt;&lt;span class=&quot;bold&quot;&gt;&lt;/span&gt; &lt;a href=&quot;wbl.dll?h=35Anda=2Andch=92">Disney HD&lt;/a&gt;&lt;br&gt;&lt;span class="bold"&gt;&lt;/span&gt; &lt;a href="wbl.dll?h=35Anda=2Andch=92</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="92" xmltv_id="Sky Movies Family">Sky Movies Family</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50755" xmltv_id="Sky Movies Family HD">Sky Movies Family HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="96" xmltv_id="Sky Movies Action and Adventure">Sky Movies Action and Adventure</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50751" xmltv_id="Sky Movies Action and Adventure HD">Sky Movies Action and Adventure HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="91" xmltv_id="Sky Movies Comedy">Sky Movies Comedy</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50754" xmltv_id="Sky Movies Comedy HD">Sky Movies Comedy HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50576" xmltv_id="Sky Movies Crime and Thriller">Sky Movies Crime and Thriller</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50527" xmltv_id="Sky Movies Crime and Thriller HD">Sky Movies Crime and Thriller HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="97" xmltv_id="Sky Movies Drama and Romance">Sky Movies Drama and Romance</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50753" xmltv_id="Sky Movies Drama and Romance HD">Sky Movies Drama and Romance HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="93" xmltv_id="Sky Movies Sci-Fi and Horror">Sky Movies Sci-Fi and Horror</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50756" xmltv_id="Sky Movies Sci-Fi and Horror HD">Sky Movies Sci-Fi and Horror HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50480" xmltv_id="Sky Movies Select">Sky Movies Select</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50950" xmltv_id="Sky Movies Select HD">Sky Movies Select HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="100" xmltv_id="Film4">Film4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="598" xmltv_id="Film4 Plus 1">Film4 Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50979" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="24" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51171" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50505" xmltv_id="TCM Plus 1">TCM Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50446" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50509" xmltv_id="True Movies 2">True Movies 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50535" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50595" xmltv_id="Movies 24 +">Movies 24 +</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50464" xmltv_id="Movies4Men">Movies4Men</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50641" xmltv_id="Movies4Men Plus 1">Movies4Men Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51026" xmltv_id="More Than Movies">More Than Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51100" xmltv_id="More Than Movies Plus 1">More Than Movies Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51189" xmltv_id="movie mix">movie mix</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50277" xmltv_id="horror channel">horror channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50660" xmltv_id="horror channel Plus 1">horror channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50383" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="562" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51103" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51104" xmltv_id="Sony Movie Channel Plus 1">Sony Movie Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50290" xmltv_id="Sky Movies Box Office 701">Sky Movies Box Office 701</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50291" xmltv_id="Sky Movies Box Office 702">Sky Movies Box Office 702</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50292" xmltv_id="Sky Movies Box Office 703">Sky Movies Box Office 703</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50293" xmltv_id="Sky Movies Box Office 704">Sky Movies Box Office 704</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50294" xmltv_id="Sky Movies Box Office 705">Sky Movies Box Office 705</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50295" xmltv_id="Sky Movies Box Office 706">Sky Movies Box Office 706</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50296" xmltv_id="Sky Movies Box Office 707">Sky Movies Box Office 707</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50297" xmltv_id="Sky Movies Box Office 708">Sky Movies Box Office 708</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50298" xmltv_id="Sky Movies Box Office 709">Sky Movies Box Office 709</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50299" xmltv_id="Sky Movies Box Office 710">Sky Movies Box Office 710</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50300" xmltv_id="Sky Movies Box Office 711">Sky Movies Box Office 711</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50301" xmltv_id="Sky Movies Box Office 712">Sky Movies Box Office 712</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50302" xmltv_id="Sky Movies Box Office 713">Sky Movies Box Office 713</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50303" xmltv_id="Sky Movies Box Office 714">Sky Movies Box Office 714</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50304" xmltv_id="Sky Movies Box Office 715">Sky Movies Box Office 715</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50305" xmltv_id="Sky Movies Box Office 716">Sky Movies Box Office 716</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50306" xmltv_id="Sky Movies Box Office 717">Sky Movies Box Office 717</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50307" xmltv_id="Sky Movies Box Office 718">Sky Movies Box Office 718</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50308" xmltv_id="Sky Movies Box Office 719">Sky Movies Box Office 719</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50309" xmltv_id="Sky Movies Box Office 720">Sky Movies Box Office 720</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50310" xmltv_id="Sky Movies Box Office 721">Sky Movies Box Office 721</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50311" xmltv_id="Sky Movies Box Office 722">Sky Movies Box Office 722</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50312" xmltv_id="Sky Movies Box Office 723">Sky Movies Box Office 723</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50313" xmltv_id="Sky Movies Box Office 724">Sky Movies Box Office 724</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50314" xmltv_id="Sky Movies Box Office 725">Sky Movies Box Office 725</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50315" xmltv_id="Sky Movies Box Office 726">Sky Movies Box Office 726</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50316" xmltv_id="Sky Movies Box Office 727">Sky Movies Box Office 727</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50317" xmltv_id="Sky Movies Box Office 728">Sky Movies Box Office 728</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50318" xmltv_id="Sky Movies Box Office 729">Sky Movies Box Office 729</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50319" xmltv_id="Sky Movies Box Office 730">Sky Movies Box Office 730</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50320" xmltv_id="Sky Movies Box Office 731">Sky Movies Box Office 731</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50332" xmltv_id="Sky Movies Box Office 744">Sky Movies Box Office 744</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50342" xmltv_id="Sky Movies Box Office 754">Sky Movies Box Office 754</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50343" xmltv_id="Sky Movies Box Office 755">Sky Movies Box Office 755</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50524" xmltv_id="Sky Movies Box Office HD">Sky Movies Box Office HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50381" xmltv_id="Sky Movies Box Office Events">Sky Movies Box Office Events</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50563" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="43" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="44" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="45" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="590" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50508" xmltv_id="Sky Sports HD 1">Sky Sports HD 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50537" xmltv_id="Sky Sports HD 2">Sky Sports HD 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50642" xmltv_id="Sky Sports HD 3">Sky Sports HD 3</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50971" xmltv_id="Sky Sports HD 4">Sky Sports HD 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51094" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51095" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="530" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50999" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="519" xmltv_id="British Eurosport">British Eurosport</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51163" xmltv_id="British Eurosport HD">British Eurosport HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="614" xmltv_id="British Eurosport2">British Eurosport2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51173" xmltv_id="British Eurosport2 HD">British Eurosport2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="68" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51162" xmltv_id="Eurosport 3D">Eurosport 3D</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50376" xmltv_id="Eurosport2">Eurosport2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51209" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51211" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51210" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51212" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50942" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50943" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51003" xmltv_id="ESPN (TopUpTV)">ESPN (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="630" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50569" xmltv_id="Sky Poker">Sky Poker</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="653" xmltv_id="At The Races">At The Races</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50937" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6351" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="122" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50286" xmltv_id="Chelsea TV">Chelsea TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50609" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50386" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50603" xmltv_id="Setanta Sports 1 Irish Version">Setanta Sports 1 Irish Version</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50949" xmltv_id="Primetime">Primetime</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51054" xmltv_id="Premier Sports">Premier Sports</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51021" xmltv_id="Smart Live Casino">Smart Live Casino</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="638" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51228" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="639" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51229" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51066" xmltv_id="CBeebies (Asia)">CBeebies (Asia)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50486" xmltv_id="Citv">Citv</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50539" xmltv_id="Citv (Freeview)">Citv (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51058" xmltv_id="RTÉ Junior">RTÉ Junior</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="7" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="608" xmltv_id="Cartoon Network Plus 1">Cartoon Network Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51078" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50503" xmltv_id="Cartoon Network Too">Cartoon Network Too</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="67" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="580" xmltv_id="Disney Plus 1">Disney Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51065" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="643" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50626" xmltv_id="Disney Junior +">Disney Junior +</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51201" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50945" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50946" xmltv_id="Disney XD Plus 1">Disney XD Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51032" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="110" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51022" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51174" xmltv_id="Nickelodeon Plus 1">Nickelodeon Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="109" xmltv_id="Nickelodeon Analogue">Nickelodeon Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="112" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="111" xmltv_id="Nick Junior Analogue">Nick Junior Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51170" xmltv_id="Nick Junior Plus 1">Nick Junior Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50507" xmltv_id="Nick Junior 2">Nick Junior 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="654" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="547" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51009" xmltv_id="Jazeera Children">Jazeera Children</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50487" xmltv_id="Boomerang Plus 1">Boomerang Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50574" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50398" xmltv_id="Pop">Pop</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50602" xmltv_id="Pop Girl">Pop Girl</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50702" xmltv_id="Pop Girl Plus 1">Pop Girl Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50653" xmltv_id="Kix!">Kix!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51218" xmltv_id="Kix! Plus 1">Kix! Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50399" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50594" xmltv_id="Tiny Pop Plus 1">Tiny Pop Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50579" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51222" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51225" xmltv_id="Lifetime Plus 1">Lifetime Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6264" xmltv_id="Community Channel">Community Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6314" xmltv_id="Community Channel (Freeview)">Community Channel (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="564" xmltv_id="Home and Health">Home and Health</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50448" xmltv_id="Home and Health Plus 1">Home and Health Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51195" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51197" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51196" xmltv_id="TLC Plus 1">TLC Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51223" xmltv_id="TLC Plus 2">TLC Plus 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="30" xmltv_id="Home">Home</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="644" xmltv_id="Home Plus 1">Home Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50272" xmltv_id="Home (TopUpTV)">Home (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50360" xmltv_id="Really">Really</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="629" xmltv_id="Good Food">Good Food</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51002" xmltv_id="Good Food HD">Good Food HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50254" xmltv_id="Good Food Plus 1">Good Food Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50953" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50954" xmltv_id="Food Network Plus 1">Food Network Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51062" xmltv_id="Food Network (Freeview)">Food Network (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="103" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50354" xmltv_id="Travel Channel Plus 1">Travel Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51214" xmltv_id="Travel Channel (Freeview)">Travel Channel (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50280" xmltv_id="Information TV">Information TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50591" xmltv_id="Horse and Country">Horse and Country</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50968" xmltv_id="BBC Lifestyle (Sweden)">BBC Lifestyle (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="632" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51216" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50894" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50395" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51039" xmltv_id="Ideal World (Freeview)">Ideal World (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50959" xmltv_id="Ideal Extra">Ideal Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50960" xmltv_id="Ideal And More">Ideal And More</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51070" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="28" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="603" xmltv_id="Eden Plus 1">Eden Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51025" xmltv_id="Eden HD">Eden HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5945" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50619" xmltv_id="Yesterday (Freeview)">Yesterday (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50263" xmltv_id="Yesterday Plus 1">Yesterday Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="12" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50518" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="31" xmltv_id="Discovery Plus 1">Discovery Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="513" xmltv_id="Discovery Analogue">Discovery Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="14" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50649" xmltv_id="Discovery Science Plus 1">Discovery Science Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50877" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51199" xmltv_id="Investigation Discovery Plus 1">Investigation Discovery Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="11" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50659" xmltv_id="Discovery History Plus 1">Discovery History Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="126" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="79" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="607" xmltv_id="National Geographic Channel Plus 1">National Geographic Channel Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50519" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="516" xmltv_id="National Geographic Analogue">National Geographic Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="601" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50896" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="73" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51091" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="604" xmltv_id="Animal Planet Plus 1">Animal Planet Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="512" xmltv_id="Animal Planet Analogue">Animal Planet Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="72" xmltv_id="History">History</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50550" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="579" xmltv_id="History Plus 1">History Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="509" xmltv_id="History Analogue">History Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50701" xmltv_id="H2">H2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50536" xmltv_id="Crime And Investigation Network">Crime And Investigation Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50863" xmltv_id="Crime And Investigation Network HD">Crime And Investigation Network HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50893" xmltv_id="Crime And Investigation Network Plus 1">Crime And Investigation Network Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50969" xmltv_id="BBC Knowledge (Sweden)">BBC Knowledge (Sweden)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51051" xmltv_id="BBC Knowledge (Asia)">BBC Knowledge (Asia)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="20" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51230" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="551" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="70" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50972" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="548" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="521" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="570" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50912" xmltv_id="FOX News">FOX News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="121" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51059" xmltv_id="RTÉ News Now">RTÉ News Now</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50504" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50887" xmltv_id="Russia Today (Freeview)">Russia Today (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50611" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="21" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50940" xmltv_id="Press TV">Press TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51093" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50610" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51000" xmltv_id="Al Jazeera English (Freeview)">Al Jazeera English (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51213" xmltv_id="Zee News">Zee News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50939" xmltv_id="ARY News">ARY News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51010" xmltv_id="GEO News">GEO News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50264" xmltv_id="Bloomberg TV (TopUpTV)">Bloomberg TV (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="583" xmltv_id="Sky Arts 1">Sky Arts 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50529" xmltv_id="Sky Arts 1 HD">Sky Arts 1 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50798" xmltv_id="Sky Arts 2">Sky Arts 2</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50892" xmltv_id="Sky Arts 2 HD">Sky Arts 2 HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="115" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51097" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50640" xmltv_id="MTV Plus 1">MTV Plus 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50380" xmltv_id="MTV Ireland">MTV Ireland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="118" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="117" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="119" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="597" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50629" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="120" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51175" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50870" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51005" xmltv_id="Vintage TV">Vintage TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="116" xmltv_id="VH1 UK">VH1 UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="541" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="606" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6262" xmltv_id="Smash Hits!">Smash Hits!</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50372" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51180" xmltv_id="Capital TV">Capital TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51181" xmltv_id="Heart TV">Heart TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50373" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51109" xmltv_id="Heat">Heat</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50742" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6261" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50225" xmltv_id="Bliss">Bliss</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50226" xmltv_id="Chart Show Dance">Chart Show Dance</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50227" xmltv_id="Scuzz">Scuzz</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50358" xmltv_id="Chart Show TV">Chart Show TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50359" xmltv_id="The Vault">The Vault</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50357" xmltv_id="Flava">Flava</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51106" xmltv_id="BuzMuzik">BuzMuzik</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51092" xmltv_id="NOW Music TV">NOW Music TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51178" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51194" xmltv_id="Planet Pop">Planet Pop</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51074" xmltv_id="Channel AKA">Channel AKA</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50375" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50382" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="529" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51030" xmltv_id="QVC Beauty">QVC Beauty</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51235" xmltv_id="QVC Style">QVC Style</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51236" xmltv_id="QVC Extra">QVC Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50554" xmltv_id="The Jewellery Channel">The Jewellery Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51075" xmltv_id="The Jewellery Channel (Freeview)">The Jewellery Channel (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50958" xmltv_id="Create and Craft">Create and Craft</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50965" xmltv_id="Create and Craft (Freeview)">Create and Craft (Freeview)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51220" xmltv_id="HighStreetTV">HighStreetTV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="526" xmltv_id="God UK">God UK</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="535" xmltv_id="God UK Analogue">God UK Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50935" xmltv_id="Revelation TV">Revelation TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50938" xmltv_id="Daystar">Daystar</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51110" xmltv_id="UCB TV">UCB TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50584" xmltv_id="Magic 105.4">Magic 105.4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="502" xmltv_id="BBC Radio One">BBC Radio One</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="503" xmltv_id="BBC Radio Two">BBC Radio Two</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="504" xmltv_id="BBC Radio Three">BBC Radio Three</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="505" xmltv_id="BBC Radio 4">BBC Radio 4</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="646" xmltv_id="BBC Radio 4 Longwave">BBC Radio 4 Longwave</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="506" xmltv_id="BBC Radio Five Live">BBC Radio Five Live</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="640" xmltv_id="BBC Radio Five Live Sports Extra">BBC Radio Five Live Sports Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="666" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="645" xmltv_id="BBC 6 Music">BBC 6 Music</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5944" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="552" xmltv_id="BBC Radio Scotland">BBC Radio Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50367" xmltv_id="BBC Radio Scotland MW">BBC Radio Scotland MW</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="553" xmltv_id="BBC Radio Wales">BBC Radio Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50222" xmltv_id="BBC Radio Cymru">BBC Radio Cymru</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="554" xmltv_id="BBC Radio Ulster">BBC Radio Ulster</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50368" xmltv_id="BBC Radio Ulster MW">BBC Radio Ulster MW</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="5946" xmltv_id="BBC Radio Asian Network">BBC Radio Asian Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50625" xmltv_id="BBC London 94.9 FM">BBC London 94.9 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50362" xmltv_id="BBC Radio Aberdeen">BBC Radio Aberdeen</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50363" xmltv_id="BBC Radio Foyle">BBC Radio Foyle</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50364" xmltv_id="BBC Radio Highland">BBC Radio Highland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50365" xmltv_id="BBC Radio Nan Gaidheal">BBC Radio Nan Gaidheal</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50366" xmltv_id="BBC Radio Orkney">BBC Radio Orkney</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50369" xmltv_id="BBC Radio Shetland">BBC Radio Shetland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50370" xmltv_id="BBC Radio Solway">BBC Radio Solway</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50371" xmltv_id="BBC Radio Tweed">BBC Radio Tweed</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="549" xmltv_id="BBC World Service Radio">BBC World Service Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6320" xmltv_id="RTÉ Radio 1 FM">RTÉ Radio 1 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6347" xmltv_id="RTÉ Radio 1 LW">RTÉ Radio 1 LW</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50476" xmltv_id="RTÉ Radio 1 Extra">RTÉ Radio 1 Extra</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6348" xmltv_id="RTÉ 2fm">RTÉ 2fm</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6349" xmltv_id="RTÉ Lyric FM">RTÉ Lyric FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6352" xmltv_id="RTÉ Raidió na Gaeltachta">RTÉ Raidió na Gaeltachta</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50921" xmltv_id="RTÉ Choice">RTÉ Choice</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50923" xmltv_id="RTÉjr Radio">RTÉjr Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51028" xmltv_id="RTÉ Gold">RTÉ Gold</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50922" xmltv_id="RTÉ Pulse">RTÉ Pulse</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50924" xmltv_id="RTÉ 2XM">RTÉ 2XM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50898" xmltv_id="98 FM">98 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50899" xmltv_id="Citybeat 96.7 and 102.5 FM">Citybeat 96.7 and 102.5 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50900" xmltv_id="Cool FM">Cool FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50901" xmltv_id="Downtown Radio">Downtown Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50902" xmltv_id="East Coast FM">East Coast FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50903" xmltv_id="FM 104">FM 104</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50904" xmltv_id="Q102.9 FM">Q102.9 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50911" xmltv_id="Q102 Dublin">Q102 Dublin</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50905" xmltv_id="Spin 103.8">Spin 103.8</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="500" xmltv_id="Absolute">Absolute</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50278" xmltv_id="Absolute Classic Rock">Absolute Classic Rock</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50533" xmltv_id="Absolute 80s">Absolute 80s</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51031" xmltv_id="Absolute Radio 90s">Absolute Radio 90s</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="501" xmltv_id="Classic FM">Classic FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="6263" xmltv_id="Kiss 100">Kiss 100</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="648" xmltv_id="XFM London">XFM London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50666" xmltv_id="XFM Manchester">XFM Manchester</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="581" xmltv_id="Jazz FM">Jazz FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50477" xmltv_id="Planet Rock">Planet Rock</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51221" xmltv_id="Capital XTRA">Capital XTRA</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50585" xmltv_id="Kerrang! Radio">Kerrang! Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50590" xmltv_id="Gaydar Radio">Gaydar Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50586" xmltv_id="The Hits! Radio">The Hits! Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50256" xmltv_id="Heart Digital">Heart Digital</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50727" xmltv_id="Heart - Colchester">Heart - Colchester</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50713" xmltv_id="Heart - Bristol">Heart - Bristol</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50914" xmltv_id="Heart - North Wales Coast">Heart - North Wales Coast</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50662" xmltv_id="Heart - Essex">Heart - Essex</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50722" xmltv_id="Heart - Torbay">Heart - Torbay</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50882" xmltv_id="Heart - Northamptonshire">Heart - Northamptonshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50883" xmltv_id="Heart - Bedford">Heart - Bedford</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50723" xmltv_id="Heart - Plymouth">Heart - Plymouth</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50661" xmltv_id="Heart - Exeter">Heart - Exeter</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50714" xmltv_id="Heart - Wiltshire">Heart - Wiltshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50255" xmltv_id="Heart - West Midlands">Heart - West Midlands</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50668" xmltv_id="Heart - Dorset">Heart - Dorset</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50726" xmltv_id="Heart - Gloucestershire">Heart - Gloucestershire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50730" xmltv_id="Heart - Sussex">Heart - Sussex</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50711" xmltv_id="Heart - Somerset">Heart - Somerset</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50664" xmltv_id="Heart - Oxfordshire">Heart - Oxfordshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50881" xmltv_id="Heart - Peterborough">Heart - Peterborough</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50913" xmltv_id="Heart - Kent">Heart - Kent</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50733" xmltv_id="Heart - Berkshire">Heart - Berkshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50712" xmltv_id="Heart - Bath">Heart - Bath</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50915" xmltv_id="Heart - Anglesey and Gwynedd">Heart - Anglesey and Gwynedd</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50669" xmltv_id="Heart - Cambridgeshire">Heart - Cambridgeshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50665" xmltv_id="Heart - Milton Keynes">Heart - Milton Keynes</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50880" xmltv_id="Heart - Norfolk">Heart - Norfolk</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="647" xmltv_id="Heart - London">Heart - London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50885" xmltv_id="Heart - Watford and Hemel">Heart - Watford and Hemel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50708" xmltv_id="Heart - Crawley and Surrey">Heart - Crawley and Surrey</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50731" xmltv_id="Heart - Harlow">Heart - Harlow</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51081" xmltv_id="Heart - Barnstaple">Heart - Barnstaple</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50699" xmltv_id="Heart - Wirral">Heart - Wirral</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51082" xmltv_id="Heart - Beds Bucks and Herts">Heart - Beds Bucks and Herts</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51083" xmltv_id="Heart - Wrexham and Cheshire">Heart - Wrexham and Cheshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51084" xmltv_id="Heart - South Coast">Heart - South Coast</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51085" xmltv_id="Heart - Suffolk">Heart - Suffolk</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51086" xmltv_id="Heart - South Hams">Heart - South Hams</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="507" xmltv_id="Capital London">Capital London</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50258" xmltv_id="Capital Manchester">Capital Manchester</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50259" xmltv_id="Capital Birmingham">Capital Birmingham</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50260" xmltv_id="Capital Yorkshire South and West">Capital Yorkshire South and West</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50261" xmltv_id="Capital Teesside">Capital Teesside</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50886" xmltv_id="Capital South Coast">Capital South Coast</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50725" xmltv_id="Capital Derbyshire">Capital Derbyshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50663" xmltv_id="Capital Leicestershire">Capital Leicestershire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50657" xmltv_id="Capital Scotland">Capital Scotland</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50732" xmltv_id="Capital Nottinghamshire">Capital Nottinghamshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50667" xmltv_id="Capital South Wales">Capital South Wales</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50740" xmltv_id="Smooth Radio">Smooth Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50601" xmltv_id="Gold Radio">Gold Radio</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51087" xmltv_id="Gold Central Lancashire">Gold Central Lancashire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51088" xmltv_id="Gold South Yorkshire">Gold South Yorkshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51090" xmltv_id="Gold West Wiltshire">Gold West Wiltshire</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51089" xmltv_id="Gold Teeside">Gold Teeside</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50262" xmltv_id="LBC">LBC</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50282" xmltv_id="LBC News">LBC News</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50741" xmltv_id="Today FM">Today FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50621" xmltv_id="Newstalk 106-108 FM">Newstalk 106-108 FM</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50622" xmltv_id="102.5 Clyde 1">102.5 Clyde 1</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50623" xmltv_id="U105">U105</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="550" xmltv_id="talkSport">talkSport</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50587" xmltv_id="Chill">Chill</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50614" xmltv_id="Gay Network">Gay Network</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50615" xmltv_id="Chat Box">Chat Box</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="89" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51099" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="99" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="16" xmltv_id="Television X">Television X</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50465" xmltv_id="Television X (TopUpTV)">Television X (TopUpTV)</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="517" xmltv_id="Television X Analogue">Television X Analogue</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50872" xmltv_id="TVX Brits">TVX Brits</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50516" xmltv_id="Red Hot TV 18s">Red Hot TV 18s</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50580" xmltv_id="Private Spice">Private Spice</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="50931" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="mydigiguide.com.simple" site_id="51105" xmltv_id="Daring!TV">Daring!TV</channel>
+  </channels>
+</site>
