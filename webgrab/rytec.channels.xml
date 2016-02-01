@@ -17,7 +17,7 @@
 <channel id="BigBrother.il">1:0:1:193:4:AB:DE80000:0:0:0:</channel> <!--  PT38 -->
 <channel id="BiographyChannel.il">1:0:1:262:6:AB:DE80000:0:0:0:</channel> <!-- PT10 -->
 <channel id="Bloomberg.il">1:0:1:451:B:AB:DE80000:0:0:0:</channel> <!-- TV59 -->
-<channel id="Carousel.il">1:0:1:519:D:AB:DE80000:0:0:0:</channel> <!-- PT61 -->
+<channel id="Carusel.il">1:0:1:519:D:AB:DE80000:0:0:0:</channel> <!-- PT61 -->
 <channel id="CBSDrama.il">1:0:1:452:B:AB:DE80000:0:0:0:</channel> <!-- PT71 -->
 <channel id="CBSReality.il">1:0:1:453:B:AB:DE80000:0:0:0:</channel> <!-- TV87 -->
 <channel id="CCTVNews.il">1:0:1:520:D:AB:DE80000:0:0:0:</channel> <!-- PT06 -->
@@ -89,7 +89,7 @@
 <channel id="Junior.il">1:0:1:57F:E:AB:DE80000:0:0:0:</channel> <!-- TA05-->
 <channel id="Kabala.il">1:0:1:26A:6:AB:DE80000:0:0:0:</channel> <!-- PT33 -->
 <channel id="Kabala.il">1:0:1:58E:E:AB:DE80000:0:0:0:</channel> <!-- PT33 -->
-<channel id="Children'sChannel">1:0:1:329:8:AB:DE80000:0:0:0:</channel> <!-- TVR6 -->
+<channel id="Children'sChannel.il">1:0:1:329:8:AB:DE80000:0:0:0:</channel> <!-- TVR6 -->
 <channel id="Lifestyle.il">1:0:1:45E:B:AB:DE80000:0:0:0:</channel> <!-- TV09 -->
 <channel id="Logi.il">1:0:1:265:6:AB:DE80000:0:0:0:</channel> <!-- PT24 -->
 <channel id="MEDIASET.il">1:0:1:4B4:C:AB:DE80000:0:0:0:</channel> <!-- TV43 -->
@@ -201,7 +201,7 @@
 <channel id="Bloomberg.il">1:0:1:15D:20:DE:FFFF0000:0:0:0:</channel> <!--  Bloomberg Israel (HOT) ++CABLE++ -->
 <channel id="Bloomberg.il">1:0:1:98:8:DE:FFFF0000:0:0:0:</channel> <!--  Bloomberg (HOT) ++CABLE++ -->
 <channel id="CANAL24HORAS.sp">1:0:1:39A:22:DE:FFFF0000:0:0:0:</channel> <!--  CANAL 24 HORAS (HOT) ++CABLE++ -->
-<channel id="Carousel.il">1:0:1:109:F:DE:FFFF0000:0:0:0:</channel> <!--  shopping channel (HOT) ++CABLE++ -->
+<channel id="Carusel.il">1:0:1:109:F:DE:FFFF0000:0:0:0:</channel> <!--  shopping channel (HOT) ++CABLE++ -->
 <channel id="CBSDrama.il">1:0:1:2C4:1F:1:FFFF0000:0:0:0:</channel> <!--  CBS DRAMA (HOT) ++CABLE++ -->
 <channel id="CBSDrama.il">1:0:1:95:8:DE:FFFF0000:0:0:0:</channel> <!--  CBS DRAMA RU  (HOT) ++CABLE++ -->
 <channel id="CBSReality.il">1:0:1:11E:10:DE:FFFF0000:0:0:0:</channel> <!--  CBS REALITY (HOT) ++CABLE++ -->
@@ -323,14 +323,14 @@
 <channel id="i24News.fr.nws">1:0:1:161:20:DE:FFFF0000:0:0:0:</channel> <!--  I24 News French (HOT) ++CABLE++ -->
 <channel id="IBAChannel1.il">1:0:1:1:1000:2000:FFFF0000:0:0:0:</channel> <!-- IBA:FFFF0000:1++CABLE++ -->
 <channel id="ietv.il">1:0:1:9A:8:DE:FFFF0000:0:0:0:</channel> <!--  IETV (HOT) ++CABLE++ -->
-<channel id="inter+.ru">1:0:1:54:5:DE:FFFF0000:0:0:0:</channel> <!--  INTER + (HOT) ++CABLE++ -->
+<channel id="Inter+.ru">1:0:1:54:5:DE:FFFF0000:0:0:0:</channel> <!--  INTER + (HOT) ++CABLE++ -->
 <channel id="JimJam.il">1:0:1:156:20:DE:FFFF0000:0:0:0:</channel> <!--  JIM JAM (HOT) ++CABLE++ -->
 <channel id="JimJam.il">1:0:1:158:20:DE:FFFF0000:0:0:0:</channel> <!--  JIMJAM (HOT) ++CABLE++ -->
 <channel id="Jordan1.il">1:0:1:8D:8:DE:FFFF0000:0:0:0:</channel> <!--  Jordan 1 (HOT) ++CABLE++ -->
 <channel id="Junior.il">1:0:1:145:12:DE:FFFF0000:0:0:0:</channel> <!--  Channel Junior (HOT) ++CABLE++ -->
 <channel id="Kabala.il">1:0:1:99:8:DE:FFFF0000:0:0:0:</channel> <!--  kabbalah channel (HOT) ++CABLE++ -->
 <channel id="Kazakh.il">1:0:1:120:10:DE:FFFF0000:0:0:0:</channel> <!--  Kazakh (HOT) ++CABLE++ -->
-<channel id="Children'sChannel">1:0:1:B8:B:DE:FFFF0000:0:0:0:</channel> <!--  CHILDREN'S CHANNEL (HOT) ++CABLE++ -->
+<channel id="Children'sChannel.il">1:0:1:B8:B:DE:FFFF0000:0:0:0:</channel> <!--  CHILDREN'S CHANNEL (HOT) ++CABLE++ -->
 <channel id="KralTV.tu">1:0:1:39E:22:DE:FFFF0000:0:0:0:</channel> <!--  KRALTV (HOT) ++CABLE++ -->
 <channel id="lbc.il">1:0:1:92:8:DE:FFFF0000:0:0:0:</channel> <!--  LBC (HOT) ++CABLE++ -->
 <channel id="Lifetime.il">1:0:1:43:4:DE:FFFF0000:0:0:0:</channel> <!--  Lifetime (HOT) ++CABLE++ -->
@@ -479,7 +479,7 @@
 <channel id="HotZone.il">1:0:19:44D:11:1:FFFF0262:0:0:0:</channel> <!--  HOT Zone HD (HOT) ++CABLE++ -->
 <channel id="i24News.en.nws">1:0:1:37F:20:1:FFFF0252:0:0:0:</channel> <!--  I24 news (HOT) ++CABLE++ -->
 <channel id="i24News.fr.nws">1:0:1:381:20:1:FFFF0252:0:0:0:</channel> <!--  I24 News French (HOT) ++CABLE++ -->
-<channel id="inter+.ru">1:0:1:17FD:8:1:FFFF0242:0:0:0:</channel> <!--  INTER + (HOT) ++CABLE++ -->
+<channel id="Inter+.ru">1:0:1:17FD:8:1:FFFF0242:0:0:0:</channel> <!--  INTER + (HOT) ++CABLE++ -->
 <channel id="JimJam.il">1:0:1:F6D:20:1:FFFF0252:0:0:0:</channel> <!--  JIM JAM (HOT) ++CABLE++ -->
 <channel id="JimJam.il">1:0:1:F73:20:1:FFFF0252:0:0:0:</channel> <!--  JIMJAM (HOT) ++CABLE++ -->
 <channel id="KralTV.tu">1:0:1:333:22:1:FFFF024A:0:0:0:</channel> <!--  KRALTV (HOT) ++CABLE++ -->

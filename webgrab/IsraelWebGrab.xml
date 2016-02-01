@@ -221,7 +221,6 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="yes.co.il" site_id="I002" xmltv_id="yesNews.il">yes News</channel>
 <channel update="i" site="yes.co.il" site_id="PT46" xmltv_id="HopChildhood.il">HOP! Childhood</channel>
 <channel update="i" site="yes.co.il" site_id="TV09" xmltv_id="Lifestyle.il">Style</channel>
-<channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCI.il">TVCI</channel>
 <channel update="i" site="yes.co.il" site_id="TV49" xmltv_id="TVE.il">TVE</channel>
 <channel update="i" site="yes.co.il" site_id="TV12" xmltv_id="CNN.il">CNN</channel>
 
@@ -283,6 +282,8 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="hot.net.il" site_id="546" xmltv_id="TRT1.il">TRT1</channel> Turkish 
 <channel update="i" site="hot.net.il" site_id="714" xmltv_id="1+1.il">1+1</channel> different then 1+1 international 
 <channel update="i" site="yes.co.il" site_id="TV47" xmltv_id="Arte.il">ARTE</channel> French
+<channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCi.il">TVCi</channel>
+
 -->
 
 <!-- Useless repeated EPG data. Save as a place holder. 
