@@ -17,7 +17,7 @@
 <channel id="BigBrother.il">1:0:1:193:4:AB:DE80000:0:0:0:</channel> <!--  PT38 -->
 <channel id="BiographyChannel.il">1:0:1:262:6:AB:DE80000:0:0:0:</channel> <!-- PT10 -->
 <channel id="Bloomberg.il">1:0:1:451:B:AB:DE80000:0:0:0:</channel> <!-- TV59 -->
-<channel id="Carusel.il">1:0:1:519:D:AB:DE80000:0:0:0:</channel> <!-- PT61 -->
+<channel id="Carusel.ru">1:0:1:519:D:AB:DE80000:0:0:0:</channel> <!-- PT61 -->
 <channel id="CBSDrama.il">1:0:1:452:B:AB:DE80000:0:0:0:</channel> <!-- PT71 -->
 <channel id="CBSReality.il">1:0:1:453:B:AB:DE80000:0:0:0:</channel> <!-- TV87 -->
 <channel id="CCTVNews.il">1:0:1:520:D:AB:DE80000:0:0:0:</channel> <!-- PT06 -->
@@ -198,10 +198,9 @@
 <channel id="BFMSD.il">1:0:1:B9:B:DE:FFFF0000:0:0:0:</channel> <!--  BFM SD (HOT) ++CABLE++ -->
 <channel id="BigBrother.il">1:0:1:F2:A:DE:FFFF0000:0:0:0:</channel> <!--  Big Brother LIVE (HOT) ++CABLE++ -->
 <channel id="BigBrother.il">1:0:1:FA:A:DE:FFFF0000:0:0:0:</channel> <!--   HOT's Hazy summer (Big Brother LIVE) (HOT) ++CABLE++ -->
-<channel id="Bloomberg.il">1:0:1:15D:20:DE:FFFF0000:0:0:0:</channel> <!--  Bloomberg Israel (HOT) ++CABLE++ -->
 <channel id="Bloomberg.il">1:0:1:98:8:DE:FFFF0000:0:0:0:</channel> <!--  Bloomberg (HOT) ++CABLE++ -->
 <channel id="CANAL24HORAS.sp">1:0:1:39A:22:DE:FFFF0000:0:0:0:</channel> <!--  CANAL 24 HORAS (HOT) ++CABLE++ -->
-<channel id="Carusel.il">1:0:1:109:F:DE:FFFF0000:0:0:0:</channel> <!--  shopping channel (HOT) ++CABLE++ -->
+<channel id="Carusel.ru">1:0:1:109:F:DE:FFFF0000:0:0:0:</channel> <!--  shopping channel (HOT) ++CABLE++ -->
 <channel id="CBSDrama.il">1:0:1:2C4:1F:1:FFFF0000:0:0:0:</channel> <!--  CBS DRAMA (HOT) ++CABLE++ -->
 <channel id="CBSDrama.il">1:0:1:95:8:DE:FFFF0000:0:0:0:</channel> <!--  CBS DRAMA RU  (HOT) ++CABLE++ -->
 <channel id="CBSReality.il">1:0:1:11E:10:DE:FFFF0000:0:0:0:</channel> <!--  CBS REALITY (HOT) ++CABLE++ -->
@@ -261,7 +260,7 @@
 <channel id="France2.fr">1:0:19:CD:D:DE:FFFF0000:0:0:0:</channel> <!--  France 2 HD (HOT) ++CABLE++ -->
 <channel id="France2.fr">1:0:1:110:F:DE:FFFF0000:0:0:0:</channel> <!--  France 2 (HD on 647) (HOT) ++CABLE++ -->
 <channel id="France24fr.fr">1:0:1:136:1F:1:FFFF0000:0:0:0:</channel> <!--  FRANCE 24 (HOT) ++CABLE++ -->
-<channel id="FRANCE24.il">1:0:1:2C3:1F:1:FFFF0000:0:0:0: </channel> <!-- France 24 in Arabic  ++CABLE++ -->
+<channel id="France24.ar">1:0:1:2C3:1F:1:FFFF0000:0:0:0: </channel> <!-- France 24 in Arabic  ++CABLE++ -->
 <channel id="France24.il">1:0:1:A:1:DE:FFFF0000:0:0:0:</channel> <!--  FRANCE 24 in English ++CABLE++ -->
 <channel id="France3.fr">1:0:1:13A:1F:1:FFFF0000:0:0:0:</channel> <!--  France 3 (HOT) ++CABLE++ -->
 <channel id="France3.fr">1:0:1:13A:1F:1:FFFF0000:0:0:0:</channel> <!--  France3 (HOT) ++CABLE++ -->
@@ -311,7 +310,7 @@
 <channel id="HotPrime.il">1:0:1:14C:12:DE:FFFF0000:0:0:0:</channel> <!--  HOT Prime (HOT) ++CABLE++ -->
 <channel id="HOTVodHD.il">1:0:1:325:7:DE:FFFF0000:0:0:0:</channel> <!--  HOT Vod HD (HOT) ++CABLE++ -->
 <channel id="HOTVodRussian.il">1:0:1:25B:7:DE:FFFF0000:0:0:0:</channel> <!--  HOT Vod Russian (HOT) ++CABLE++ -->
-<channel id="HOTVodYoung.il">1:0:1:70:6:DE:FFFF0000:0:0:0:</channel> <!--  HOT Vod Young (HOT) ++CABLE++ -->
+<channel id="HOTVodYoung.il">1:0:1:6A:6:DE:FFFF0000:0:0:0:</channel> <!--  HOT Vod Young (HOT) ++CABLE++ -->
 <channel id="HotZone.il">1:0:19:130:C:DE:FFFF0000:0:0:0:</channel> <!--  HOT Zone HD (HOT) ++CABLE++ -->
 <channel id="HotZone.il">1:0:1:14D:12:DE:FFFF0000:0:0:0:</channel> <!--  HOT ZONE (HOT) ++CABLE++ -->
 <channel id="Hustler.il">1:0:1:142D:9:DE:FFFF0000:0:0:0:</channel> <!--  Blue Hustler *6900 (HOT) ++CABLE++ -->
@@ -395,7 +394,6 @@
 <channel id="SAT3.il">1:0:1:48:4:DE:FFFF0000:0:0:0:</channel> <!--  SAT3 (HOT) ++CABLE++ -->
 <channel id="Saudi.il">1:0:1:47:4:DE:FFFF0000:0:0:0:</channel> <!--  Saudi (HOT) ++CABLE++ -->
 <channel id="ShansonTV.il">1:0:1:B:1:DE:FFFF0000:0:0:0:</channel> <!-- Music 24 (HOT) ++CABLE++ -->
-<channel id="Shoppingchannel.il">1:0:1:109:F:DE:FFFF0000:0:0:0:</channel> <!--  shopping channel (HOT) ++CABLE++ -->
 <channel id="Shoppingchannel.il">1:0:1:3:1:DE:FFFF0000:0:0:0:</channel> <!--  shopping channel (HOT) ++CABLE++ -->
 <channel id="SkyNews.il">1:0:1:91:8:DE:FFFF0000:0:0:0:</channel> <!--  Sky News (HOT) ++CABLE++ -->
 <channel id="SonLife.uk">1:0:1:399:22:DE:FFFF0000:0:0:0:</channel> <!--  Sonlife (HOT) ++CABLE++ -->
@@ -541,7 +539,7 @@
 <channel id="KolHaCampus.il">1:0:2:1EA:10:DE:FFFF0000:0:0:0:</channel> <!--  106FM רדיו קול הקמפוס(HOT) ++CABLE RADIO++ -->
 <channel id="KolRegaRadio.il"> 1:0:2:1EC:10:DE:FFFF0000:0:0:0:</channel> <!--  96FM רדיו קול רגע(HOT) ++CABLE RADIO++ -->
 <channel id="KolIsraelInArabic.il">1:0:2:1ED:10:DE:FFFF0000:0:0:0:</channel> <!--  90.3FM קול ישראל בערבית(HOT) ++CABLE RADIO++ -->
-<channel id="RadioHamesh.il">1:0:2:1EC:10:DE:FFFF0000:0:0:0:</channel> <!--  99.5FM רדיו חמש(HOT) ++CABLE RADIO++ -->
+<channel id="RadioHamesh.il">1:0:2:1EF:10:DE:FFFF0000:0:0:0:</channel> <!--  99.5FM רדיו חמש(HOT) ++CABLE RADIO++ -->
 <channel id="KolBarama.il">1:0:2:1F0:10:DE:FFFF0000:0:0:0:</channel> <!--   92.1FM קול ברמה (HOT) ++CABLE RADIO++ -->
 <channel id="TzafonLeloHafsaka.il">1:0:2:1F1:10:DE:FFFF0000:0:0:0:</channel> <!--   104.5FM צפון ללא הפסקה (HOT) ++CABLE RADIO++ -->
 <channel id="EolRadio.il">1:0:2:1F2:10:DE:FFFF0000:0:0:0:</channel> <!--   Eol RADIO (HOT) ++CABLE RADIO++ -->

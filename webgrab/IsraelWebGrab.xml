@@ -139,7 +139,7 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="yes.co.il" site_id="PT71" xmltv_id="CBSDrama.il">CBS Drama</channel>
 
 <!-- Foreign Languages HOT -->
-<channel update="i" site="yes.co.il" site_id="TV46" xmltv_id="3sat.il">SAT3</channel>  <!-- German -->
+<channel update="i" site="yes.co.il" site_id="TV46" xmltv_id="SAT3.il">SAT3</channel>  <!-- German -->
 <channel update="i" site="yes.co.il" site_id="TV44" xmltv_id="RTL.il">RTL</channel> <!-- German -->
 <channel update="i" site="yes.co.il" site_id="TV45" xmltv_id="SAT1.il">SAT1</channel> <!-- German -->
 <channel update="i" site="yes.co.il" site_id="TV57" xmltv_id="proTV.il">protv</channel>  <!-- Italian -->
@@ -185,7 +185,7 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="tvprograma.lt" site_id="telecafe/314" xmltv_id="Telecafe.ru">Telecafe</channel>
 <channel update="i" site="tvprograma.lt" site_id="karusel-international/248" xmltv_id="Carusel.ru">Karusel International</channel>
 <channel update="i" site="tvprograma.lt" site_id="tv-vremia/250" xmltv_id="Vremya.ru">TV vremia</channel>
-<channel update="i" site="tvprograma.lt" site_id="fine-living-network/237" xmltv_id="FineLiving.eu">Fine living network</channel>
+<channel update="i" site="yo.tv" site_id="COUNTRY:pr,CHANNEL_ID:25119" xmltv_id="FineLiving.eu">Fine Living Network</channel>
 <channel update="i" site="vsetv.com" site_id="3" xmltv_id="1+1.ru">1+1</channel>
 <channel update="i" site="yes.co.il" site_id="TV81" xmltv_id="ChannelOneRussia.il">Channel One Russia</channel>
 <channel update="i" site="yes.co.il" site_id="TV65" xmltv_id="RussianMusicBox.il">MusicBox</channel>
@@ -264,7 +264,6 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="hot.net.il" site_id="715" xmltv_id="TNT.il">Comedy TV</channel>
 <channel update="i" site="hot.net.il" site_id="720" xmltv_id="RussianTravelGuide.il">Russian Travel Guide</channel>
 <channel update="i" site="hot.net.il" site_id="512" xmltv_id="inter+.il">inter+</channel>
-<channel update="i" site="yo.tv" site_id="COUNTRY:pr,CHANNEL_ID:25119" xmltv_id="FineLiving.eu">Fine Living Network</channel>
 <channel update="i" site="yes.co.il" site_id="PT36" xmltv_id="DomKINO.il">DOM KINO</channel>
 <channel update="i" site="yes.co.il" site_id="TV60" xmltv_id="NtvMir.il">NTV MIR</channel>
 <channel update="i" site="yes.co.il" site_id="TV85" xmltv_id="NasheKino.il">nashe kino</channel>
@@ -283,7 +282,6 @@ added mode w, proxy, channel attribute site_channel
 <channel update="i" site="hot.net.il" site_id="714" xmltv_id="1+1.il">1+1</channel> different then 1+1 international 
 <channel update="i" site="yes.co.il" site_id="TV47" xmltv_id="Arte.il">ARTE</channel> French
 <channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCi.il">TVCi</channel>
-
 -->
 
 <!-- Useless repeated EPG data. Save as a place holder. 
