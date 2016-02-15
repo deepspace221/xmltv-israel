@@ -404,7 +404,6 @@
 <channel id="Sport5.il">1:0:1:BE:B:DE:FFFF0000:0:0:0:</channel> <!-- 5 SPORT++CABLE++ -->
 <channel id="Sport5HD.il">1:0:19:39B:22:DE:FFFF0000:0:0:0:</channel> <!-- 5 SPORT HD++CABLE++ -->
 <channel id="Sport5HD.il">1:0:1:C4:B:DE:FFFF0000:0:0:0:</channel> <!--  Sport 5I (HOT) ++CABLE++ -->
-<channel id="Sport5Plus.il">1:0:19:DE:E:DE:FFFF0000:0:0:0:</channel> <!--  5 SPORT HD (HOT) ++CABLE++ -->
 <channel id="Sport5Plus.il">1:0:1:BE:B:DE:FFFF0000:0:0:0:</channel> <!--  5 SPORT (HOT) ++CABLE++ -->
 <channel id="Sport5Plus.il">1:0:1:BF:B:DE:FFFF0000:0:0:0:</channel> <!--  5 PLUS (HOT) ++CABLE++ -->
 <channel id="SportTrace.il">1:0:1:160:20:DE:FFFF0000:0:0:0:</channel> <!--  SPORT TRACE (HOT) ++CABLE++ -->
